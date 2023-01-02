@@ -1,8 +1,4 @@
-Why Scripture and Tradition?
+[Why Scripture and Tradition?](https://youtu.be/xHxAU3FqQQ8)
 
-https://youtu.be/xHxAU3FqQQ8
-
-How do we trust in Church authority?
-
-https://youtu.be/qiZPB2jCOYM
+[How do we trust in Church authority?](https://youtu.be/qiZPB2jCOYM)
 
