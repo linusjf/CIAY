@@ -2,7 +2,7 @@
 
 * [CIAY 2023 Members](#ciay-2023-members)
     * [Videos](#videos)
-    * [Guidelines For Sharing:](#guidelines-for-sharing)
+    * [Guidelines For Sharing](#guidelines-for-sharing)
 
 <!-- vim-markdown-toc -->
 # CIAY 2023 Members
@@ -18,14 +18,16 @@
 
 
 ---
+
 ### Videos
 
 [Why Scripture and Tradition?](https://youtu.be/xHxAU3FqQQ8)
 
 [How do we trust in Church authority?](https://youtu.be/qiZPB2jCOYM)
 
+---
 
-### Guidelines For Sharing: 
+### Guidelines For Sharing 
 
 After listening to the days episode please share your reflections, thoughts and comments(it's optional to share). When you share please mention the Day example Day 314.
 Avoid forwards or prayer requests or Hi's and Hello's - all content should be related to CIAY. 
