@@ -1,9 +1,8 @@
-
 <!-- vim-markdown-toc GFM -->
 
 * [CIAY 2023 Members](#ciay-2023-members)
-    * [Guidelines For Sharing:](#guidelines-for-sharing)
     * [Videos](#videos)
+    * [Guidelines For Sharing:](#guidelines-for-sharing)
 
 <!-- vim-markdown-toc -->
 # CIAY 2023 Members
@@ -13,11 +12,18 @@
 2. In order to prepare for this journey - please watch the below videos and print out the reading plan if you like to, it helps to track progress.
 
 3. Fr Mike Schmitz is not part of the group and will not be joining as well, we only share the content from his programs.  
+  
   I am Michael Eltham, the moderator of the group - I'm not Fr Mike - even though we have the same name. 
   Please contact me directly for any suggestions or questions. 
 
 
 ---
+### Videos
+
+[Why Scripture and Tradition?](https://youtu.be/xHxAU3FqQQ8)
+
+[How do we trust in Church authority?](https://youtu.be/qiZPB2jCOYM)
+
 
 ### Guidelines For Sharing: 
 
@@ -28,10 +34,4 @@ Feel free to post even if it's a simple post like "I felt comforted when I heard
 Finally let not one day pass without us praying for all the members of this WhatsApp group.
 
 Thanks for reading. 
-
-### Videos
-
-[Why Scripture and Tradition?](https://youtu.be/xHxAU3FqQQ8)
-
-[How do we trust in Church authority?](https://youtu.be/qiZPB2jCOYM)
 
