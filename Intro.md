@@ -1,4 +1,11 @@
 
+<!-- vim-markdown-toc GFM -->
+
+* [CIAY 2023 Members](#ciay-2023-members)
+    * [Sharing:](#sharing)
+    * [Videos](#videos)
+
+<!-- vim-markdown-toc -->
 # CIAY 2023 Members
 
 1. The countdown is ON - its less than 24 hours to CIAY 2023. Yeah!! So excited. :)
