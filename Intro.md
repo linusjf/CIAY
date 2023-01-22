@@ -5,6 +5,7 @@
     * [Guidelines For Sharing](#guidelines-for-sharing)
   * [Reflection content](#reflection-content)
   * [-----](#-----)
+    * [Intercession group](#intercession-group)
 
 <!-- vim-markdown-toc -->
 # CIAY 2023 Members
@@ -46,3 +47,6 @@ Reflection content
 - John Smith (Your Name)
 
 ######################
+
+### Intercession group
+[Intercession group](https://chat.whatsapp.com/HLiWLGdeDz9DCgHFbH5qwc)
