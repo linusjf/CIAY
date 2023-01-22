@@ -50,3 +50,4 @@ Reflection content
 
 ### Intercession group
 [Intercession group](https://chat.whatsapp.com/HLiWLGdeDz9DCgHFbH5qwc)
+For those who need prayer, please join the above group. We are praying for intentions daily and the Lord has been blessing people.
