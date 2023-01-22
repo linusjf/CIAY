@@ -3,6 +3,8 @@
 * [CIAY 2023 Members](#ciay-2023-members)
     * [Videos](#videos)
     * [Guidelines For Sharing](#guidelines-for-sharing)
+  * [Reflection content](#reflection-content)
+  * [-----](#-----)
 
 <!-- vim-markdown-toc -->
 # CIAY 2023 Members
@@ -29,12 +31,18 @@
 
 ### Guidelines For Sharing 
 
-After listening to the days episode please share your reflections, thoughts and comments(it's optional to share). When you share please mention the Day example Day 314.
-Avoid forwards or prayer requests or Hi's and Hello's - all content should be related to CIAY. 
-The sharing that members post is their personal reflections and may or may not be accurate - it is to build each one up and to encourage the group.
-Feel free to post even if it's a simple post like "I felt comforted when I heard the word today" or "I am so confused about today's reading" any honest comment or reflections are welcome.  
-Messages are to be posted only to Fr. Michael Eltham, not to the group at large.
-Finally let not one day pass without us praying for all the members of this WhatsApp group.
+######################
 
-Thanks for reading. 
+After listening to the days episode please share your reflections, thoughts and comments.
+Send the reflection to the Admin, I will randomly pick a few reflections to share with the group.  
 
+Please use this format: 
+
+CIAY Day #
+Reflection content 
+-----
+-----
+
+- John Smith (Your Name)
+
+######################
