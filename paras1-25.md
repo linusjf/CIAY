@@ -33,7 +33,17 @@ And they held steadfastly to the apostles' teaching and fellowship, to the break
 
 8. CT 18.
 
+* Catechesis as a Stage in Evangelization
+
+    Catechesis cannot be dissociated from the Church's pastoral and missionary activity as a whole. Nevertheless it has a specific character which was repeatedly the object of inquiry during the preparatory work and throughout the course of the fourth general assembly of the synod of Bishops. The question also interests the public both within and outside the Church.
+    This is not the place for giving a rigorous formal definition of catechesis, which has been sufficiently explained in the General Catechetical Directory.(47) It is for specialists to clarify more and more its concept and divisions.
+    In view of uncertainties in practice, let us simply recall the essential landmarks - they are already solidly established in Church documents - that are essential for an exact understanding of catechesis and without which there is a risk of failing to grasp its full meaning and import.
+    All in all, it can be taken here that catechesis is an education of children, young people and adults in the faith, which includes especially the teaching of Christian doctrine imparted, generally speaking, in an organic and systematic way, with a view to initiating the hearers into the fullness of Christian life. Accordingly, while not being formally identified with them, catechesis is built on a certain number of elements of the Church's pastoral mission that have a catechetical aspect, that prepare for catechesis, or that spring from it. These elements are: the initial proclamation of the Gospel or missionary preaching through the kerygma to arouse faith, apologetics or examination of the reasons for belief, experience of Christian living, celebration of the sacraments, integration into the ecclesial community, and apostolic and missionary witness.
+    Let us first of all recall that there is no separation or opposition between catechesis and evangelization. Nor can the two be simply identified with each other. Instead, they have close links whereby they integrate and complement each other.
+    The Apostolic Exhortation Evangelii nuntiandi of December 8, 1975, on evangelization in the modern world, rightly stressed that evangelization - which has the aim of bringing the Good News to the whole of humanity, so that all may live by it - is a rich, complex and dynamic reality, made up of elements, or one could say moments, that are essential and different from each other, and that must all be kept in view simultaneously.(48) Catechesis is one of these moments - a very remarkable one - in the whole process of evangelization.
+
 9. CT 18.
+* See above
 
 10. CT 13.
 
