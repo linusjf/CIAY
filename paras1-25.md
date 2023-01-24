@@ -14,7 +14,9 @@ And there is salvation in no one else, for there is no other name under heaven g
 Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 teaching them to observe all that I have commanded you; and behold, I am with you always, to the close of the age.
 
-5. Mk 16:20.
+5. Mk 16:20
+And they went forth and preached everywhere, while the Lord worked with them and confirmed the message by the signs that attended it. Amen.
+
 6. Cf. Acts 2:42.
 7. Cf. John Paul II, Apostolic Exhortation Catechesi tradendae 1; 2.
 8. CT 18.
