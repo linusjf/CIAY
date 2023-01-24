@@ -25,8 +25,7 @@ And they held steadfastly to the apostles' teaching and fellowship, to the break
 * Christ's Final Command
 
     The Church has always considered catechesis one of her primary tasks, for, before Christ ascended to His Father after His resurrection, He gave the apostles a final command - to make disciples of all nations and to teach them to observe all that He had commanded.(1) He thus entrusted them with the mission and power to proclaim to humanity what they had heard, what they had seen with their eyes, what they had looked upon and touched with their hands, concerning the Word of Life.(2) He also entrusted them with the mission and power to explain with authority what He had taught them, His words and actions, His signs and commandments. And He gave them the Spirit to fulfill this mission.
-
-Very soon the name of catechesis was given to the whole of the efforts within the Church to make disciples, to help people to believe that Jesus is the Son of God, so that believing they might have life in His name,(3) and to educate and instruct them in this life and thus build up the Body of Christ. The Church has not ceased to devote her energy to this task.
+    Very soon the name of catechesis was given to the whole of the efforts within the Church to make disciples, to help people to believe that Jesus is the Son of God, so that believing they might have life in His name,(3) and to educate and instruct them in this life and thus build up the Body of Christ. The Church has not ceased to devote her energy to this task.
 
 * Paul VI's Solicitude
 
