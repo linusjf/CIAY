@@ -77,9 +77,55 @@ And they held steadfastly to the apostles' teaching and fellowship, to the break
 
 15. Extraordinary Synod of Bishops 1985, Final Report II B a, 4.
 
-16. Cf. Mt 10:32; Rom 10:9.
+16. Cf. 
+Mt 10:32
+* So every one who acknowledges me before men, I also will acknowledge before my Father who is in heaven; †
+
+Rom 10:9
+* because, if you confess with your lips that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. †
+
 
 17. Cf. CT 20-22; 25.
+
+* Specific Aim of Catechesis
+
+    Nevertheless, the specific aim of catechesis is to develop, with God's help, an as yet initial faith, and to advance in fullness and to nourish day by day the Christian life of the faithful, young and old. It is in fact a matter of giving growth, at the level of knowledge and in life, to the seed of faith sown by the Holy Spirit with the initial proclamation and effectively transmitted by Baptism.
+
+Catechesis aims therefore at developing understanding of the mystery of Christ in the light of God's word, so that the whole of a person's humanity is impregnated by that word. Changed by the working of grace into a new creature, the Christian thus sets himself to follow Christ and learns more and more within the Church to think like Him, to judge like Him, to act in conformity with His commandments, and to hope as He invites us to.
+
+To put it more precisely: within the whole process of evangelization, the aim of catechesis is to be the teaching and maturation stage, that is to say, the period in which the Christian, having accepted by faith the person of Jesus Christ as the one Lord and having given Him complete adherence by sincere conversion of heart, endeavors to know better this Jesus to whom he has entrusted himself: to know His "mystery," the kingdom of God proclaimed by Him, the requirements and promises contained in His Gospel message, and the paths that He has laid down for anyone who wishes to follow Him.
+
+It is true that being a Christian means saying "yes" to Jesus Christ, but let us remember that this "yes" has two levels: It consists in surrendering to the word of God and relying on it, but it also means, at a later stage, endeavoring to know better - and better the profound meaning of this word.
+
+* Need for Systematic Catechesis
+
+    In his closing speech at the fourth general assembly of the synod, Pope Paul VI rejoiced "to see how everyone drew attention to the absolute need for systematic catechesis, precisely because it is this reflective study of the Christian mystery that fundamentally distinguishes catechesis from all other ways of presenting the word of God."(50)
+
+In view of practical difficulties, attention must be drawn to some of the characteristics of this instruction:
+
+It must be systematic, not improvised but programmed to reach a precise goal;
+It must deal with essentials, without any claim to tackle all disputed questions or to transform itself into theological research or scientific exegesis;
+It must nevertheless be sufficiently complete, not stopping short at the initial proclamation of the Christian mystery such as we have in the kerygma;
+It must be an integral Christian initiation, open to all the other factors of Christian life.
+I am not forgetting the interest of the many different occasions for catechesis connected with personal, family, social and ecclesial life - these occasions must be utilized and I shall return to them in Chapter VI - but I am stressing the need for organic and systematic Christian instruction, because of the tendency in various quarters to minimize its importance.
+
+* Catechesis and Life Experience
+
+    It is useless to play off orthopraxis against orthodoxy: Christianity is inseparably both. Firm and well-thought - out convictions lead to courageous and upright action, the endeavor to educate the faithful to live as disciples of Christ today calls for and facilitates a discovery in depth of the mystery of Christ in the history of salvation.
+
+It is also quite useless to campaign for the abandonment of serious and orderly study of the message of Christ in the name of a method concentrating on life experience. "No one can arrive at the whole truth on the basis solely of some simple private experience, that is to say, without an adequate explanation of the message of Christ, who is `the way, and the truth, and the life' (Jn. 14:6)."(51)
+
+Nor is any opposition to be set up between a catechesis taking life as its point of departure and a traditional doctrinal and systematic catechesis.(52) Authentic catechesis is always an orderly and systematic initiation into the revelation that God has given of Himself to humanity in Christ Jesus, a revelation stored in the depths of the Church's memory and in Sacred Scripture, and constantly communicated from one generation to the next by a living, active traditio. This revelation is not however isolated from life or artificially juxtaposed to it. It is concerned with the ultimate meaning of life and it illumines the whole of life with the light of the Gospel, to inspire it or to question it.
+
+That is why we can apply to catechists an expression used by the Second Vatican Council with special reference to priests: "Instructors (of the human being and his life) in the faith."(53)
+
+* Catechesis in the Wide Sense Necessary for Maturity and Strength of Faith
+
+Thus through catechesis the Gospel kerygma (the initial ardent proclamation by which a person is one day overwhelmed and brought to the decision to entrust himself to Jesus Christ by faith) is gradually deepened, developed in its implicit consequences, explained in language that includes an appeal to reason, and channelled towards Christian practice in the Church and the world. All this is no less evangelical than the kerygma, in spite of what is said by certain people who consider that catechesis necessarily rationalizes, dries up and eventually kills all that is living, spontaneous and vibrant in the kerygma. The truths studied in catechesis are the same truths that touched the person's heart when he heard them for the first time. Far from blunting or exhausting them, the fact of knowing them better should make them even more challenging and decisive for one's life.
+
+In the understanding expounded here, catechesis keeps the entirely pastoral perspective with which the synod viewed it. This broad meaning of catechesis in no way contradicts but rather includes and goes beyond a narrow meaning which was once commonly given to catechesis in didactic expositions, namely, the simple teaching of the formulas that express faith.
+
+In the final analysis, catechesis is necessary both for the maturation of the faith of Christians and for their witness in the world: It is aimed at bringing Christians to "attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ"(55); it is also aimed at making them prepared to make a defense to anyone who calls them to account for the hope that is in them.(56)
 
 18. Roman Catechism, Preface II; cf. 1 Cor 9:22; 1 Pt 2:2.
 
