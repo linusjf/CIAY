@@ -127,6 +127,14 @@ In the understanding expounded here, catechesis keeps the entirely pastoral pers
 
 In the final analysis, catechesis is necessary both for the maturation of the faith of Christians and for their witness in the world: It is aimed at bringing Christians to "attain to the unity of the faith and of the knowledge of the Son of God, to mature manhood, to the measure of the stature of the fullness of Christ"(55); it is also aimed at making them prepared to make a defense to anyone who calls them to account for the hope that is in them.(56)
 
-18. Roman Catechism, Preface II; cf. 1 Cor 9:22; 1 Pt 2:2.
+18. Roman Catechism, Preface II; cf. 
+1 Cor 9:22; 
+To the weak I became weak, that I might win the weak. I have become all things to all men, that I might by all means save some. †
 
-19. Roman Catechism, Preface 10; cf. 1 Cor 13:8.
+1 Pt 2:2
+Like newborn infants, long for the pure spiritual milk, that by it you may grow up to salvation;
+
+19. Roman Catechism, Preface 10; cf. 
+1 Cor 13:8
+Love never ends; as for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.
+
