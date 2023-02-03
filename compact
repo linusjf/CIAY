@@ -3,27 +3,38 @@ require() {
   hash "$@" || exit
 }
 usage() {
+  echo "Usage:"
   echo "$0 [startday] [endday]"
-  echo "startday - initial day (default 1)"
-  echo "endday - ending day (default 365)"
+  echo "startday - initial day (default 1, min 1)"
+  echo "endday - ending day (default 365, min 1)"
+  echo "startday <= endday"
   exit 1
+}
+isvalid() {
+  (($1)) 2>/dev/null && (($2)) 2>/dev/null && test "$1" -gt 0 &&
+    (($1 <= $2))
 }
 require m4 mktemp awk
 if test $# -gt 2; then
   usage
 fi
+
 declare -i start="${1:-1}"
 declare -i end="${2:-365}"
-temp="$(mktemp)"
-echo "changequote(\`{{', \`}}')" >"$temp"
-for ((i = start; i <= end; i++)); do
-  ifmt="$(printf "%03d" "$i")"
-  fname="Day${ifmt}.md"
-  if test -e "$fname"; then
-    echo "include({{$fname}})" >>"$temp"
-  fi
-done
-tmp2="$(mktemp)"
-m4 "$temp" >"$tmp2"
-awk 'NF {p=1} p' <<<"$(<"$tmp2")"
-rm -f "$tmp2" "$temp" &>/dev/null
+if isvalid "$start" "$end"; then
+  temp="$(mktemp)"
+  echo "changequote(\`{{', \`}}')" >"$temp"
+  for ((i = start; i <= end; i++)); do
+    ifmt="$(printf "%03d" "$i")"
+    fname="Day${ifmt}.md"
+    if test -e "$fname"; then
+      echo "include({{$fname}})" >>"$temp"
+    fi
+  done
+  tmp2="$(mktemp)"
+  m4 "$temp" >"$tmp2"
+  awk 'NF {p=1} p' <<<"$(<"$tmp2")"
+  rm -f "$tmp2" "$temp" &>/dev/null
+else
+  usage
+fi
