@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+require() {
+  hash "$@" || exit
+}
+usage() {
+  echo "$0 [startday] [endday]"
+  echo "startday - initial day (default 1)"
+  echo "endday - ending day (default 365)"
+  exit 1
+}
+require m4 mktemp
+if test $# -gt 2; then
+  usage
+fi
+declare -i start="${1:-1}"
+declare -i end="${2:-365}"
+temp="$(mktemp)"
+echo "changequote(\`{{', \`}}')" >"$temp"
+for ((i = start; i <= end; i++)); do
+  ifmt="$(printf "%03d" "$i")"
+  fname="Day${ifmt}.md"
+  if test -e "$fname"; then
+    echo "include({{$fname}})" >>"$temp"
+  fi
+done
+m4 "$temp"
