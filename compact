@@ -8,7 +8,7 @@ usage() {
   echo "endday - ending day (default 365)"
   exit 1
 }
-require m4 mktemp
+require m4 mktemp awk
 if test $# -gt 2; then
   usage
 fi
