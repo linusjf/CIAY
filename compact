@@ -23,4 +23,6 @@ for ((i = start; i <= end; i++)); do
     echo "include({{$fname}})" >>"$temp"
   fi
 done
-m4 "$temp"
+tmp2="$(mktemp)"
+m4 "$temp" >"$tmp2"
+awk 'NF {p=1} p' <<<"$(<"$tmp2")"
