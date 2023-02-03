@@ -26,3 +26,4 @@ done
 tmp2="$(mktemp)"
 m4 "$temp" >"$tmp2"
 awk 'NF {p=1} p' <<<"$(<"$tmp2")"
+rm -f "$tmp2" "$temp" &>/dev/null
