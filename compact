@@ -16,9 +16,6 @@ isvalid() {
   test -d "$1" && test -e "${1}/${compactfile}"
 }
 require m4 mktemp awk rm pwd
-if test $# -gt 2; then
-  usage
-fi
 thisdir="$(pwd)"
 declare -r compactfile="compact.txt"
 declare -r dir="${1:-$thisdir}"
