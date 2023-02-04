@@ -6,7 +6,7 @@ usage() {
   echo "Usage:"
   echo "$0 [startday] [endday]"
   echo "startday - initial day (default 1, min 1)"
-  echo "endday - ending day (default 365, min 1)"
+  echo "endday - final day (default 365, min 1)"
   echo "startday <= endday"
   exit 1
 }
