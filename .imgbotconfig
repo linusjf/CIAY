@@ -1,7 +1,10 @@
 {
-    "schedule": "daily", // daily|weekly|monthly
+    "schedule": "daily", //daily|weekly|monthly
     "ignoredFiles": [],
-    "aggressiveCompression": "false", // true|false
+    "aggressiveCompression": "false", //true|false
     "compressWiki": "true", // true|false
     "minKBReduced": 10, // delay new prs until size reduction meets this threshold (default to 10)
+    "prTitle" : "[ImgBot] Optimize images",
+    "prBody" : "Beep boop. Your images are optimized! Your image file size has been reduced by {optimization_ratio}.
+    The details are as follows:  {optimization_details}",
 }
