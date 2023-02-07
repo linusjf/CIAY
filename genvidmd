@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+usage() {
+  echo "$0 vidurl caption pathtoimg"
+  echo "vidurl - video url"
+  echo "caption - video title"
+  echo "pathtoimg - relative path to image file. Must exist"
+  exit 1
+}
+if test $# -lt 3; then
+  usage
+fi
+vidurl="$1"
+caption="$2"
+if test -e "$3"; then
+  imgurl="https://github.com/fernal73/CIAY/blob/main/${3}?raw=true"
+  echo "[![${caption}](${imgurl})](${vidurl} "'"'"$caption"'")'
+else
+  usage
+fi
