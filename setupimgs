@@ -20,8 +20,8 @@ if isvalid "$dir"; then
   (
     cd "$dir" || exit
     if test -d "jpgs"; then
-      mv "${HOME}/storage/downloads/Day*.jpg" jpgs &>/dev/null
-      mv "${HOME}/storage/downloads/Day*.png" jpgs &>/dev/null
+      mv "${HOME}/storage/downloads/"Day*.jpg jpgs &>/dev/null
+      mv "${HOME}/storage/downloads/"Day*.png jpgs &>/dev/null
       cd jpgs || exit
       shopt -s nullglob
       for file in ./*.png; do
