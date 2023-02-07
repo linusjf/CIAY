@@ -24,9 +24,9 @@
 
 ### Videos
 
-[Why Scripture and Tradition?](https://youtu.be/xHxAU3FqQQ8)
+[![Why Scripture and Tradition?](https://github.com/fernal73/CIAY/blob/main/WhyScriptureAndTradition.jpg?raw=true)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
 
-[How do we trust in Church authority?](https://youtu.be/qiZPB2jCOYM)
+[![How do we trust in Church authority?](https://github.com/fernal73/CIAY/blob/main/HowDoWeTrustInChurchAuthority.jpg?raw=true)](https://youtu.be/qiZPB2jCOYM "How do we trust in Church authority?")
 
 ---
 
