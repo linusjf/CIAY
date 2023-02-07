@@ -4,7 +4,7 @@ require() {
 }
 usage() {
   echo "Usage:"
-  echo "$0 [dir]"
+  echo "$0 dir"
   echo "dir - directory to process for images"
   exit 1
 }
