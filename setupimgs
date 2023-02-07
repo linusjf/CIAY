@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+require() {
+  hash "$@" || exit
+}
+usage() {
+  echo "Usage:"
+  echo "$0 [dir]"
+  echo "dir - directory to process for images"
+  exit 1
+}
+isvalid() {
+  test -d "$1"
+}
+if test $# -eq 0; then
+  usage
+fi
+dir="$1"
+require convert rm mv
+if isvalid "$dir"; then
+  (
+    cd "$dir" || exit
+    if test -d "jpgs"; then
+      mv "${HOME}/storage/downloads/Day*.jpg" jpgs
+      mv "${HOME}/storage/downloads/Day*.png" jpgs
+      cd jpgs || exit
+      for file in ./*.png; do
+        convert "$file" "${file%.*}.jpg"
+        rm "$file"
+      done
+    fi
+  )
+else
+  usage
+fi
