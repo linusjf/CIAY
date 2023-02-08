@@ -47,15 +47,16 @@ if test $# -eq 0; then
 fi
 require mktemp mv mktemp curl
 
+dir="$1"
+
 regex='^\[\!\[([A-Za-z0-9\? \-]+)\]'
-regex+='\((https\://github\.com/fernal73/CIAY/blob/main/January/jpgs/[A-Za-z0-9\-]+\.jpg\?raw=true)\)\]\('
+regex+="\((https\://github\.com/fernal73/CIAY/blob/main/${dir}/jpgs/[A-Za-z0-9\-]+\.jpg\?raw=true)\)\]\("
 regex+='(https\://youtu\.be/|'
 regex+='https\://www\.youtube\.com/watch\?v=)([A-Za-z0-9_\-]+)'
 regex+=' +'
 regex+='"(.+)"'
 regex+=' *\)$'
 
-dir="$1"
 if isvalid "$dir"; then
   (
     cd "$dir" || exit
