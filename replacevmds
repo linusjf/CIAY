@@ -1,0 +1,96 @@
+#!/usr/bin/env bash
+
+usage() {
+  echo "$0 dir"
+  echo "dir - directory to process"
+  exit 1
+}
+
+usagevidmd() {
+  echo "$0 vidid vidurl caption"
+  echo "vid - video id"
+  echo "vidurl - video url"
+  echo "caption - video title"
+  exit 1
+}
+
+vidmd() {
+  if test $# -lt 3; then
+    usagevidmd
+  fi
+  vidid="$1"
+  vidurl="$2"
+  caption="$3"
+  if imgurl="$(thumbnailurl "$vidid")"; then
+    printf "[![%s](%s)](%s \"%s\")\n" "$caption" "$imgurl" "$vidurl" "$caption"
+  else
+    echo >&2 "Thumbnail $imgurl not verifiable or invalid"
+    return 1
+  fi
+}
+
+thumbnailurl() {
+  url="https://img.youtube.com/vi/${1}/maxresdefault.jpg"
+  echo "$url"
+  test 200 -eq "$(curl -o /dev/null --silent -Iw '%{http_code}' "${url}")"
+}
+
+require() {
+  hash "$@" || exit 127
+}
+
+isvalid() {
+  test -d "$1"
+}
+if test $# -eq 0; then
+  usage
+fi
+require mktemp mv mktemp curl
+
+regex='^\[\!\[([A-Za-z0-9\? \-]+)\]'
+regex+='\((https\://github\.com/fernal73/CIAY/blob/main/January/jpgs/[A-Za-z0-9\-]+\.jpg\?raw=true)\)\]\('
+regex+='(https\://youtu\.be/|'
+regex+='https\://www\.youtube\.com/watch\?v=)([A-Za-z0-9_\-]+)'
+regex+=' +'
+regex+='"(.+)"'
+regex+=' *\)$'
+
+dir="$1"
+if isvalid "$dir"; then
+  (
+    cd "$dir" || exit
+    shopt -s nullglob
+    for fname in ./*.md; do
+      echo "$fname"
+      tmp="$(mktemp)"
+      declare -i count=0
+      _matched=true
+      while IFS= read -r line; do
+        if [[ $line =~ $regex ]]; then
+          caption="${BASH_REMATCH[1]}"
+          vid="${BASH_REMATCH[4]}"
+          vidurl="${BASH_REMATCH[3]}${vid}"
+          if test "$caption" != "${BASH_REMATCH[5]}"; then
+            echo "Mismatch in captions in file ${fname}"
+            _matched=false
+          fi
+          ((count = count + 1))
+          if md="$(vidmd "$vid" "$vidurl" "$caption")"; then
+            echo "$md" >>"$tmp"
+          else
+            echo "$line" >>"$tmp"
+          fi
+        else
+          echo "$line" >>"$tmp"
+        fi
+      done <<<"$(<"$fname")"
+      if "$_matched"; then
+        mv "$tmp" "$fname"
+      fi
+      if test "$count" -eq 0; then
+        echo "${fname} does not have video markup"
+      fi
+    done
+    shopt -u nullglob
+  )
+fi
