@@ -2,6 +2,7 @@
 
 * [CIAY 2023 Members](#ciay-2023-members)
     * [Videos](#videos)
+  * [[!How Do We Trust In Church Authority?](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")](#how-do-we-trust-in-church-authorityhttpsyoutubeqizpb2jcoym-how-do-we-trust-in-church-authority)
     * [Guidelines For Sharing](#guidelines-for-sharing)
   * [Reflection content](#reflection-content)
   * [-----](#-----)
@@ -24,10 +25,8 @@
 
 ### Videos
 
-[![Why Scripture and Tradition?](https://github.com/fernal73/CIAY/blob/main/WhyScriptureAndTradition.jpg?raw=true)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
-
-[![How do we trust in Church authority?](https://github.com/fernal73/CIAY/blob/main/HowDoWeTrustInChurchAuthority.jpg?raw=true)](https://youtu.be/qiZPB2jCOYM "How do we trust in Church authority?")
-
+[![Why Scripture and Tradition?](https://img.youtube.com/vi/xHxAU3FqQQ8/maxresdefault.jpg)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
+[![How Do We Trust In Church Authority?](https://img.youtube.com/vi/qiZPB2jCOYM/maxresdefault.jpg)](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")
 ---
 
 ### Guidelines For Sharing 
