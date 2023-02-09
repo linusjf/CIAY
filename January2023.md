@@ -198,6 +198,8 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 
 [![The Gift of the Creed](https://img.youtube.com/vi/y9FnljV4bKg/maxresdefault.jpg)](https://youtu.be/y9FnljV4bKg "The Gift of the Creed")
 ![Day 27 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day27Snippet.jpg?raw=true)
+![The Athanasian Creed 1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/AthanasianCreed1.jpg?raw=true)
+![The Athanasian Creed 2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/AthanasianCreed2.jpg?raw=true)
 
 # January 28,2023
 ---
