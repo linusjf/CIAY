@@ -47,3 +47,7 @@
 ---
 [![The Father Almighty](https://img.youtube.com/vi/n6MMrpNdEd4/maxresdefault.jpg)](https://youtu.be/n6MMrpNdEd4 "The Father Almighty")
 ![Day 39 Snippet](https://github.com/fernal73/CIAY/blob/main/February/jpgs/Day39Snippet.jpg?raw=true)
+
+# February 9,2023
+---
+[![God is the Creator](https://img.youtube.com/vi/yC98tBMZNT0/maxresdefault.jpg)](https://youtu.be/yC98tBMZNT0 "God is the Creator")
