@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+require() {
+  hash "$@" || exit
+}
+require magick mv file grep mktemp
+
+usage() {
+  echo "$0 file"
+  echo "file - jpeg image file path"
+  exit 1
+}
+
+isjpegfile() {
+  file "$1" | grep 'JPEG' &>/dev/null
+}
+
+if test $# -ne 1; then
+  usage
+fi
+if ! test -f "$1"; then
+  usage
+fi
+if ! isjpegfile "$1"; then
+  usage
+fi
+
+icon="icons8-youtube-144.png"
+tmp=$(mktemp)
+if magick convert "$1" "$icon" -gravity Center -geometry 128x128+30+5 -composite "$tmp"; then
+  mv "$tmp" "$1"
+fi
