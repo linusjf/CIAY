@@ -7,11 +7,9 @@ usage() {
 }
 #shellcheck disable=SC1091
 source ./vidmd.sh
-
 require() {
   hash "$@" || exit 127
 }
-
 isvalid() {
   test -d "$1"
 }
@@ -30,12 +28,16 @@ regex+=' +'
 regex+='"(.+)"'
 regex+=' *\)$'
 
+regexdoy='^\./Day([0-9]+)\.md$'
 if isvalid "$dir"; then
   (
     cd "$dir" || exit
     shopt -s nullglob
-    for fname in ./*.md; do
+    for fname in ./Day*.md; do
       echo "Processing ${fname} ..."
+      if [[ $fname =~ $regexdoy ]]; then
+        doy="${BASH_REMATCH[1]}"
+      fi
       tmp="$(mktemp)"
       declare -i count=0
       _matched=true
@@ -49,7 +51,7 @@ if isvalid "$dir"; then
             _matched=false
           fi
           ((count = count + 1))
-          if md="$(vidmd "$vid" "$vidurl" "$caption")"; then
+          if md="$(vidmdloc "$vid" "$vidurl" "$caption" "$doy")"; then
             echo "$md" >>"$tmp"
           else
             echo "$line" >>"$tmp"

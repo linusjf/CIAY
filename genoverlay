@@ -11,7 +11,7 @@ usage() {
 #shellcheck disable=SC1091
 source ./vidmd.sh
 if imgurl="$(thumbnailurl "$1")"; then
-  month="$(./mfromdoy "$2")"
+  month="$(mfromdoy "$2")"
   doy="$(printf "%03d" "$2")"
   relfile="${month}/jpgs/Day${doy}.jpg"
   relfile="$(realpath "$relfile")"

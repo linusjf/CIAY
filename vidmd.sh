@@ -26,9 +26,10 @@ usagevidmdloc() {
 }
 
 playiconurl() {
-  doy="$(printf "%03d" "$1")"
-  month="$(./mfromdoy "$1")"
-  echo "https://raw.githubusercontent.com/fernal73/CIAY/main/{$month}/jpgs/Day${doy}.jpg"
+  ((doy = 10#$1))
+  doy="$(printf "%03d" "$doy")"
+  month="$(mfromdoy "$doy")"
+  echo "https://raw.githubusercontent.com/fernal73/CIAY/main/${month}/jpgs/Day${doy}.jpg"
 }
 
 thumbnailurl() {
@@ -82,11 +83,23 @@ vidmdloc() {
   vidid="$1"
   vidurl="$2"
   caption="$3"
-  doy="$3"
-  if imgurl="$(thumbnailurl "$vidid")"; then
-    printf "[![%s](%s)](%s \"%s\")\n" "$caption" "$imgurl" "$vidurl" "$caption"
-  else
-    echo >&2 "Thumbnails unverifiable,invalid or absent."
-    return 1
-  fi
+  doy="$4"
+  imgurl="$(playiconurl "$doy")"
+  printf "[![%s](%s)](%s \"%s\")\n" "$caption" "$imgurl" "$vidurl" "$caption"
+}
+
+isnumeric() {
+  (($1)) &>/dev/null
+}
+
+usagemfromdoy() {
+  echo "mfromdoy dayofyear"
+  echo "dayofyear - day of year"
+  exit 1
+}
+
+mfromdoy() {
+  isnumeric "$1" || usagemfromdoy
+  ((day = $1 - 1))
+  date --date="jan 1 + $day days" +%B
 }
