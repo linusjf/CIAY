@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+require() {
+  hash "$@" || exit
+}
+require date
+isnumeric() {
+  (($1)) 2>/dev/null
+}
+usage() {
+  echo "$0 dayofyear"
+  echo "dayofyear - int day of year, can be negative"
+  exit 1
+}
+isnumeric "$1" || usage
+day="$(($1 - 1))"
+date --date="jan 1 + $day days" +%B
+exit $?
