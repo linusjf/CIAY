@@ -50,16 +50,14 @@
 # January 8,2023
 ---
 
-[![God forms his people](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
-dayofyear - day of year/jpgs/Day008.jpg)](https://youtu.be/m6f2J4Cr3Ps "God forms his people")
+[![God forms his people](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day008.jpg)](https://youtu.be/m6f2J4Cr3Ps "God forms his people")
 
 ![Day 8 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day8Snippet.jpg?raw=true)
 
 # January 9,2023
 ---
 
-[![The Fullness of Revelation](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
-dayofyear - day of year/jpgs/Day009.jpg)](https://youtu.be/v14auCZgM90 "The Fullness of Revelation")
+[![The Fullness of Revelation](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day009.jpg)](https://youtu.be/v14auCZgM90 "The Fullness of Revelation")
 
 ![Day 9 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day9Snippet.jpg?raw=true)
 
@@ -133,15 +131,13 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 # January 18,2023
 ---
 
-[![The Unity of the Testaments](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
-dayofyear - day of year/jpgs/Day018.jpg)](https://youtu.be/R00NkT22aa4 "The Unity of the Testaments")
+[![The Unity of the Testaments](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day018.jpg)](https://youtu.be/R00NkT22aa4 "The Unity of the Testaments")
 ![Day 18 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day18Snippet.jpg?raw=true)
 
 # January 19,2023
 ---
 
-[![Summary of Sacred Scripture](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
-dayofyear - day of year/jpgs/Day019.jpg)](https://youtu.be/f58uLVkEh7o "Summary of Sacred Scripture")
+[![Summary of Sacred Scripture](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day019.jpg)](https://youtu.be/f58uLVkEh7o "Summary of Sacred Scripture")
 
 ![Day 19 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day19Snippet.jpg?raw=true)
 
@@ -208,15 +204,13 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 # January 28,2023
 ---
 
-[![The Nature of God](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
-dayofyear - day of year/jpgs/Day028.jpg)](https://youtu.be/5dsCqDWE36g "The Nature of God")
+[![The Nature of God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day028.jpg)](https://youtu.be/5dsCqDWE36g "The Nature of God")
 ![Day 28 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day28Snippet.jpg?raw=true)
 
 # January 29,2023
 ---
 
-[![Knowing the Name of God](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
-dayofyear - day of year/jpgs/Day029.jpg)](https://youtu.be/TBB6IMNXJlo "Knowing the Name of God")
+[![Knowing the Name of God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day029.jpg)](https://youtu.be/TBB6IMNXJlo "Knowing the Name of God")
 ![Day 29 Snippet 1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day29Snippet1.jpg?raw=true)
 ![Day 29 Snippet 2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day29Snippet2.jpg?raw=true)
 

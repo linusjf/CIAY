@@ -26,8 +26,8 @@ usagevidmdloc() {
 }
 
 playiconurl() {
-  ((doy = 10#$1))
-  doy="$(printf "%03d" "$doy")"
+  doy="$1"
+  doy="$(printf "%03d" "${doy#0}")"
   month="$(mfromdoy "$doy")"
   echo "https://raw.githubusercontent.com/fernal73/CIAY/main/${month}/jpgs/Day${doy}.jpg"
 }
@@ -84,22 +84,18 @@ vidmdloc() {
   vidurl="$2"
   caption="$3"
   doy="$4"
-  imgurl="$(playiconurl "$doy")"
+  imgurl="$(playiconurl "${doy#0}")"
   printf "[![%s](%s)](%s \"%s\")\n" "$caption" "$imgurl" "$vidurl" "$caption"
 }
 
 isnumeric() {
-  (($1)) &>/dev/null
-}
-
-usagemfromdoy() {
-  echo "mfromdoy dayofyear"
-  echo "dayofyear - day of year"
-  exit 1
+  if [[ "$1" =~ ^[0-9]+$ ]]; then
+    return 0
+  fi
+  return 1
 }
 
 mfromdoy() {
-  isnumeric "$1" || usagemfromdoy
-  ((day = $1 - 1))
+  ((day = 10#$1 - 1))
   date --date="jan 1 + $day days" +%B
 }
