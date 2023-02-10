@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+require() {
+  hash "$@" || exit
+}
+require curl realpath
+usage() {
+  echo "$0 vid doy"
+  echo "vid - video id"
+  echo "doy - day of year"
+}
+#shellcheck disable=SC1091
+source ./vidmd.sh
+if imgurl="$(thumbnailurl "$1")"; then
+  month="$(./mfromdoy "$2")"
+  doy="$(printf "%03d" "$2")"
+  relfile="${month}/jpgs/Day${doy}.jpg"
+  relfile="$(realpath "$relfile")"
+  curl "$imgurl" --output "$relfile"
+  ./overlayicon "$relfile"
+fi
