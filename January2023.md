@@ -1,11 +1,11 @@
 # 1st Jan, 2023:
 
-[![To Know And To Love God](https://img.youtube.com/vi/tI-pOSv7tvg/maxresdefault.jpg)](https://www.youtube.com/watch?v=tI-pOSv7tvg "To Know And To Love God")
+[![To Know And To Love God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day001.jpg)](https://www.youtube.com/watch?v=tI-pOSv7tvg "To Know And To Love God")
 ![Day 1 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day1Snippet.jpg?raw=true)
 
 # 2nd January, 2023:
 
-[![How The Cathecism Works](https://img.youtube.com/vi/lSyMNeL7Fz0/maxresdefault.jpg)](https://youtu.be/lSyMNeL7Fz0 "How The Cathecism Works")
+[![How The Cathecism Works](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day002.jpg)](https://youtu.be/lSyMNeL7Fz0 "How The Cathecism Works")
 
 ![Day 2 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day2Snippet1.jpg?raw=true)
 ![Day 2 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day2Snippet2.jpg?raw=true)
@@ -13,14 +13,14 @@
 # January 3,2023:
 
 ---
-[![What we believe - Part I](https://img.youtube.com/vi/lChGowdD7ZQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=lChGowdD7ZQ "What we believe - Part I")
+[![What we believe - Part I](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day003.jpg)](https://www.youtube.com/watch?v=lChGowdD7ZQ "What we believe - Part I")
 
 ![Day 3 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day3Snippet.jpg?raw=true)
 
 # January 4, 2023
 ---
 
-[![Our Capacity for God](https://img.youtube.com/vi/oRpDxjB9K9U/maxresdefault.jpg)](https://youtu.be/oRpDxjB9K9U "Our Capacity for God")
+[![Our Capacity for God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day004.jpg)](https://youtu.be/oRpDxjB9K9U "Our Capacity for God")
 
 ![Day 4 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day4Snippet1.jpg?raw=true)
 ![Day 4 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day4Snippet2.jpg?raw=true)
@@ -28,7 +28,7 @@
 # January 5, 2023
 ---
 
-[![How We Know God](https://i.ytimg.com/vi/XscjbW08sHk/maxresdefault.jpg)](https://youtu.be/XscjbW08sHk "How We Know God")
+[![How We Know God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day005.jpg)](https://youtu.be/XscjbW08sHk "How We Know God")
 
 ![Day 5 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day5Snippet1.jpg?raw=true)
 ![Day 5 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day5Snippet2.jpg?raw=true)
@@ -36,35 +36,37 @@
 # January 6, 2023
 ---
 
-[![Knowing God With Certainty](https://img.youtube.com/vi/CxqVfrtdcNA/maxresdefault.jpg)](https://youtu.be/CxqVfrtdcNA "Knowing God With Certainty")
+[![Knowing God With Certainty](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day006.jpg)](https://youtu.be/CxqVfrtdcNA "Knowing God With Certainty")
 
 ![Day 6 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day6Snippet.jpg?raw=true)
 
 # January 7,2023
 ---
 
-[![God Reveals Himself](https://img.youtube.com/vi/KAs6uQTUFNI/maxresdefault.jpg)](https://youtu.be/KAs6uQTUFNI "God Reveals Himself")
+[![God Reveals Himself](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day007.jpg)](https://youtu.be/KAs6uQTUFNI "God Reveals Himself")
 
 ![Day 7 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day7Snippet.jpg?raw=true)
 
 # January 8,2023
 ---
 
-[![God forms his people](https://img.youtube.com/vi/m6f2J4Cr3Ps/maxresdefault.jpg)](https://youtu.be/m6f2J4Cr3Ps "God forms his people")
+[![God forms his people](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
+dayofyear - day of year/jpgs/Day008.jpg)](https://youtu.be/m6f2J4Cr3Ps "God forms his people")
 
 ![Day 8 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day8Snippet.jpg?raw=true)
 
 # January 9,2023
 ---
 
-[![The Fullness of Revelation](https://img.youtube.com/vi/v14auCZgM90/maxresdefault.jpg)](https://youtu.be/v14auCZgM90 "The Fullness of Revelation")
+[![The Fullness of Revelation](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
+dayofyear - day of year/jpgs/Day009.jpg)](https://youtu.be/v14auCZgM90 "The Fullness of Revelation")
 
 ![Day 9 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day9Snippet.jpg?raw=true)
 
 # January 10,2023
 ---
 
-[![The Apostolic Tradition](https://img.youtube.com/vi/zkg_64i4uVY/maxresdefault.jpg)](https://youtu.be/zkg_64i4uVY "The Apostolic Tradition")
+[![The Apostolic Tradition](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day010.jpg)](https://youtu.be/zkg_64i4uVY "The Apostolic Tradition")
 
 ![Day 10 Snippet 1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day10Snippet1.jpg?raw=true)
 ![Day 10 Snippet 2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day10Snippet2.jpg?raw=true)
@@ -72,14 +74,14 @@
 # January 11,2023
 ---
 
-[![Sources of Divine Revelation](https://img.youtube.com/vi/g-3CYNZNkVc/maxresdefault.jpg)](https://youtu.be/g-3CYNZNkVc "Sources of Divine Revelation")
+[![Sources of Divine Revelation](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day011.jpg)](https://youtu.be/g-3CYNZNkVc "Sources of Divine Revelation")
 ![Day 11 Snippet 1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day11Snippet1.jpg?raw=true)
 ![Day 11 Snippet 2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day11Snippet2.jpg?raw=true)
 
 # January 12,2023
 ---
 
-[![Receiving Dogmas](https://img.youtube.com/vi/7YeNZPlVhfQ/maxresdefault.jpg)](https://youtu.be/7YeNZPlVhfQ "Receiving Dogmas")
+[![Receiving Dogmas](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day012.jpg)](https://youtu.be/7YeNZPlVhfQ "Receiving Dogmas")
 
 CIAY Day # 12
 
@@ -94,14 +96,14 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 # January 13,2023
 ---
 
-[![The Single Deposit of Faith](https://img.youtube.com/vi/9FJCprViVq0/maxresdefault.jpg)](https://youtu.be/9FJCprViVq0 "The Single Deposit of Faith")
+[![The Single Deposit of Faith](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day013.jpg)](https://youtu.be/9FJCprViVq0 "The Single Deposit of Faith")
 
 ![Day 13 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day13Snippet.jpg?raw=true)
 
 # January 14,2023
 ---
 
-[![The Eternal Word of God](https://img.youtube.com/vi/RupRbJjkP6c/maxresdefault.jpg)](https://youtu.be/RupRbJjkP6c "The Eternal Word of God")
+[![The Eternal Word of God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day014.jpg)](https://youtu.be/RupRbJjkP6c "The Eternal Word of God")
 
 ![Day 14 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day14Snippet.jpg?raw=true)
 ![Day 14 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day14Snippet2.jpg?raw=true)
@@ -109,14 +111,14 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 # January 15,2023
 ---
 
-[![Interpreting Scripture](https://img.youtube.com/vi/gS4ndVFUaWU/maxresdefault.jpg)](https://youtu.be/gS4ndVFUaWU "Interpreting Scripture")
+[![Interpreting Scripture](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day015.jpg)](https://youtu.be/gS4ndVFUaWU "Interpreting Scripture")
 
 ![Day 15 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day15Snippet.jpg?raw=true)
 
 # January 16,2023
 ---
 
-[![Senses of Scripture](https://img.youtube.com/vi/KlEbSJZLXH0/maxresdefault.jpg)](https://youtu.be/KlEbSJZLXH0 "Senses of Scripture")
+[![Senses of Scripture](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day016.jpg)](https://youtu.be/KlEbSJZLXH0 "Senses of Scripture")
 
 ![Day 16 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day16Snippet1.jpg?raw=true)
 ![Day 16 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day16Snippet2.jpg?raw=true)
@@ -125,19 +127,21 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 # January 17,2023
 ---
 
-[![The Canon of Scripture](https://img.youtube.com/vi/MnACjqii5iw/maxresdefault.jpg)](https://youtu.be/MnACjqii5iw "The Canon of Scripture")
+[![The Canon of Scripture](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day017.jpg)](https://youtu.be/MnACjqii5iw "The Canon of Scripture")
 ![Day 17 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day17Snippet.jpg?raw=true)
 
 # January 18,2023
 ---
 
-[![The Unity of the Testaments](https://img.youtube.com/vi/R00NkT22aa4/maxresdefault.jpg)](https://youtu.be/R00NkT22aa4 "The Unity of the Testaments")
+[![The Unity of the Testaments](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
+dayofyear - day of year/jpgs/Day018.jpg)](https://youtu.be/R00NkT22aa4 "The Unity of the Testaments")
 ![Day 18 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day18Snippet.jpg?raw=true)
 
 # January 19,2023
 ---
 
-[![Summary of Sacred Scripture](https://img.youtube.com/vi/f58uLVkEh7o/maxresdefault.jpg)](https://youtu.be/f58uLVkEh7o "Summary of Sacred Scripture")
+[![Summary of Sacred Scripture](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
+dayofyear - day of year/jpgs/Day019.jpg)](https://youtu.be/f58uLVkEh7o "Summary of Sacred Scripture")
 
 ![Day 19 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day19Snippet.jpg?raw=true)
 
@@ -145,7 +149,7 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 ---
 
 
-[![Stepping in Faith](https://img.youtube.com/vi/CgQjVnOF5S4/maxresdefault.jpg)](https://youtu.be/CgQjVnOF5S4 "Stepping in Faith")
+[![Stepping in Faith](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day020.jpg)](https://youtu.be/CgQjVnOF5S4 "Stepping in Faith")
 
 ![Day 20 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day20Snippet1.jpg?raw=true)
 ![Day 20 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day20Snippet2.jpg?raw=true)
@@ -153,7 +157,7 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 # January 21,2023
 ---
 
-[![Believing God](https://img.youtube.com/vi/Bj6Ytevkc14/maxresdefault.jpg)](https://youtu.be/Bj6Ytevkc14 "Believing God")
+[![Believing God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day021.jpg)](https://youtu.be/Bj6Ytevkc14 "Believing God")
 
 ![Day 21 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day21Snippet1.jpg?raw=true)
 ![Day 21 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day21Snippet2.jpg?raw=true)
@@ -161,7 +165,7 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 # January 22,2023
 ---
 
-[![Wrestling with Faith](https://img.youtube.com/vi/y2QPS40_pi0/maxresdefault.jpg)](https://youtu.be/y2QPS40_pi0 "Wrestling with Faith")
+[![Wrestling with Faith](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day022.jpg)](https://youtu.be/y2QPS40_pi0 "Wrestling with Faith")
 
 ![Day 22 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day22Snippet1.jpg?raw=true)
 ![Day 22 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day22Snippet2.jpg?raw=true)
@@ -169,26 +173,26 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 # January 23,2023
 ---
 
-[![We Believe](https://img.youtube.com/vi/kTXvbzTt1Jg/maxresdefault.jpg)](https://youtu.be/kTXvbzTt1Jg "We Believe")
+[![We Believe](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day023.jpg)](https://youtu.be/kTXvbzTt1Jg "We Believe")
 ![Day 23 Snippet1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day23Snippet1.jpg?raw=true)
 ![Day 23 Snippet2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day23Snippet2.jpg?raw=true)
 
 # January 24,2023
 ---
 
-[![Unity of Faith](https://img.youtube.com/vi/AERMYgipDU8/maxresdefault.jpg)](https://youtu.be/AERMYgipDU8 "Unity of Faith")
+[![Unity of Faith](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day024.jpg)](https://youtu.be/AERMYgipDU8 "Unity of Faith")
 ![Day 24 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day24Snippet.jpg?raw=true)
 
 # January 25,2023
 ---
 
-[![Summary of Faith](https://img.youtube.com/vi/OOmWHZ4J8Pw/maxresdefault.jpg)](https://youtu.be/OOmWHZ4J8Pw "Summary of Faith")
+[![Summary of Faith](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day025.jpg)](https://youtu.be/OOmWHZ4J8Pw "Summary of Faith")
 ![Day 25 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day25Snippet.jpg?raw=true)
 
 # January 26,2023
 ---
 
-[![Communion of Believers](https://img.youtube.com/vi/ypR-GlqM0nc/maxresdefault.jpg)](https://youtu.be/ypR-GlqM0nc "Communion of Believers")
+[![Communion of Believers](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day026.jpg)](https://youtu.be/ypR-GlqM0nc "Communion of Believers")
 CIAY  DAY 26.
 Today we learn on the Profession of the Christian Faith. A true language of faith, speaks of Divine Persons and of Great Importance for everyone to have a right standing with God. Resembles GOD Our Father, SON JESUS CHRIST through the HOLY SPIRIT which came to being at the beginning of time. An Identity of God Our Father, Son Jesus Christ and His Breath The Holy Spirit.
 ![Day 26 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day26Snippet.jpg?raw=true)
@@ -196,7 +200,7 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 # January 27,2023
 ---
 
-[![The Gift of the Creed](https://img.youtube.com/vi/y9FnljV4bKg/maxresdefault.jpg)](https://youtu.be/y9FnljV4bKg "The Gift of the Creed")
+[![The Gift of the Creed](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day027.jpg)](https://youtu.be/y9FnljV4bKg "The Gift of the Creed")
 ![Day 27 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day27Snippet.jpg?raw=true)
 ![The Athanasian Creed 1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/AthanasianCreed1.jpg?raw=true)
 ![The Athanasian Creed 2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/AthanasianCreed2.jpg?raw=true)
@@ -204,26 +208,28 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 # January 28,2023
 ---
 
-[![The Nature of God](https://img.youtube.com/vi/5dsCqDWE36g/maxresdefault.jpg)](https://youtu.be/5dsCqDWE36g "The Nature of God")
+[![The Nature of God](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
+dayofyear - day of year/jpgs/Day028.jpg)](https://youtu.be/5dsCqDWE36g "The Nature of God")
 ![Day 28 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day28Snippet.jpg?raw=true)
 
 # January 29,2023
 ---
 
-[![Knowing the Name of God](https://img.youtube.com/vi/TBB6IMNXJlo/maxresdefault.jpg)](https://youtu.be/TBB6IMNXJlo "Knowing the Name of God")
+[![Knowing the Name of God](https://raw.githubusercontent.com/fernal73/CIAY/main/mfromdoy dayofyear
+dayofyear - day of year/jpgs/Day029.jpg)](https://youtu.be/TBB6IMNXJlo "Knowing the Name of God")
 ![Day 29 Snippet 1](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day29Snippet1.jpg?raw=true)
 ![Day 29 Snippet 2](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day29Snippet2.jpg?raw=true)
 
 # January 30,2023
 ---
 
-[![God is Who Is](https://img.youtube.com/vi/JhGFGvPnJqA/maxresdefault.jpg)](https://youtu.be/JhGFGvPnJqA "God is Who Is")
+[![God is Who Is](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day030.jpg)](https://youtu.be/JhGFGvPnJqA "God is Who Is")
 ![Day 30 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day30Snippet.jpg?raw=true)
 
 # January 31,2023
 ---
 
-[![The Meaning of Faith](https://img.youtube.com/vi/ky3TDjcGGGs/maxresdefault.jpg)](https://youtu.be/ky3TDjcGGGs "The Meaning of Faith")
+[![The Meaning of Faith](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day031.jpg)](https://youtu.be/ky3TDjcGGGs "The Meaning of Faith")
 ![Day 31 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day31Snippet.jpg?raw=true)
 
 # Recap Jan 1 - 31,2023
