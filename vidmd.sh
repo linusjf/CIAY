@@ -16,6 +16,21 @@ usagevidmd() {
   exit 1
 }
 
+usagevidmdloc() {
+  echo "$0 vidid vidurl caption doy"
+  echo "vid - video id"
+  echo "vidurl - video url"
+  echo "caption - video title"
+  echo "doy - day of year"
+  exit 1
+}
+
+playiconurl() {
+  doy="$(printf "%03d" "$1")"
+  month="$(./mfromdoy "$1")"
+  echo "https://github.com/fernal73/CIAY/main/{$month}/jpgs/Day${doy}.jpg?raw=true"
+}
+
 thumbnailurl() {
   urls=("https://img.youtube.com/vi/${1}/maxresdefault.jpg"
     "https://img.youtube.com/vi/${1}/hqdefault.jpg"
@@ -52,6 +67,22 @@ vidmd() {
   vidid="$1"
   vidurl="$2"
   caption="$3"
+  if imgurl="$(thumbnailurl "$vidid")"; then
+    printf "[![%s](%s)](%s \"%s\")\n" "$caption" "$imgurl" "$vidurl" "$caption"
+  else
+    echo >&2 "Thumbnails unverifiable,invalid or absent."
+    return 1
+  fi
+}
+
+vidmdloc() {
+  if test $# -lt 4; then
+    usagevidmdloc
+  fi
+  vidid="$1"
+  vidurl="$2"
+  caption="$3"
+  doy="$3"
   if imgurl="$(thumbnailurl "$vidid")"; then
     printf "[![%s](%s)](%s \"%s\")\n" "$caption" "$imgurl" "$vidurl" "$caption"
   else
