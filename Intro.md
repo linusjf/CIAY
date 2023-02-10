@@ -25,8 +25,8 @@
 
 ### Videos
 
-[![Why Scripture and Tradition?](https://github.com/fernal73/CIAY/blob/main/PreparingJourney.jpg?raw=true)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
-[![How Do We Trust In Church Authority?](https://github.com/fernal73/CIAY/blob/main/CathecismChurch.jpg?raw=true)](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")
+[![Why Scripture and Tradition?](https://github.com/fernal73/CIAY/blob/main/preparingjourney.jpg?raw=true)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
+[![How Do We Trust In Church Authority?](https://github.com/fernal73/CIAY/blob/main/cathecismchurch.jpg?raw=true)](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")
 ---
 
 ### Guidelines For Sharing 
