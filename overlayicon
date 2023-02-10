@@ -28,6 +28,6 @@ icon="icons8-youtube-144.png"
 tmp=$(mktemp)
 if magick convert "$1" \
   \( "$icon" -normalize +level 0,60% \) \
-  -gravity Center -geometry 128x128+30+5 -composite "$tmp"; then
+  -gravity center -geometry 128x128+32+0 -composite "$tmp"; then
   mv "$tmp" "$1"
 fi
