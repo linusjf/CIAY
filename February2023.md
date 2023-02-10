@@ -52,3 +52,7 @@
 ---
 [![God is the Creator](https://img.youtube.com/vi/yC98tBMZNT0/maxresdefault.jpg)](https://youtu.be/yC98tBMZNT0 "God is the Creator")
 ![Day 40 Snippet](https://github.com/fernal73/CIAY/blob/main/February/jpgs/Day40Snippet.jpg?raw=true)
+
+# February 10,2023
+---
+[![Origins and Ends](https://img.youtube.com/vi/JSnQzyy5I1g/maxresdefault.jpg)](https://youtu.be/JSnQzyy5I1g "Origins and Ends")
