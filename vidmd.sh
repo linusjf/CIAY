@@ -28,7 +28,7 @@ usagevidmdloc() {
 playiconurl() {
   doy="$(printf "%03d" "$1")"
   month="$(./mfromdoy "$1")"
-  echo "https://github.com/fernal73/CIAY/main/{$month}/jpgs/Day${doy}.jpg?raw=true"
+  echo "https://github.com/fernal73/CIAY/blob/main/{$month}/jpgs/Day${doy}.jpg?raw=true"
 }
 
 thumbnailurl() {
