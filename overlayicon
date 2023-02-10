@@ -24,10 +24,10 @@ if ! isjpegfile "$1"; then
   usage
 fi
 
-icon="icons8-youtube-144.png"
+icon="play-button.png"
 tmp=$(mktemp)
 if magick convert "$1" \
   \( "$icon" -normalize +level 0,100% \) \
-  -gravity center -geometry 128x128+32+0 -composite "$tmp"; then
+  -gravity center -geometry 256x256+32+0 -composite "$tmp"; then
   mv "$tmp" "$1"
 fi
