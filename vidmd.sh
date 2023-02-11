@@ -9,7 +9,7 @@
 ######################################################################
 
 usagevidmd() {
-  echo "$0 vidid vidurl caption"
+  echo "vidmd vidid vidurl caption"
   echo "vid - video id"
   echo "vidurl - video url"
   echo "caption - video title"
@@ -17,7 +17,7 @@ usagevidmd() {
 }
 
 usagevidmdloc() {
-  echo "$0 vidid vidurl caption doy"
+  echo "vidmdloc vidid vidurl caption doy"
   echo "vid - video id"
   echo "vidurl - video url"
   echo "caption - video title"
@@ -59,6 +59,11 @@ thumbnailurl() {
     fi
   done
   return 1
+}
+
+downloadthumbnail() {
+  url="$(thumbnailurl "$1")"
+  curl --silent "$url" --output "$2"
 }
 
 vidmd() {

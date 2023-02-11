@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+usage() {
+  echo "$0" vid output
+  echo "vid - video id"
+  echo "output - path to output file"
+  exit 1
+}
+#shellcheck disable=SC1091
+source ./vidmd.sh
+downloadthumbnail "$1" "$2"
+./overlayicon "$2"
