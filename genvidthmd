@@ -2,7 +2,7 @@
 #shellcheck disable=SC1091
 source ./vidmd.sh
 usage() {
-  echo "$0 vid vidurl caption"
+  echo "$0 vid vidurl caption doy"
   echo "vid - video id"
   echo "vidurl - video url"
   echo "caption - video title"

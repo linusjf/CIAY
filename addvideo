@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+usage() {
+  echo "$0 vid doy"
+  echo "vid - video id"
+  echo "doy - day of year"
+  echo "caption - video title"
+  exit 1
+}
+#shellcheck disable=SC1091
+source ./vidmd.sh
+vid="$1"
+doy="$2"
+echo "$vid" >>videos.txt
+./genoverlay "$vid" "$doy"
+videourl="https://youtu.be/${vid}"
+caption="$3"
+md="$(./genvidthmd "$vid" "$videourl" "$caption" "$doy")"
+month="$(mfromdoy "$doy")"
+fname="${month}/Day$(printf "%03d" "$doy").md"
+formatdt="$(date '+%B %d, %Y')"
+echo "# $formatdt" >"$fname"
+echo "---" >>"$fname"
+echo >>"$fname"
+echo >>"$md"
+echo "$fname" >>"${month}/compact.txt"
+./compact "$month" >|"$(date '+%B%Y.md')"
