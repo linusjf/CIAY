@@ -14,7 +14,6 @@ require basename date
 source ./vidmd.sh
 vid="$1"
 doy="$2"
-echo "$vid" >>videos.txt
 ./genoverlay "$vid" "$doy"
 videourl="https://youtu.be/${vid}"
 caption="$3"
@@ -31,3 +30,4 @@ echo "# $formatdt" >|"$fname"
 
 basename -- "$fname" >>"${month}/compact.txt"
 ./compact "$month" >|"$(date '+%B%Y.md')"
+echo "$vid" >>videos.txt
