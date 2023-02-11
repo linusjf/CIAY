@@ -5,7 +5,6 @@
   * [[!How Do We Trust In Church Authority?](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")](#how-do-we-trust-in-church-authorityhttpsyoutubeqizpb2jcoym-how-do-we-trust-in-church-authority)
     * [Guidelines For Sharing](#guidelines-for-sharing)
   * [Reflection content](#reflection-content)
-  * [-----](#-----)
     * [Intercession group](#intercession-group)
 
 <!-- vim-markdown-toc -->
@@ -31,7 +30,7 @@
 
 ### Guidelines For Sharing 
 
-\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\\#\#\#\#\#
+\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
 After listening to the days episode please share your reflections, thoughts and comments.
 Send the reflection to the Admin, I will randomly pick a few reflections to share with the group.  
@@ -40,7 +39,6 @@ Please use this format:
 
 CIAY Day #
 Reflection content 
------
 -----
 
 - John Smith (Your Name)
