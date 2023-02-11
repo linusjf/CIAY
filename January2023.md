@@ -1,9 +1,9 @@
-# 1st Jan, 2023:
+# January 1, 2023:
 
 [![To Know And To Love God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day001.jpg)](https://www.youtube.com/watch?v=tI-pOSv7tvg "To Know And To Love God")
 ![Day 1 Snippet](https://github.com/fernal73/CIAY/blob/main/January/jpgs/Day1Snippet.jpg?raw=true)
 
-# 2nd January, 2023:
+# January 2, 2023:
 
 [![How The Cathecism Works](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day002.jpg)](https://youtu.be/lSyMNeL7Fz0 "How The Cathecism Works")
 
