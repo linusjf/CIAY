@@ -31,7 +31,7 @@
 
 ### Guidelines For Sharing 
 
-######################
+\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\\#\#\#\#\#
 
 After listening to the days episode please share your reflections, thoughts and comments.
 Send the reflection to the Admin, I will randomly pick a few reflections to share with the group.  
@@ -45,7 +45,7 @@ Reflection content
 
 - John Smith (Your Name)
 
-######################
+\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
 ### Intercession group
 [Intercession group](https://chat.whatsapp.com/HLiWLGdeDz9DCgHFbH5qwc)
