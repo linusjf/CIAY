@@ -56,3 +56,7 @@
 # February 10,2023
 ---
 [![Origins and Ends](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day041.jpg)](https://youtu.be/JSnQzyy5I1g "Origins and Ends")
+
+# February 11,2023
+---
+[![The Work of Creation](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day042.jpg)](https://youtu.be/9MZ7LQkw23A "The Work of Creation")
