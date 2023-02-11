@@ -21,7 +21,7 @@ require mktemp mv mktemp curl
 dir="$1"
 
 regex='^\[\!\[([A-Za-z0-9\? \-]+)\]'
-regex+='\((https\://[a-zA-z0-9/=\?\.\-]+)\)\]\('
+regex+='\((https\://.+)\)\]\('
 regex+='(https\://youtu\.be/|'
 regex+='https\://www\.youtube\.com/watch\?v=)([A-Za-z0-9_\-]+)'
 regex+=' +'
