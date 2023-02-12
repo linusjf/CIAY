@@ -30,6 +30,7 @@ for doy in "$@"; do
   shopt -u nullglob
   if [[ "$oldmonth" != "$month" ]]; then
     ./compact "$oldmonth" >|"${oldmonth}2023.md"
+    oldmonth="$month"
   fi
 done
 ./compact "$month" >|"${month}2023.md"
