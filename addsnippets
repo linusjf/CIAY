@@ -3,27 +3,32 @@ require() {
   hash "$@" || exit
 }
 usage() {
-  echo "$0 doy"
+  echo "$0 [doy ... doy]"
   echo "doy - day of year"
   exit 1
 }
 require date
 #shellcheck disable=SC1091
 source ./vidmd.sh
-doy="$1"
-month="$(mfromdoy "$doy")"
-mdfile="${month}/Day$(printf "%03d" "$doy").md"
-fname="${month}/jpgs/Day$(printf "%d" "$doy")Snippet*.jpg"
-regexjpg='^\./[A-Za-z]+/jpgs/Day[0-9]+Snippet([0-9])\.jpg$'
-shopt -s nullglob
-for file in ./$fname; do
-  if [[ $file =~ $regexjpg ]]; then
-    snippet="${BASH_REMATCH[1]}"
-    url="https://raw.githubusercontent.com/fernal73/CIAY/main/${month}/jpgs/Day$(printf "%d" "$doy")Snippet${snippet}.jpg"
-    caption="Day $(printf "%d" "$doy") Snippet ${snippet}"
-    md="![${caption}](${url})"
-    echo "$md" >>"$mdfile"
+oldmonth="$(mfromdoy "$1")"
+for doy in "$@"; do
+  month="$(mfromdoy "$doy")"
+  mdfile="${month}/Day$(printf "%03d" "$doy").md"
+  fname="${month}/jpgs/Day$(printf "%d" "$doy")Snippet*.jpg"
+  regexjpg='^\./[A-Za-z]+/jpgs/Day[0-9]+Snippet([0-9])\.jpg$'
+  shopt -s nullglob
+  for file in ./$fname; do
+    if [[ $file =~ $regexjpg ]]; then
+      snippet="${BASH_REMATCH[1]}"
+      url="https://raw.githubusercontent.com/fernal73/CIAY/main/${month}/jpgs/Day$(printf "%d" "$doy")Snippet${snippet}.jpg"
+      caption="Day $(printf "%d" "$doy") Snippet ${snippet}"
+      md="![${caption}](${url})"
+      echo "$md" >>"$mdfile"
+    fi
+  done
+  shopt -u nullglob
+  if [[ "$oldmonth" != "$month" ]]; then
+    ./compact "$oldmonth" >|"${oldmonth}2023.md"
   fi
 done
-shopt -u nullglob
 ./compact "$month" >|"${month}2023.md"
