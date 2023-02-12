@@ -2,6 +2,7 @@
 ---
 
 [![The Most Holy Trinity](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day032.jpg)](https://youtu.be/dd0QXMRz0yE "The Most Holy Trinity")
+![Day 32 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day32Snippet.jpg)
 
 # February 2,2023
 ---
@@ -21,11 +22,13 @@
 ---
 
 [![Formation of Trinitarian Dogma](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day035.jpg)](https://youtu.be/xFB_76gATvc "Formation of Trinitarian Dogma")
+![Day 35 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day35Snippet.jpg)
 
 # February 5,2023
 ---
 
 [![The Nature of the Trinity](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day036.jpg)](https://youtu.be/BPR1mWKLkig "The Nature of the Trinity")
+![Day 36 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day36Snippet.jpg)
 
 # February 6,2023
 ---
@@ -38,14 +41,17 @@
 ---
 [![Summary of the Trinity](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day038.jpg)](https://youtu.be/U6etZyhOZZc "Summary of the Trinity")
 ![Most Holy Trinity Mystery](https://github.com/fernal73/CIAY/blob/main/February/jpgs/HolyTrinityMystery.jpg?raw=true)
+![Day 38 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day38Snippet.jpg)
 
 # February 8,2023
 ---
 [![The Father Almighty](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day039.jpg)](https://youtu.be/n6MMrpNdEd4 "The Father Almighty")
+![Day 39 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day39Snippet.jpg)
 
 # February 9,2023
 ---
 [![God is the Creator](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day040.jpg)](https://youtu.be/yC98tBMZNT0 "God is the Creator")
+![Day 40 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day40Snippet.jpg)
 
 # February 10,2023
 ---
