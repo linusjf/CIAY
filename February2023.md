@@ -63,3 +63,8 @@
 ---
 
 [![The Work of Creation](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day042.jpg)](https://youtu.be/9MZ7LQkw23A "The Work of Creation")
+
+# February 12, 2023
+---
+
+[![Creation is Good](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day043.jpg)](https://youtu.be/SovrS4XWQS8 "Creation is Good")
