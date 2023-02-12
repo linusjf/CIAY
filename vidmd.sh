@@ -101,6 +101,10 @@ isnumeric() {
 }
 
 mfromdoy() {
+  if ! isnumeric "$1"; then
+    echo 2>"$1 is not numeric"
+    return 1
+  fi
   ((day = 10#$1 - 1))
   date --date="jan 1 + $day days" +%B
 }

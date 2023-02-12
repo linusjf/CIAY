@@ -10,24 +10,33 @@ usage() {
   exit 1
 }
 require basename date
+if test $# -ne 3; then
+  usage
+fi
 #shellcheck disable=SC1091
 source ./vidmd.sh
+if ! isnumeric "$2"; then
+  usage
+fi
 vid="$1"
 doy="$2"
-./genoverlay "$vid" "$doy"
 videourl="https://youtu.be/${vid}"
 caption="$3"
-md="$(./genvidthmd "$vid" "$videourl" "$caption" "$doy")"
-month="$(mfromdoy "$doy")"
-fname="${month}/Day$(printf "%03d" "$doy").md"
-formatdt="$(date '+%B %d, %Y')"
-echo "# $formatdt" >|"$fname"
-{
-  echo "---"
-  echo
-  echo "$md"
-} >>"$fname"
+if ./genoverlay "$vid" "$doy"; then
+  md="$(./genvidthmd "$vid" "$videourl" "$caption" "$doy")"
+  month="$(mfromdoy "$doy")"
+  fname="${month}/Day$(printf "%03d" "${doy#0}").md"
+  formatdt="$(date '+%B %d, %Y')"
+  echo "# $formatdt" >|"$fname"
+  {
+    echo "---"
+    echo
+    echo "$md"
+  } >>"$fname"
 
-basename -- "$fname" >>"${month}/compact.txt"
-./compact "$month" >|"$(date '+%B%Y.md')"
-echo "$vid" >>videos.txt
+  basename -- "$fname" >>"${month}/compact.txt"
+  ./compact "$month" >|"$(date '+%B%Y.md')"
+  echo "$vid" >>videos.txt
+else
+  echo "Unable to find video thumbnail. Video does not exist."
+fi
