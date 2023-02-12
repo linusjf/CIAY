@@ -17,7 +17,6 @@ fname="${month}/jpgs/Day$(printf "%d" "$doy")Snippet*.jpg"
 regexjpg='^\./[A-Za-z]+/jpgs/Day([0-9]+)Snippet([0-9])\.jpg$'
 shopt -s nullglob
 for file in ./$fname; do
-  echo "$file"
   if [[ $file =~ $regexjpg ]]; then
     snippet="${BASH_REMATCH[2]}"
     url="https://raw.githubusercontent.com/fernal73/CIAY/main/${month}/jpgs/Day$(printf "%d" "$doy")Snippet${snippet}.jpg"
