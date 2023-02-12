@@ -16,7 +16,7 @@ for doy in "$@"; do
   month="$(mfromdoy "$doy")"
   mdfile="${month}/Day$(printf "%03d" "$doy").md"
   fname="${month}/jpgs/Day$(printf "%d" "$doy")Snippet*.jpg"
-  regexjpg='^\./[A-Za-z]+/jpgs/Day[0-9]+Snippet([0-9]*)\.jpg$'
+  regexjpg='^\./[A-Za-z]+/jpgs/Day[0-9]+Snippet([0-9]?)\.jpg$'
   shopt -s nullglob
   for file in ./$fname; do
     if [[ $file =~ $regexjpg ]]; then
