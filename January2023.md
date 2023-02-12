@@ -6,13 +6,12 @@
 # January 2, 2023:
 
 [![How The Cathecism Works](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day002.jpg)](https://youtu.be/lSyMNeL7Fz0 "How The Cathecism Works")
-
 ![Day 2 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day2Snippet1.jpg)
 ![Day 2 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day2Snippet2.jpg)
 
 # January 3,2023:
-
 ---
+
 [![What we believe - Part I](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day003.jpg)](https://www.youtube.com/watch?v=lChGowdD7ZQ "What we believe - Part I")
 ![Day 3 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day3Snippet.jpg)
 

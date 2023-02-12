@@ -11,6 +11,7 @@ require date
 #shellcheck disable=SC1091
 source ./vidmd.sh
 oldmonth="$(mfromdoy "$1")"
+month=""
 for doy in "$@"; do
   month="$(mfromdoy "$doy")"
   mdfile="${month}/Day$(printf "%03d" "$doy").md"
