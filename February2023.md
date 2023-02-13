@@ -70,3 +70,8 @@
 ---
 
 [![Creation is Good](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day043.jpg)](https://youtu.be/SovrS4XWQS8 "Creation is Good")
+
+# February 13, 2023
+---
+
+[![The Scandal of Evil](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day044.jpg)](https://youtu.be/Ha3Hsi15CQs "The Scandal of Evil")
