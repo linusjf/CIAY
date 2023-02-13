@@ -5,11 +5,18 @@ require() {
 usage() {
   echo "$0 [doy ... doy]"
   echo "doy - day of year"
+  echo "doy must be integer"
   exit 1
 }
 require date
 #shellcheck disable=SC1091
 source ./vidmd.sh
+for doy in "$@"; do
+  if ! isnumeric "$doy"; then
+    usage
+  fi
+done
+
 oldmonth="$(mfromdoy "$1")"
 month=""
 for doy in "$@"; do
