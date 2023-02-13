@@ -1,40 +1,41 @@
--   [January 2023](#january-2023){#toc-january-2023}
-    -   [January 1, 2023](#january-1-2023){#toc-january-1-2023}
-    -   [January 2, 2023](#january-2-2023){#toc-january-2-2023}
-    -   [January 3,2023](#january-32023){#toc-january-32023}
-    -   [January 4, 2023](#january-4-2023){#toc-january-4-2023}
-    -   [January 5, 2023](#january-5-2023){#toc-january-5-2023}
-    -   [January 6, 2023](#january-6-2023){#toc-january-6-2023}
-    -   [January 7,2023](#january-72023){#toc-january-72023}
-    -   [January 8,2023](#january-82023){#toc-january-82023}
-    -   [January 9,2023](#january-92023){#toc-january-92023}
-    -   [January 10,2023](#january-102023){#toc-january-102023}
-    -   [January 11,2023](#january-112023){#toc-january-112023}
-    -   [January 12,2023](#january-122023){#toc-january-122023}
-    -   [January 13,2023](#january-132023){#toc-january-132023}
-    -   [January 14,2023](#january-142023){#toc-january-142023}
-    -   [January 15,2023](#january-152023){#toc-january-152023}
-    -   [January 16,2023](#january-162023){#toc-january-162023}
-    -   [January 17,2023](#january-172023){#toc-january-172023}
-    -   [January 18,2023](#january-182023){#toc-january-182023}
-    -   [January 19,2023](#january-192023){#toc-january-192023}
-    -   [January 20,2023](#january-202023){#toc-january-202023}
-    -   [January 21,2023](#january-212023){#toc-january-212023}
-    -   [January 22,2023](#january-222023){#toc-january-222023}
-    -   [January 23,2023](#january-232023){#toc-january-232023}
-    -   [January 24,2023](#january-242023){#toc-january-242023}
-    -   [January 25,2023](#january-252023){#toc-january-252023}
-    -   [January 26,2023](#january-262023){#toc-january-262023}
-    -   [January 27,2023](#january-272023){#toc-january-272023}
-    -   [January 28,2023](#january-282023){#toc-january-282023}
-    -   [January 29,2023](#january-292023){#toc-january-292023}
-    -   [January 30,2023](#january-302023){#toc-january-302023}
-    -   [January 31,2023](#january-312023){#toc-january-312023}
-    -   [Recap Jan 1 -
-        31,2023](#recap-jan-1---312023){#toc-recap-jan-1---312023}
+<!-- vim-markdown-toc GFM -->
 
-# January 2023
+* [January 2023](#january-2023)
+  * [January 1, 2023](#january-1-2023)
+  * [January 2, 2023](#january-2-2023)
+  * [January 3,2023](#january-32023)
+  * [January 4, 2023](#january-4-2023)
+  * [January 5, 2023](#january-5-2023)
+  * [January 6, 2023](#january-6-2023)
+  * [January 7,2023](#january-72023)
+  * [January 8,2023](#january-82023)
+  * [January 9,2023](#january-92023)
+  * [January 10,2023](#january-102023)
+  * [January 11,2023](#january-112023)
+  * [January 12,2023](#january-122023)
+  * [January 13,2023](#january-132023)
+  * [January 14,2023](#january-142023)
+  * [January 15,2023](#january-152023)
+  * [January 16,2023](#january-162023)
+  * [January 17,2023](#january-172023)
+  * [January 18,2023](#january-182023)
+  * [January 19,2023](#january-192023)
+  * [January 20,2023](#january-202023)
+  * [January 21,2023](#january-212023)
+  * [January 22,2023](#january-222023)
+  * [January 23,2023](#january-232023)
+  * [January 24,2023](#january-242023)
+  * [January 25,2023](#january-252023)
+  * [January 26,2023](#january-262023)
+  * [January 27,2023](#january-272023)
+  * [January 28,2023](#january-282023)
+  * [January 29,2023](#january-292023)
+  * [January 30,2023](#january-302023)
+  * [January 31,2023](#january-312023)
+  * [Recap Jan 1 - 31,2023](#recap-jan-1---312023)
 
+<!-- vim-markdown-toc -->
+# January 2023 #
 CIAY January, 2023
 
 ## January 1, 2023
