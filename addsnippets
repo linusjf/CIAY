@@ -8,7 +8,7 @@ usage() {
   echo "doy must be integer"
   exit 1
 }
-require date
+require date pandoc mv mktemp
 #shellcheck disable=SC1091
 source ./vidmd.sh
 if $# -eq 0; then
@@ -40,7 +40,13 @@ for doy in "$@"; do
   shopt -u nullglob
   if [[ "$oldmonth" != "$month" ]]; then
     ./compact "$oldmonth" >|"${oldmonth}2023.md"
+    tmp="$(mktemp)"
+    pandoc -s -t markdown --toc "${oldmonth}2023.md" -o "$tmp" -- &&
+      mv "$tmp" "${oldmonth}2023.md"
     oldmonth="$month"
   fi
 done
 ./compact "$month" >|"${month}2023.md"
+tmp="$(mktemp)"
+pandoc -s -t markdown --toc "${month}2023.md" -o "$tmp" -- &&
+  mv "$tmp" "${month}2023.md"
