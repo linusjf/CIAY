@@ -1,14 +1,13 @@
+# CIAY 2023 Members
 <!-- vim-markdown-toc GFM -->
 
-* [CIAY 2023 Members](#ciay-2023-members)
-    * [Videos](#videos)
-  * [[!How Do We Trust In Church Authority?](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")](#how-do-we-trust-in-church-authorityhttpsyoutubeqizpb2jcoym-how-do-we-trust-in-church-authority)
-    * [Guidelines For Sharing](#guidelines-for-sharing)
-  * [Reflection content](#reflection-content)
-    * [Intercession group](#intercession-group)
+  * [Videos](#videos)
+* [[!How Do We Trust In Church Authority?](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")](#how-do-we-trust-in-church-authorityhttpsyoutubeqizpb2jcoym-how-do-we-trust-in-church-authority)
+  * [Guidelines For Sharing](#guidelines-for-sharing)
+* [Reflection content](#reflection-content)
+  * [Intercession group](#intercession-group)
 
 <!-- vim-markdown-toc -->
-# CIAY 2023 Members
 
 1. The countdown is ON - its less than 24 hours to CIAY 2023. Yeah!! So excited. :)
 
