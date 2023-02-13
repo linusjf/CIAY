@@ -11,6 +11,9 @@ usage() {
 require date
 #shellcheck disable=SC1091
 source ./vidmd.sh
+if $# -eq 0; then
+  usage
+fi
 for doy in "$@"; do
   if ! isnumeric "$doy"; then
     usage
