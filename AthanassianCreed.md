@@ -1,3 +1,60 @@
+Whoever desires to be saved should above all hold to the catholic faith.
+
+Anyone who does not keep it whole and unbroken will doubtless perish eternally.
+
+Now this is the catholic faith:
+
+That we worship one God in trinity and the trinity in unity,
+neither blending their persons
+nor dividing their essence.
+For the person of the Father is a distinct person,
+the person of the Son is another,
+and that of the Holy Spirit still another.
+But the divinity of the Father, Son, and Holy Spirit is one,
+their glory equal, their majesty coeternal.
+
+What quality the Father has, the Son has, and the Holy Spirit has.
+The Father is uncreated,
+the Son is uncreated,
+the Holy Spirit is uncreated.
+
+The Father is immeasurable,
+the Son is immeasurable,
+the Holy Spirit is immeasurable.
+
+The Father is eternal,
+the Son is eternal,
+the Holy Spirit is eternal.
+
+And yet there are not three eternal beings;
+there is but one eternal being.
+So too there are not three uncreated or immeasurable beings;
+there is but one uncreated and immeasurable being.
+
+Similarly, the Father is almighty,
+the Son is almighty,
+the Holy Spirit is almighty.
+Yet there are not three almighty beings;
+there is but one almighty being.
+
+Thus the Father is God,
+the Son is God,
+the Holy Spirit is God.
+Yet there are not three gods;
+there is but one God.
+
+Thus the Father is Lord,
+the Son is Lord,
+the Holy Spirit is Lord.
+Yet there are not three lords;
+there is but one Lord.
+
+Just as Christian truth compels us
+to confess each person individually
+as both God and Lord,
+so catholic religion forbids us
+to say that there are three gods or lords.
+
 The Father was neither made nor created nor begotten from anyone.
 The Son was neither made nor created;
 he was begotten from the Father alone.
