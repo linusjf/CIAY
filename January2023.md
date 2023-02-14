@@ -1,12 +1,12 @@
 <!-- toc -->
 
 - [January 2023](#january-2023)
-  * [January 1, 2023](#january-1-2023)
-  * [January 2, 2023](#january-2-2023)
+  * [January 1,2023](#january-12023)
+  * [January 2,2023](#january-22023)
   * [January 3,2023](#january-32023)
-  * [January 4, 2023](#january-4-2023)
-  * [January 5, 2023](#january-5-2023)
-  * [January 6, 2023](#january-6-2023)
+  * [January 4,2023](#january-42023)
+  * [January 5,2023](#january-52023)
+  * [January 6,2023](#january-62023)
   * [January 7,2023](#january-72023)
   * [January 8,2023](#january-82023)
   * [January 9,2023](#january-92023)
@@ -37,14 +37,14 @@
 <!-- tocstop -->
 
 # January 2023 #
-CIAY January, 2023
+CIAY January 2023
 
-## January 1, 2023 ##
+## January 1,2023 ##
 
 [![To Know And To Love God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day001.jpg)](https://www.youtube.com/watch?v=tI-pOSv7tvg "To Know And To Love God")
 ![Day 1 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day1Snippet.jpg)
 
-## January 2, 2023 ##
+## January 2,2023 ##
 
 [![How The Cathecism Works](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day002.jpg)](https://youtu.be/lSyMNeL7Fz0 "How The Cathecism Works")
 ![Day 2 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day2Snippet1.jpg)
@@ -55,19 +55,19 @@ CIAY January, 2023
 [![What we believe - Part I](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day003.jpg)](https://www.youtube.com/watch?v=lChGowdD7ZQ "What we believe - Part I")
 ![Day 3 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day3Snippet.jpg)
 
-## January 4, 2023 ##
+## January 4,2023 ##
 
 [![Our Capacity for God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day004.jpg)](https://youtu.be/oRpDxjB9K9U "Our Capacity for God")
 ![Day 4 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day4Snippet1.jpg)
 ![Day 4 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day4Snippet2.jpg)
 
-## January 5, 2023 ##
+## January 5,2023 ##
 
 [![How We Know God](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day005.jpg)](https://youtu.be/XscjbW08sHk "How We Know God")
 ![Day 5 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day5Snippet1.jpg)
 ![Day 5 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day5Snippet2.jpg)
 
-## January 6, 2023 ##
+## January 6,2023 ##
 
 [![Knowing God With Certainty](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day006.jpg)](https://youtu.be/CxqVfrtdcNA "Knowing God With Certainty")
 ![Day 6 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/January/jpgs/Day6Snippet.jpg)

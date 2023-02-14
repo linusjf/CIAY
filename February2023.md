@@ -11,14 +11,14 @@
   * [February 8,2023](#february-82023)
   * [February 9,2023](#february-92023)
   * [February 10,2023](#february-102023)
-  * [February 11, 2023](#february-11-2023)
-  * [February 12, 2023](#february-12-2023)
-  * [February 13, 2023](#february-13-2023)
+  * [February 11,2023](#february-112023)
+  * [February 12,2023](#february-122023)
+  * [February 13,2023](#february-132023)
 
 <!-- tocstop -->
 
 # February 2023 #
-CIAY February, 2023
+CIAY February 2023
 
 ## February 1,2023 ##
 
@@ -75,18 +75,18 @@ CIAY February, 2023
 ![Day 41 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day41Snippet1.jpg)
 ![Day 41 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day41Snippet2.jpg)
 
-## February 11, 2023 ##
+## February 11,2023 ##
 
 [![The Work of Creation](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day042.jpg)](https://youtu.be/9MZ7LQkw23A "The Work of Creation")
 ![Day 42 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day42Snippet1.jpg)
 ![Day 42 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day42Snippet2.jpg)
 
-## February 12, 2023 ##
+## February 12,2023 ##
 
 [![Creation is Good](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day043.jpg)](https://youtu.be/SovrS4XWQS8 "Creation is Good")
 ![Day 43 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day43Snippet1.jpg)
 ![Day 43 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day43Snippet2.jpg)
 
-## February 13, 2023 ##
+## February 13,2023 ##
 
 [![The Scandal of Evil](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day044.jpg)](https://youtu.be/Ha3Hsi15CQs "The Scandal of Evil")
