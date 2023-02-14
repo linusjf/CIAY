@@ -84,6 +84,8 @@ CIAY February, 2023
 ## February 12, 2023 ##
 
 [![Creation is Good](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day043.jpg)](https://youtu.be/SovrS4XWQS8 "Creation is Good")
+![Day 43 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day43Snippet1.jpg)
+![Day 43 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day43Snippet2.jpg)
 
 ## February 13, 2023 ##
 

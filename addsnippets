@@ -11,7 +11,7 @@ usage() {
 require date markdown-toc
 #shellcheck disable=SC1091
 source ./vidmd.sh
-if $# -eq 0; then
+if test $# -eq 0; then
   usage
 fi
 for doy in "$@"; do
