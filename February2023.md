@@ -14,6 +14,7 @@
   * [February 11,2023](#february-112023)
   * [February 12,2023](#february-122023)
   * [February 13,2023](#february-132023)
+  * [February 14,2023](#february-142023)
 
 <!-- tocstop -->
 
@@ -90,3 +91,7 @@ CIAY February 2023
 ## February 13,2023 ##
 
 [![The Scandal of Evil](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day044.jpg)](https://youtu.be/Ha3Hsi15CQs "The Scandal of Evil")
+
+## February 14,2023 ##
+
+[![Summary of Creation](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day045.jpg)](https://youtu.be/fhmTjb25K-U "Summary of Creation")
