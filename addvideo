@@ -26,7 +26,7 @@ if ./genoverlay "$vid" "$doy"; then
   md="$(./genvidthmd "$vid" "$videourl" "$caption" "$doy")"
   month="$(mfromdoy "$doy")"
   fname="${month}/Day$(printf "%03d" "${doy#0}").md"
-  formatdt="$(date '+%B %d, %Y')"
+  formatdt="$(date '+%B %d,%Y')"
   echo "## $formatdt ##" >|"$fname"
   {
     echo
