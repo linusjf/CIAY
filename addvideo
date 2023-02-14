@@ -9,7 +9,7 @@ usage() {
   echo "caption - video title"
   exit 1
 }
-require basename date pandoc mktemp mv
+require basename date markdown-toc
 if test $# -ne 3; then
   usage
 fi
@@ -35,10 +35,8 @@ if ./genoverlay "$vid" "$doy"; then
 
   basename -- "$fname" >>"${month}/compact.txt"
   monthmd="$(date '+%B%Y.md')"
-  ./compact "$month" >|"$monthmd"
-  tmp="$(mktemp)"
-  pandoc -s -t markdown --toc "$monthmd" -o "$tmp" -- &&
-    mv "$tmp" "$monthmd"
+  ./compact "$month" >|"$monthmd" &&
+    markdown-toc -i "$monthmd"
   echo "$vid" >>videos.txt
 else
   echo "Unable to find video thumbnail. Video does not exist."
