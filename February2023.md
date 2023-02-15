@@ -15,6 +15,7 @@
   * [February 12,2023](#february-122023)
   * [February 13,2023](#february-132023)
   * [February 14,2023](#february-142023)
+  * [February 15,2023](#february-152023)
 
 <!-- tocstop -->
 
@@ -95,3 +96,7 @@ CIAY February 2023
 ## February 14,2023 ##
 
 [![Summary of Creation](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day045.jpg)](https://youtu.be/fhmTjb25K-U "Summary of Creation")
+
+## February 15,2023 ##
+
+[![Heaven and Earth](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day046.jpg)](https://youtu.be/-i09ICCOSuo "Heaven and Earth")
