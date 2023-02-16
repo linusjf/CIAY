@@ -92,6 +92,8 @@ CIAY February 2023
 ## February 13,2023 ##
 
 [![The Scandal of Evil](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day044.jpg)](https://youtu.be/Ha3Hsi15CQs "The Scandal of Evil")
+![Day 44 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day44Snippet1.jpg)
+![Day 44 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day44Snippet2.jpg)
 
 ## February 14,2023 ##
 
