@@ -16,6 +16,7 @@
   * [February 13,2023](#february-132023)
   * [February 14,2023](#february-142023)
   * [February 15,2023](#february-152023)
+  * [February 16,2023](#february-162023)
 
 <!-- tocstop -->
 
@@ -102,3 +103,7 @@ CIAY February 2023
 ## February 15,2023 ##
 
 [![Heaven and Earth](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day046.jpg)](https://youtu.be/-i09ICCOSuo "Heaven and Earth")
+
+## February 16,2023 ##
+
+[![The Angels](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day047.jpg)](https://youtu.be/pFzMpNowGuY "The Angels")
