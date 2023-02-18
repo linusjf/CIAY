@@ -100,6 +100,8 @@ CIAY February 2023
 ## February 14,2023 ##
 
 [![Summary of Creation](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day045.jpg)](https://youtu.be/fhmTjb25K-U "Summary of Creation")
+![Day 45 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day45Snippet1.jpg)
+![Day 45 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day45Snippet2.jpg)
 
 ## February 15,2023 ##
 
