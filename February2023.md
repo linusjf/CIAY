@@ -18,6 +18,7 @@
   * [February 15,2023](#february-152023)
   * [February 16,2023](#february-162023)
   * [February 17,2023](#february-172023)
+  * [February 18,2023](#february-182023)
 
 <!-- tocstop -->
 
@@ -114,3 +115,7 @@ CIAY February 2023
 ## February 17,2023 ##
 
 [![Creation in Order](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day048.jpg)](https://youtu.be/TlDQZvujYa8 "Creation in Order")
+
+## February 18,2023 ##
+
+[![We are Created For Worship](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day049.jpg)](https://youtu.be/0f7EQ1CYMyk "We are Created For Worship")
