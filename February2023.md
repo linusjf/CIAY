@@ -108,6 +108,7 @@ CIAY February 2023
 ## February 15,2023 ##
 
 [![Heaven and Earth](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day046.jpg)](https://youtu.be/-i09ICCOSuo "Heaven and Earth")
+![Day 46 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day46Snippet.jpg)
 
 ## February 16,2023 ##
 
