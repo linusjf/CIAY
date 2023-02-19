@@ -113,6 +113,8 @@ CIAY February 2023
 ## February 16,2023 ##
 
 [![The Angels](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day047.jpg)](https://youtu.be/pFzMpNowGuY "The Angels")
+![Day 47 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day47Snippet1.jpg)
+![Day 47 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day47Snippet2.jpg)
 
 ## February 17,2023 ##
 
