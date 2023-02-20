@@ -119,6 +119,7 @@ CIAY February 2023
 ## February 17,2023 ##
 
 [![Creation in Order](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day048.jpg)](https://youtu.be/TlDQZvujYa8 "Creation in Order")
+![Day 48 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day48Snippet.jpg)
 
 ## February 18,2023 ##
 
