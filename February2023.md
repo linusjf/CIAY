@@ -21,6 +21,7 @@
   * [February 18,2023](#february-182023)
   * [February 19,2023](#february-192023)
   * [February 20,2023](#february-202023)
+  * [February 21,2023](#february-212023)
 
 <!-- tocstop -->
 
@@ -133,3 +134,7 @@ CIAY February 2023
 ## February 20,2023 ##
 
 [![Unity of Soul and Body](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day051.jpg)](https://youtu.be/eHpnUQQ_iho "Unity of Soul and Body")
+
+## February 21,2023 ##
+
+[![Male and Female](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day052.jpg)](https://youtu.be/Z88ScI7-Cvk "Male and Female")
