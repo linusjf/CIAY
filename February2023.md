@@ -22,6 +22,7 @@
   * [February 19,2023](#february-192023)
   * [February 20,2023](#february-202023)
   * [February 21,2023](#february-212023)
+  * [February 22,2023](#february-222023)
 
 <!-- tocstop -->
 
@@ -139,3 +140,7 @@ CIAY February 2023
 ## February 21,2023 ##
 
 [![Male and Female](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day052.jpg)](https://youtu.be/Z88ScI7-Cvk "Male and Female")
+
+## February 22,2023 ##
+
+[![Man in Paradise](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day053.jpg)](https://youtu.be/Wc0WVznL-g0 "Man in Paradise")
