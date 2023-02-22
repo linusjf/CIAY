@@ -126,6 +126,7 @@ CIAY February 2023
 ## February 18,2023 ##
 
 [![We are Created For Worship](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day049.jpg)](https://youtu.be/0f7EQ1CYMyk "We are Created For Worship")
+![Day 49 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day49Snippet.jpg)
 
 ## February 19,2023 ##
 
