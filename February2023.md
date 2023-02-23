@@ -23,6 +23,7 @@
   * [February 20,2023](#february-202023)
   * [February 21,2023](#february-212023)
   * [February 22,2023](#february-222023)
+  * [February 23,2023](#february-232023)
 
 <!-- tocstop -->
 
@@ -132,6 +133,8 @@ CIAY February 2023
 ## February 19,2023 ##
 
 [![The Dignity of Man](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day050.jpg)](https://youtu.be/n-4HHoEk-1Y "The Dignity of Man")
+![Day 50 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day50Snippet1.jpg)
+![Day 50 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day50Snippet2.jpg)
 
 ## February 20,2023 ##
 
@@ -144,3 +147,7 @@ CIAY February 2023
 ## February 22,2023 ##
 
 [![Man in Paradise](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day053.jpg)](https://youtu.be/Wc0WVznL-g0 "Man in Paradise")
+
+## February 23,2023 ##
+
+[![The Fall of Man](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day054.jpg)](https://youtu.be/QTLB7I8HpTQ "The Fall of Man")
