@@ -24,6 +24,7 @@
   * [February 21,2023](#february-212023)
   * [February 22,2023](#february-222023)
   * [February 23,2023](#february-232023)
+  * [February 24,2023](#february-242023)
 
 <!-- tocstop -->
 
@@ -153,3 +154,7 @@ CIAY February 2023
 ## February 23,2023 ##
 
 [![The Fall of Man](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day054.jpg)](https://youtu.be/QTLB7I8HpTQ "The Fall of Man")
+
+## February 24,2023 ##
+
+[![The Fall of the Angels](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day055.jpg)](https://youtu.be/QiJL024zpmc "The Fall of the Angels")
