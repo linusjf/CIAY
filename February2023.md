@@ -139,6 +139,8 @@ CIAY February 2023
 ## February 20,2023 ##
 
 [![Unity of Soul and Body](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day051.jpg)](https://youtu.be/eHpnUQQ_iho "Unity of Soul and Body")
+![Day 51 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day51Snippet1.jpg)
+![Day 51 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day51Snippet2.jpg)
 
 ## February 21,2023 ##
 
