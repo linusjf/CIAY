@@ -26,6 +26,7 @@
   * [February 23,2023](#february-232023)
   * [February 24,2023](#february-242023)
   * [February 25,2023](#february-252023)
+  * [February 26,2023](#february-262023)
 
 <!-- tocstop -->
 
@@ -163,3 +164,7 @@ CIAY February 2023
 ## February 25,2023 ##
 
 [![Man's First Sin](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day056.jpg)](https://youtu.be/Berbij6n1Sk "Man's First Sin")
+
+## February 26,2023 ##
+
+[![Consequences of Adam's Sin](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day057.jpg)](https://youtu.be/OFgeo4SZ5Iw "Consequences of Adam's Sin")
