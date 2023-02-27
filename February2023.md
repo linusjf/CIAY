@@ -154,6 +154,7 @@ CIAY February 2023
 ## February 22,2023 ##
 
 [![Man in Paradise](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day053.jpg)](https://youtu.be/Wc0WVznL-g0 "Man in Paradise")
+![Day 53 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day53Snippet.jpg)
 
 ## February 23,2023 ##
 
