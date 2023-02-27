@@ -149,6 +149,7 @@ CIAY February 2023
 ## February 21,2023 ##
 
 [![Male and Female](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day052.jpg)](https://youtu.be/Z88ScI7-Cvk "Male and Female")
+![Day 52 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day52Snippet.jpg)
 
 ## February 22,2023 ##
 
