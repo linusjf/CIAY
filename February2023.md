@@ -28,6 +28,7 @@
   * [February 25,2023](#february-252023)
   * [February 26,2023](#february-262023)
   * [February 27,2023](#february-272023)
+  * [February 28,2023](#february-282023)
 
 <!-- tocstop -->
 
@@ -175,3 +176,7 @@ CIAY February 2023
 ## February 27,2023 ##
 
 [![Man's Spiritual Battle](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day058.jpg)](https://youtu.be/5O48kn2gosM "Man's Spiritual Battle")
+
+## February 28,2023 ##
+
+[![Summary of The Fall](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day059.jpg)](https://youtu.be/mFk_rhYOa-k "Summary of The Fall")
