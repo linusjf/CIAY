@@ -160,6 +160,8 @@ CIAY February 2023
 ## February 23,2023 ##
 
 [![The Fall of Man](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day054.jpg)](https://youtu.be/QTLB7I8HpTQ "The Fall of Man")
+![Day 54 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day54Snippet1.jpg)
+![Day 54 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day54Snippet2.jpg)
 
 ## February 24,2023 ##
 
