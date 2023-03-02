@@ -166,6 +166,8 @@ CIAY February 2023
 ## February 24,2023 ##
 
 [![The Fall of the Angels](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day055.jpg)](https://youtu.be/QiJL024zpmc "The Fall of the Angels")
+![Day 55 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day55Snippet1.jpg)
+![Day 55 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day55Snippet2.jpg)
 
 ## February 25,2023 ##
 
