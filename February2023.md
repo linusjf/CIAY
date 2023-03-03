@@ -178,6 +178,8 @@ CIAY February 2023
 ## February 26,2023 ##
 
 [![Consequences of Adam's Sin](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day057.jpg)](https://youtu.be/OFgeo4SZ5Iw "Consequences of Adam's Sin")
+![Day 57 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day57Snippet1.jpg)
+![Day 57 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day57Snippet2.jpg)
 
 ## February 27,2023 ##
 
