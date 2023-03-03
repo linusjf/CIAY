@@ -3,6 +3,7 @@
 - [March 2023](#march-2023)
   * [March 01,2023](#march-012023)
   * [March 02,2023](#march-022023)
+  * [March 03,2023](#march-032023)
 
 <!-- tocstop -->
 
@@ -16,3 +17,7 @@ CIAY March 2023
 ## March 02,2023 ##
 
 [![The Name of Jesus](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day061.jpg)](https://youtu.be/v9VHcZU8Tdc "The Name of Jesus")
+
+## March 03,2023 ##
+
+[![The Christ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day062.jpg)](https://youtu.be/YbPkMqw-B7U "The Christ")
