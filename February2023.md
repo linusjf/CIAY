@@ -184,6 +184,8 @@ CIAY February 2023
 ## February 27,2023 ##
 
 [![Man's Spiritual Battle](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day058.jpg)](https://youtu.be/5O48kn2gosM "Man's Spiritual Battle")
+![Day 58 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day58Snippet1.jpg)
+![Day 58 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day58Snippet2.jpg)
 
 ## February 28,2023 ##
 
