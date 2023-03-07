@@ -6,10 +6,17 @@ require curl realpath mkdir
 usage() {
   echo "$0 vid doy"
   echo "vid - video id"
-  echo "doy - day of year"
+  echo "doy - day of year (numeric)"
+  exit 1
 }
+if test $# -ne 2; then
+  usage
+fi
 #shellcheck disable=SC1091
 source ./vidmd.sh
+if ! isnumeric "$2"; then
+  usage
+fi
 if imgurl="$(thumbnailurl "$1")"; then
   month="$(mfromdoy "$2")"
   doy="$(printf "%03d" "${2#0}")"
