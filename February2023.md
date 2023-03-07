@@ -190,3 +190,4 @@ CIAY February 2023
 ## February 28,2023 ##
 
 [![Summary of The Fall](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day059.jpg)](https://youtu.be/mFk_rhYOa-k "Summary of The Fall")
+![Day 59 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/February/jpgs/Day59Snippet.jpg)
