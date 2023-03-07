@@ -7,6 +7,7 @@
   * [March 04,2023](#march-042023)
   * [March 05,2023](#march-052023)
   * [March 06,2023](#march-062023)
+  * [March 07,2023](#march-072023)
 
 <!-- tocstop -->
 
@@ -36,3 +37,7 @@ CIAY March 2023
 ## March 06,2023 ##
 
 [![Why the Word Became Flesh](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day065.jpg)](https://youtu.be/3vRxlDNcbNs "Why the Word Became Flesh")
+
+## March 07,2023 ##
+
+[![True God and True Man](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day066.jpg)](https://youtu.be/Uj6gHzqE7QU "True God and True Man")
