@@ -18,10 +18,13 @@ CIAY March 2023
 ## March 01,2023 ##
 
 [![God Sends His Only Son](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day060.jpg)](https://youtu.be/B3-fr7SrRxc "God Sends His Only Son")
+![Day 60 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day60Snippet1.jpg)
+![Day 60 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day60Snippet2.jpg)
 
 ## March 02,2023 ##
 
 [![The Name of Jesus](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day061.jpg)](https://youtu.be/v9VHcZU8Tdc "The Name of Jesus")
+![Day 61 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day61Snippet.jpg)
 
 ## March 03,2023 ##
 
