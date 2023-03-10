@@ -30,6 +30,7 @@ CIAY March 2023
 ## March 03,2023 ##
 
 [![The Christ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day062.jpg)](https://youtu.be/YbPkMqw-B7U "The Christ")
+![Day 62 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day62Snippet.jpg)
 
 ## March 04,2023 ##
 
