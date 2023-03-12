@@ -12,6 +12,7 @@
   * [March 09,2023](#march-092023)
   * [March 10,2023](#march-102023)
   * [March 12,2023](#march-122023)
+  * [March 12,2023](#march-122023-1)
 
 <!-- tocstop -->
 
@@ -67,3 +68,7 @@ CIAY March 2023
 ## March 12,2023 ##
 
 [![The Immaculate Conception](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day070.jpg)](https://youtu.be/oU-SgH76K9s "The Immaculate Conception")
+
+## March 12,2023 ##
+
+[![Mary's Virginity](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day071.jpg)](https://youtu.be/wdnxUyX1nqs "Mary's Virginity")
