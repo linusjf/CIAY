@@ -15,6 +15,7 @@
   * [March 12,2023](#march-122023-1)
   * [March 13,2023](#march-132023)
   * [March 14,2023](#march-142023)
+  * [March 15,2023](#march-152023)
 
 <!-- tocstop -->
 
@@ -83,3 +84,7 @@ CIAY March 2023
 ## March 14,2023 ##
 
 [![Christ's Life is Mystery](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day073.jpg)](https://youtu.be/7mHQi3rGwCg "Christ's Life is Mystery")
+
+## March 15,2023 ##
+
+[![The Christmas Mystery](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day074.jpg)](https://youtu.be/B9A9PyVMAlw "The Christmas Mystery")
