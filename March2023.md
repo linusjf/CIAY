@@ -48,6 +48,7 @@ CIAY March 2023
 ## March 05,2023 ##
 
 [![The Lord](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day064.jpg)](https://youtu.be/oGOS6SMTfkw "The Lord")
+![Day 64 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day64Snippet.jpg)
 
 ## March 06,2023 ##
 
