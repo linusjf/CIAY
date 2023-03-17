@@ -17,6 +17,7 @@
   * [March 14,2023](#march-142023)
   * [March 15,2023](#march-152023)
   * [March 16,2023](#march-162023)
+  * [March 17,2023](#march-172023)
 
 <!-- tocstop -->
 
@@ -97,3 +98,7 @@ CIAY March 2023
 ## March 16,2023 ##
 
 [![Jesus' Infancy and Hidden Life](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day075.jpg)](https://youtu.be/A3pyAWR-dNc "Jesus' Infancy and Hidden Life")
+
+## March 17,2023 ##
+
+[![Jesus' Baptism and Temptation](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day076.jpg)](https://youtu.be/MwcOsOz5xFc "Jesus' Baptism and Temptation")
