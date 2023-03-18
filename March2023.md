@@ -18,6 +18,7 @@
   * [March 15,2023](#march-152023)
   * [March 16,2023](#march-162023)
   * [March 17,2023](#march-172023)
+  * [March 18,2023](#march-182023)
 
 <!-- tocstop -->
 
@@ -104,3 +105,7 @@ CIAY March 2023
 ## March 17,2023 ##
 
 [![Jesus' Baptism and Temptation](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day076.jpg)](https://youtu.be/MwcOsOz5xFc "Jesus' Baptism and Temptation")
+
+## March 18,2023 ##
+
+[![The Kingdom of God](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day077.jpg)](https://youtu.be/-vwE0HOIAh8 "The Kingdom of God")
