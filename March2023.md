@@ -19,6 +19,7 @@
   * [March 16,2023](#march-162023)
   * [March 17,2023](#march-172023)
   * [March 18,2023](#march-182023)
+  * [March 19,2023](#march-192023)
 
 <!-- tocstop -->
 
@@ -109,3 +110,7 @@ CIAY March 2023
 ## March 18,2023 ##
 
 [![The Kingdom of God](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day077.jpg)](https://youtu.be/-vwE0HOIAh8 "The Kingdom of God")
+
+## March 19,2023 ##
+
+[![Signs of the Kingdom](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day078.jpg)](https://youtu.be/k1HqrA0u7Q0 "Signs of the Kingdom")
