@@ -20,6 +20,7 @@
   * [March 17,2023](#march-172023)
   * [March 18,2023](#march-182023)
   * [March 19,2023](#march-192023)
+  * [March 20,2023](#march-202023)
 
 <!-- tocstop -->
 
@@ -114,3 +115,7 @@ CIAY March 2023
 ## March 19,2023 ##
 
 [![Signs of the Kingdom](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day078.jpg)](https://youtu.be/k1HqrA0u7Q0 "Signs of the Kingdom")
+
+## March 20,2023 ##
+
+[![Jesus' Transfiguration and Messianic Acts](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day079.jpg)](https://youtu.be/Rc30dQHmg7A "Jesus' Transfiguration and Messianic Acts")
