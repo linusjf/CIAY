@@ -23,6 +23,7 @@
   * [March 20,2023](#march-202023)
   * [March 21,2023](#march-212023)
   * [March 22,2023](#march-222023)
+  * [March 23,2023](#march-232023)
 
 <!-- tocstop -->
 
@@ -129,3 +130,7 @@ CIAY March 2023
 ## March 22,2023 ##
 
 [![Christ's Paschal Mystery](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day081.jpg)](https://youtu.be/Imp5kfJ-V_g "Christ's Paschal Mystery")
+
+## March 23,2023 ##
+
+[![Jesus and the Law](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day082.jpg)](https://youtu.be/rkXEfUE5c5I "Jesus and the Law")
