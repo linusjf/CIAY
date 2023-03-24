@@ -24,6 +24,7 @@
   * [March 21,2023](#march-212023)
   * [March 22,2023](#march-222023)
   * [March 23,2023](#march-232023)
+  * [March 24,2023](#march-242023)
 
 <!-- tocstop -->
 
@@ -134,3 +135,7 @@ CIAY March 2023
 ## March 23,2023 ##
 
 [![Jesus and the Law](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day082.jpg)](https://youtu.be/rkXEfUE5c5I "Jesus and the Law")
+
+## March 24,2023 ##
+
+[![Jesus and the Temple](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day083.jpg)](https://youtu.be/Vg-e6qxPxjE "Jesus and the Temple")
