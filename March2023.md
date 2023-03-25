@@ -72,6 +72,8 @@ CIAY March 2023
 ## March 07,2023 ##
 
 [![True God and True Man](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day066.jpg)](https://youtu.be/Uj6gHzqE7QU "True God and True Man")
+![Day 66 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day66Snippet1.jpg)
+![Day 66 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day66Snippet2.jpg)
 
 ## March 08,2023 ##
 
