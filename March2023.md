@@ -25,6 +25,7 @@
   * [March 22,2023](#march-222023)
   * [March 23,2023](#march-232023)
   * [March 24,2023](#march-242023)
+  * [March 25,2023](#march-252023)
 
 <!-- tocstop -->
 
@@ -139,3 +140,7 @@ CIAY March 2023
 ## March 24,2023 ##
 
 [![Jesus and the Temple](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day083.jpg)](https://youtu.be/Vg-e6qxPxjE "Jesus and the Temple")
+
+## March 25,2023 ##
+
+[![The Claim of Savior](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day084.jpg)](https://youtu.be/WaV8qjH9bMI "The Claim of Savior")
