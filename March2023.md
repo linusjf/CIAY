@@ -26,6 +26,7 @@
   * [March 23,2023](#march-232023)
   * [March 24,2023](#march-242023)
   * [March 25,2023](#march-252023)
+  * [March 26,2023](#march-262023)
 
 <!-- tocstop -->
 
@@ -146,3 +147,7 @@ CIAY March 2023
 ## March 25,2023 ##
 
 [![The Claim of Savior](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day084.jpg)](https://youtu.be/WaV8qjH9bMI "The Claim of Savior")
+
+## March 26,2023 ##
+
+[![The Trial of Christ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day085.jpg)](https://youtu.be/nOF2N2TbSS0 "The Trial of Christ")
