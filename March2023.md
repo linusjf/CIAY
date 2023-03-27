@@ -27,6 +27,7 @@
   * [March 24,2023](#march-242023)
   * [March 25,2023](#march-252023)
   * [March 26,2023](#march-262023)
+  * [March 27,2023](#march-272023)
 
 <!-- tocstop -->
 
@@ -151,3 +152,7 @@ CIAY March 2023
 ## March 26,2023 ##
 
 [![The Trial of Christ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day085.jpg)](https://youtu.be/nOF2N2TbSS0 "The Trial of Christ")
+
+## March 27,2023 ##
+
+[![God's Plan for Salvation](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day086.jpg)](https://youtu.be/OwPxzSFKiVQ "God's Plan for Salvation")
