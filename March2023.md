@@ -28,6 +28,7 @@
   * [March 25,2023](#march-252023)
   * [March 26,2023](#march-262023)
   * [March 27,2023](#march-272023)
+  * [March 28,2023](#march-282023)
 
 <!-- tocstop -->
 
@@ -156,3 +157,7 @@ CIAY March 2023
 ## March 27,2023 ##
 
 [![God's Plan for Salvation](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day086.jpg)](https://youtu.be/OwPxzSFKiVQ "God's Plan for Salvation")
+
+## March 28,2023 ##
+
+[![Christ's Life as Offering](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day087.jpg)](https://youtu.be/yN8UHPfhIZ4 "Christ's Life as Offering")
