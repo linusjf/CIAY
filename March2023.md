@@ -30,6 +30,7 @@
   * [March 27,2023](#march-272023)
   * [March 28,2023](#march-282023)
   * [March 29,2023](#march-292023)
+  * [March 30,2023](#march-302023)
 
 <!-- tocstop -->
 
@@ -166,3 +167,7 @@ CIAY March 2023
 ## March 29,2023 ##
 
 [![Christ's Definitive Sacrifice](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day088.jpg)](https://youtu.be/r_8nQMvonp8 "Christ's Definitive Sacrifice")
+
+## March 30,2023 ##
+
+[![Jesus Christ was Buried](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day089.jpg)](https://youtu.be/Nx2_W9Jv1_w "Jesus Christ was Buried")
