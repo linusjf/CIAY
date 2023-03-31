@@ -31,6 +31,7 @@
   * [March 28,2023](#march-282023)
   * [March 29,2023](#march-292023)
   * [March 30,2023](#march-302023)
+  * [March 31,2023](#march-312023)
 
 <!-- tocstop -->
 
@@ -171,3 +172,7 @@ CIAY March 2023
 ## March 30,2023 ##
 
 [![Jesus Christ was Buried](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day089.jpg)](https://youtu.be/Nx2_W9Jv1_w "Jesus Christ was Buried")
+
+## March 31,2023 ##
+
+[![Christ Descended into Hell](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day090.jpg)](https://youtu.be/ltP2OYAMjig "Christ Descended into Hell")
