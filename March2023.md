@@ -86,6 +86,7 @@ CIAY March 2023
 [![The Humanity and Divinity of Christ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day067.jpg)](https://youtu.be/IzcC4Gj3pqc "The Humanity and Divinity of Christ")
 ![Day 67 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day67Snippet1.jpg)
 ![Day 67 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day67Snippet2.jpg)
+![Day 67 Snippet 3](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day67Snippet3.jpg)
 
 ## March 09,2023 ##
 
