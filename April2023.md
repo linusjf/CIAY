@@ -6,6 +6,7 @@
   * [April 03,2023](#april-032023)
   * [April 04,2023](#april-042023)
   * [April 05,2023](#april-052023)
+  * [April 06,2023](#april-062023)
 
 <!-- tocstop -->
 
@@ -31,3 +32,7 @@ CIAY April 2023
 ## April 05,2023 ##
 
 [![Christ's Reign on Earth](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day095.jpg)](https://youtu.be/cka4Rlaqnc0 "Christ's Reign on Earth")
+
+## April 06,2023 ##
+
+[![The Church's Ultimate Trial](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day096.jpg)](https://youtu.be/TPFxg5qk2u4 "The Church's Ultimate Trial")
