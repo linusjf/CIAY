@@ -8,6 +8,7 @@
   * [April 05,2023](#april-052023)
   * [April 06,2023](#april-062023)
   * [April 07,2023](#april-072023)
+  * [April 08,2023](#april-082023)
 
 <!-- tocstop -->
 
@@ -41,3 +42,7 @@ CIAY April 2023
 ## April 07,2023 ##
 
 [![Introduction to the Holy Spirit](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day097.jpg)](https://youtu.be/1Bik8850Qho "Introduction to the Holy Spirit")
+
+## April 08,2023 ##
+
+[![The Son and the Spirit](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day098.jpg)](https://youtu.be/lHRznF6t3H0 "The Son and the Spirit")
