@@ -9,6 +9,7 @@
   * [April 06,2023](#april-062023)
   * [April 07,2023](#april-072023)
   * [April 08,2023](#april-082023)
+  * [April 09,2023](#april-092023)
 
 <!-- tocstop -->
 
@@ -46,3 +47,7 @@ CIAY April 2023
 ## April 08,2023 ##
 
 [![The Son and the Spirit](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day098.jpg)](https://youtu.be/lHRznF6t3H0 "The Son and the Spirit")
+
+## April 09,2023 ##
+
+[![Symbols of the Holy Spirit](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day099.jpg)](https://youtu.be/uA4EMiHTDXc "Symbols of the Holy Spirit")
