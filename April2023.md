@@ -12,6 +12,7 @@
   * [April 09,2023](#april-092023)
   * [April 10,2023](#april-102023)
   * [April 11,2023](#april-112023)
+  * [April 12,2023](#april-122023)
 
 <!-- tocstop -->
 
@@ -61,3 +62,7 @@ CIAY April 2023
 ## April 11,2023 ##
 
 [![Expecting the Messiah](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day101.jpg)](https://youtu.be/k8_tzvcmt6U "Expecting the Messiah")
+
+## April 12,2023 ##
+
+[![The Holy Spirit's Mission](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day102.jpg)](https://youtu.be/voUIL3F52SM "The Holy Spirit's Mission")
