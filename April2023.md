@@ -14,6 +14,7 @@
   * [April 11,2023](#april-112023)
   * [April 12,2023](#april-122023)
   * [April 13,2023](#april-132023)
+  * [April 14,2023](#april-142023)
 
 <!-- tocstop -->
 
@@ -71,3 +72,7 @@ CIAY April 2023
 ## April 13,2023 ##
 
 [![The Power of Pentecost](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day103.jpg)](https://youtu.be/KrYVW6e7KlU "The Power of Pentecost")
+
+## April 14,2023 ##
+
+[![The Holy Spirit and the Church](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day104.jpg)](https://youtu.be/jHn12HEK7_Y "The Holy Spirit and the Church")
