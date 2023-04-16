@@ -16,6 +16,7 @@
   * [April 13,2023](#april-132023)
   * [April 14,2023](#april-142023)
   * [April 15,2023](#april-152023)
+  * [April 16,2023](#april-162023)
 
 <!-- tocstop -->
 
@@ -81,3 +82,7 @@ CIAY April 2023
 ## April 15,2023 ##
 
 [![Christ's Church and its Mission](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day105.jpg)](https://youtu.be/yqa4vRpCqa4 "Christ's Church and its Mission")
+
+## April 16,2023 ##
+
+[![Symbols of the Church](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day106.jpg)](https://youtu.be/1hdmiUxMzv8 "Symbols of the Church")
