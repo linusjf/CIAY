@@ -20,6 +20,7 @@
   * [April 17,2023](#april-172023)
   * [April 18,2023](#april-182023)
   * [April 20,2023](#april-202023)
+  * [April 20,2023](#april-202023-1)
 
 <!-- tocstop -->
 
@@ -101,3 +102,7 @@ CIAY April 2023
 ## April 20,2023 ##
 
 [![Mystery of Union With God](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day109.jpg)](https://youtu.be/2D7KgTR0ufg "Mystery of Union With God")
+
+## April 20,2023 ##
+
+[![The People of God](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day110.jpg)](https://youtu.be/5j-RtRHnW74 "The People of God")
