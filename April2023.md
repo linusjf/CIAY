@@ -21,6 +21,7 @@
   * [April 18,2023](#april-182023)
   * [April 20,2023](#april-202023)
   * [April 20,2023](#april-202023-1)
+  * [April 21,2023](#april-212023)
 
 <!-- tocstop -->
 
@@ -106,3 +107,7 @@ CIAY April 2023
 ## April 20,2023 ##
 
 [![The People of God](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day110.jpg)](https://youtu.be/5j-RtRHnW74 "The People of God")
+
+## April 21,2023 ##
+
+[![The Church as the Body of Christ](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day111.jpg)](https://youtu.be/xVNpSUnvTuE "The Church as the Body of Christ")
