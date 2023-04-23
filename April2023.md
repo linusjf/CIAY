@@ -23,6 +23,7 @@
   * [April 20,2023](#april-202023-1)
   * [April 21,2023](#april-212023)
   * [April 22,2023](#april-222023)
+  * [April 23,2023](#april-232023)
 
 <!-- tocstop -->
 
@@ -116,3 +117,7 @@ CIAY April 2023
 ## April 22,2023 ##
 
 [![The Church is the Bride](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day112.jpg)](https://youtu.be/jgapDwdkVPs "The Church is the Bride")
+
+## April 23,2023 ##
+
+[![The Temple of the Holy Spirit](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day113.jpg)](https://youtu.be/nGnzh8fKA9E "The Temple of the Holy Spirit")
