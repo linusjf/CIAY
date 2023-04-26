@@ -26,6 +26,7 @@
   * [April 23,2023](#april-232023)
   * [April 24,2023](#april-242023)
   * [April 25,2023](#april-252023)
+  * [April 26,2023](#april-262023)
 
 <!-- tocstop -->
 
@@ -131,3 +132,7 @@ CIAY April 2023
 ## April 25,2023 ##
 
 [![Wounds to Unity](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day115.jpg)](https://youtu.be/YDq_YRUHjAY "Wounds to Unity")
+
+## April 26,2023 ##
+
+[![The Church is Holy](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day116.jpg)](https://youtu.be/jHqmGsz9meI "The Church is Holy")
