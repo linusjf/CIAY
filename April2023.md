@@ -28,6 +28,7 @@
   * [April 25,2023](#april-252023)
   * [April 26,2023](#april-262023)
   * [April 27,2023](#april-272023)
+  * [April 28,2023](#april-282023)
 
 <!-- tocstop -->
 
@@ -141,3 +142,7 @@ CIAY April 2023
 ## April 27,2023 ##
 
 [![The Church is Catholic](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day117.jpg)](https://youtu.be/3enRAXivMvU "The Church is Catholic")
+
+## April 28,2023 ##
+
+[![The Church and Non-Christians](https://raw.githubusercontent.com/fernal73/CIAY/main/April/jpgs/Day118.jpg)](https://youtu.be/0kGYUsciaO0 "The Church and Non-Christians")
