@@ -94,6 +94,7 @@ CIAY March 2023
 ![Day 68 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day68Snippet1.jpg)
 ![Day 68 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day68Snippet2.jpg)
 ![Day 68 Snippet 3](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day68Snippet3.jpg)
+![Day 68 Snippet 4](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day68Snippet4.jpg)
 
 ## March 10,2023 ##
 
