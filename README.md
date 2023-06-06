@@ -1,4 +1,6 @@
 # CIAY
+
+[![Hits-of-Code](https://hitsofcode.com/github/linusjf/CIAY?branch=main)](https://hitsofcode.com/github/linusjf/CIAY/view?branch=main)
 <!-- vim-markdown-toc GFM -->
 
 * [Cathecism In A Year](#cathecism-in-a-year)
