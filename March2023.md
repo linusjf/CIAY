@@ -129,6 +129,7 @@ CIAY March 2023
 ## March 14,2023 ##
 
 [![Christ's Life is Mystery](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day073.jpg)](https://youtu.be/7mHQi3rGwCg "Christ's Life is Mystery")
+![Day 73 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet.jpg)
 
 ## March 15,2023 ##
 
