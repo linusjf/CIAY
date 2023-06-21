@@ -129,7 +129,12 @@ CIAY March 2023
 ## March 14,2023 ##
 
 [![Christ's Life is Mystery](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day073.jpg)](https://youtu.be/7mHQi3rGwCg "Christ's Life is Mystery")
-![Day 73 Snippet ](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet.jpg)
+![Day 73 Snippet 1](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet1.jpg)
+![Day 73 Snippet 2](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet2.jpg)
+![Day 73 Snippet 3](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet3.jpg)
+![Day 73 Snippet 4](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet4.jpg)
+![Day 73 Snippet 5](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet5.jpg)
+![Day 73 Snippet 6](https://raw.githubusercontent.com/fernal73/CIAY/main/March/jpgs/Day73Snippet6.jpg)
 
 ## March 15,2023 ##
 
