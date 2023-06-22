@@ -9,4 +9,4 @@
 <!-- vim-markdown-toc -->
 ## Cathecism In A Year
 
-![The Three Legged Stool of Christian Authority](https://github.com/fernal73/CIAY/blob/main/ThreeLeggedStool.jpg?raw=true)
+![The Three Legged Stool of Christian Authority](https://github.com/linusjf/CIAY/blob/main/ThreeLeggedStool.jpg?raw=true)
