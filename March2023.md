@@ -139,6 +139,8 @@ CIAY March 2023
 ## March 15,2023 ##
 
 [![The Christmas Mystery](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day074.jpg)](https://youtu.be/B9A9PyVMAlw "The Christmas Mystery")
+![Day 74 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day74Snippet1.jpg)
+![Day 74 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day74Snippet2.jpg)
 
 ## March 16,2023 ##
 
