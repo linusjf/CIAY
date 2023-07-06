@@ -148,6 +148,11 @@ CIAY March 2023
 ## March 16,2023 ##
 
 [![Jesus' Infancy and Hidden Life](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day075.jpg)](https://youtu.be/A3pyAWR-dNc "Jesus' Infancy and Hidden Life")
+![Day 75 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet1.jpg)
+![Day 75 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet2.jpg)
+![Day 75 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet3.jpg)
+![Day 75 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet4.jpg)
+![Day 75 Snippet 5](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet5.jpg)
 
 ## March 17,2023 ##
 
