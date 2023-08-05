@@ -5,6 +5,7 @@
   * [August 02,2023](#august-022023)
   * [August 03,2023](#august-032023)
   * [August 04,2023](#august-042023)
+  * [August 05,2023](#august-052023)
 
 <!-- tocstop -->
 
@@ -26,3 +27,7 @@ CIAY August 2023
 ## August 04,2023 ##
 
 [![Who Receives Holy Orders](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day216.jpg)](https://youtu.be/qOx4XPYGiiE "Who Receives Holy Orders")
+
+## August 05,2023 ##
+
+[![The Effects of Holy Orders](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day217.jpg)](https://youtu.be/mhgMt9ifDzU "The Effects of Holy Orders")
