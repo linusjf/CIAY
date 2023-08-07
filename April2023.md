@@ -19,8 +19,8 @@
   * [April 16,2023](#april-162023)
   * [April 17,2023](#april-172023)
   * [April 18,2023](#april-182023)
+  * [April 19,2023](#april-192023)
   * [April 20,2023](#april-202023)
-  * [April 20,2023](#april-202023-1)
   * [April 21,2023](#april-212023)
   * [April 22,2023](#april-222023)
   * [April 23,2023](#april-232023)
@@ -109,7 +109,7 @@ CIAY April 2023
 
 [![Revealed by the Holy Spirit](https://raw.githubusercontent.com/linusjf/CIAY/main/April/jpgs/Day108.jpg)](https://youtu.be/94F98zuEmZY "Revealed by the Holy Spirit")
 
-## April 20,2023 ##
+## April 19,2023 ##
 
 [![Mystery of Union With God](https://raw.githubusercontent.com/linusjf/CIAY/main/April/jpgs/Day109.jpg)](https://youtu.be/2D7KgTR0ufg "Mystery of Union With God")
 
