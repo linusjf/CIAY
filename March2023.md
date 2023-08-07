@@ -11,8 +11,8 @@
   * [March 08,2023](#march-082023)
   * [March 09,2023](#march-092023)
   * [March 10,2023](#march-102023)
+  * [March 11,2023](#march-112023)
   * [March 12,2023](#march-122023)
-  * [March 12,2023](#march-122023-1)
   * [March 13,2023](#march-132023)
   * [March 14,2023](#march-142023)
   * [March 15,2023](#march-152023)
@@ -103,7 +103,7 @@ CIAY March 2023
 ![Day 69 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day69Snippet2.jpg)
 ![Day 69 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day69Snippet3.jpg)
 
-## March 12,2023 ##
+## March 11,2023 ##
 
 [![The Immaculate Conception](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day070.jpg)](https://youtu.be/oU-SgH76K9s "The Immaculate Conception")
 ![Day 70 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day70Snippet1.jpg)
