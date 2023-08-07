@@ -7,8 +7,6 @@
   * [August 04,2023](#august-042023)
   * [August 05,2023](#august-052023)
   * [August 06,2023](#august-062023)
-  * [August 07,2023](#august-072023)
-
 <!-- tocstop -->
 
 # August 2023 #
@@ -37,7 +35,3 @@ CIAY August 2023
 ## August 06,2023 ##
 
 [![Summary of Holy Orders](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day218.jpg)](https://youtu.be/EGyqbOG1ha0 "Summary of Holy Orders")
-
-## August 07,2023 ##
-
-[![Separation from God](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day219.jpg)](https://youtu.be/APYiqFFQts0 "Separation from God")
