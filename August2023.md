@@ -8,6 +8,7 @@
   * [August 05,2023](#august-052023)
   * [August 06,2023](#august-062023)
   * [August 07,2023](#august-072023)
+  * [August 08,2023](#august-082023)
 
 <!-- tocstop -->
 
@@ -41,3 +42,7 @@ CIAY August 2023
 ## August 07,2023 ##
 
 [![Marriage in God's Plan](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day219.jpg)](https://youtu.be/NnggjPbIOM8 "Marriage in God's Plan")
+
+## August 08,2023 ##
+
+[![Marriage in the New Covenant](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day220.jpg)](https://youtu.be/0m_nS6S-S0w "Marriage in the New Covenant")
