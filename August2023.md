@@ -10,6 +10,7 @@
   * [August 07,2023](#august-072023)
   * [August 08,2023](#august-082023)
   * [August 09,2023](#august-092023)
+  * [August 10,2023](#august-102023)
 
 <!-- tocstop -->
 
@@ -51,3 +52,7 @@ CIAY August 2023
 ## August 09,2023 ##
 
 [![The Celebration of Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day221.jpg)](https://youtu.be/09FZr258Ob4 "The Celebration of Marriage")
+
+## August 10,2023 ##
+
+[![Matrimonial Consent](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day222.jpg)](https://youtu.be/6vhX6PJ2f-M "Matrimonial Consent")
