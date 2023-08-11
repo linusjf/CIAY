@@ -11,6 +11,7 @@
   * [August 08,2023](#august-082023)
   * [August 09,2023](#august-092023)
   * [August 10,2023](#august-102023)
+  * [August 11,2023](#august-112023)
 
 <!-- tocstop -->
 
@@ -56,3 +57,7 @@ CIAY August 2023
 ## August 10,2023 ##
 
 [![Matrimonial Consent](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day222.jpg)](https://youtu.be/6vhX6PJ2f-M "Matrimonial Consent")
+
+## August 11,2023 ##
+
+[![Differences in Religion in Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day223.jpg)](https://youtu.be/KvfoCzGc6W8 "Differences in Religion in Marriage")
