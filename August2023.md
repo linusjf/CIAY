@@ -12,6 +12,7 @@
   * [August 09,2023](#august-092023)
   * [August 10,2023](#august-102023)
   * [August 11,2023](#august-112023)
+  * [August 12,2023](#august-122023)
 
 <!-- tocstop -->
 
@@ -61,3 +62,7 @@ CIAY August 2023
 ## August 11,2023 ##
 
 [![Differences in Religion in Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day223.jpg)](https://youtu.be/KvfoCzGc6W8 "Differences in Religion in Marriage")
+
+## August 12,2023 ##
+
+[![The Grace of the Sacrament of Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day224.jpg)](https://youtu.be/lfzccL6v4YI "The Grace of the Sacrament of Marriage")
