@@ -13,6 +13,7 @@
   * [August 10,2023](#august-102023)
   * [August 11,2023](#august-112023)
   * [August 12,2023](#august-122023)
+  * [August 13,2023](#august-132023)
 
 <!-- tocstop -->
 
@@ -66,3 +67,7 @@ CIAY August 2023
 ## August 12,2023 ##
 
 [![The Grace of the Sacrament of Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day224.jpg)](https://youtu.be/lfzccL6v4YI "The Grace of the Sacrament of Marriage")
+
+## August 13,2023 ##
+
+[![Total Fidelity in Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day225.jpg)](https://youtu.be/QmixPmwXOi8 "Total Fidelity in Marriage")
