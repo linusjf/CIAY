@@ -14,6 +14,7 @@
   * [August 11,2023](#august-112023)
   * [August 12,2023](#august-122023)
   * [August 13,2023](#august-132023)
+  * [August 14,2023](#august-142023)
 
 <!-- tocstop -->
 
@@ -71,3 +72,7 @@ CIAY August 2023
 ## August 13,2023 ##
 
 [![Total Fidelity in Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day225.jpg)](https://youtu.be/QmixPmwXOi8 "Total Fidelity in Marriage")
+
+## August 14,2023 ##
+
+[![The Supreme Gift of Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day226.jpg)](https://youtu.be/D_V1oXAOcz0 "The Supreme Gift of Marriage")
