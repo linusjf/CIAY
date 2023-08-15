@@ -15,6 +15,7 @@
   * [August 12,2023](#august-122023)
   * [August 13,2023](#august-132023)
   * [August 14,2023](#august-142023)
+  * [August 15,2023](#august-152023)
 
 <!-- tocstop -->
 
@@ -76,3 +77,7 @@ CIAY August 2023
 ## August 14,2023 ##
 
 [![The Supreme Gift of Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day226.jpg)](https://youtu.be/D_V1oXAOcz0 "The Supreme Gift of Marriage")
+
+## August 15,2023 ##
+
+[![Summary of the Sacrament of Matrimony](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day227.jpg)](https://youtu.be/83SuhS7L37E "Summary of the Sacrament of Matrimony")
