@@ -16,6 +16,7 @@
   * [August 13,2023](#august-132023)
   * [August 14,2023](#august-142023)
   * [August 15,2023](#august-152023)
+  * [August 16,2023](#august-162023)
 
 <!-- tocstop -->
 
@@ -81,3 +82,7 @@ CIAY August 2023
 ## August 15,2023 ##
 
 [![Summary of the Sacrament of Matrimony](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day227.jpg)](https://youtu.be/83SuhS7L37E "Summary of the Sacrament of Matrimony")
+
+## August 16,2023 ##
+
+[![Blessings, Sacramentals and Popular Piety](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day228.jpg)](https://youtu.be/T7vA4Cubyts "Blessings, Sacramentals and Popular Piety")
