@@ -17,6 +17,7 @@
   * [August 14,2023](#august-142023)
   * [August 15,2023](#august-152023)
   * [August 16,2023](#august-162023)
+  * [August 17,2023](#august-172023)
 
 <!-- tocstop -->
 
@@ -86,3 +87,7 @@ CIAY August 2023
 ## August 16,2023 ##
 
 [![Blessings, Sacramentals and Popular Piety](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day228.jpg)](https://youtu.be/T7vA4Cubyts "Blessings, Sacramentals and Popular Piety")
+
+## August 17,2023 ##
+
+[![Christian Funerals](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day229.jpg)](https://youtu.be/GV9OuM48bLQ "Christian Funerals")
