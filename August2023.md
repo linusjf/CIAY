@@ -18,6 +18,7 @@
   * [August 15,2023](#august-152023)
   * [August 16,2023](#august-162023)
   * [August 17,2023](#august-172023)
+  * [August 18,2023](#august-182023)
 
 <!-- tocstop -->
 
@@ -91,3 +92,7 @@ CIAY August 2023
 ## August 17,2023 ##
 
 [![Christian Funerals](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day229.jpg)](https://youtu.be/GV9OuM48bLQ "Christian Funerals")
+
+## August 18,2023 ##
+
+[![Day 230: How We Live (Part 3 Introduction with Dr. Mary Healy)](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day230.jpg)](https://youtu.be/v9fwoRRn6JA "Day 230: How We Live (Part 3 Introduction with Dr. Mary Healy)")
