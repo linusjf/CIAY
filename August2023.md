@@ -20,6 +20,7 @@
   * [August 17,2023](#august-172023)
   * [August 18,2023](#august-182023)
   * [August 19,2023](#august-192023)
+  * [August 20,2023](#august-202023)
 
 <!-- tocstop -->
 
@@ -101,3 +102,7 @@ CIAY August 2023
 ## August 19,2023 ##
 
 [![Our Calling](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day231.jpg)](https://youtu.be/j71lYxxZXaA "Our Calling")
+
+## August 20,2023 ##
+
+[![Man is Made in the Image of God](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day232.jpg)](https://youtu.be/vx0Iqjc1IL8 "Man is Made in the Image of God")
