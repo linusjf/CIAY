@@ -22,6 +22,7 @@
   * [August 19,2023](#august-192023)
   * [August 20,2023](#august-202023)
   * [August 21,2023](#august-212023)
+  * [August 22,2023](#august-222023)
 
 <!-- tocstop -->
 
@@ -111,3 +112,7 @@ CIAY August 2023
 ## August 21,2023 ##
 
 [![The Beautitudes](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day233.jpg)](https://youtu.be/6sZgZGjZzUs "The Beautitudes")
+
+## August 22,2023 ##
+
+[![Freedom and Responsibility](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day234.jpg)](https://youtu.be/fI6gSUIXRyc "Freedom and Responsibility")
