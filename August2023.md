@@ -111,7 +111,7 @@ CIAY August 2023
 
 ## August 21,2023 ##
 
-[![The Beautitudes](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day233.jpg)](https://youtu.be/6sZgZGjZzUs "The Beautitudes")
+[![The Beatitudes](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day233.jpg)](https://youtu.be/6sZgZGjZzUs "The Beatitudes")
 
 ## August 22,2023 ##
 
