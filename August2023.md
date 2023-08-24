@@ -24,6 +24,7 @@
   * [August 21,2023](#august-212023)
   * [August 22,2023](#august-222023)
   * [August 23,2023](#august-232023)
+  * [August 24,2023](#august-242023)
 
 <!-- tocstop -->
 
@@ -121,3 +122,7 @@ CIAY August 2023
 ## August 23,2023 ##
 
 [![Human Freedom in Salvation](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day235.jpg)](https://youtu.be/JP4BCdM2gzg "Human Freedom in Salvation")
+
+## August 24,2023 ##
+
+[![The Morality of Human Acts](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day236.jpg)](https://youtu.be/NQffS_mBAYo "The Morality of Human Acts")
