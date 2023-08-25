@@ -25,6 +25,7 @@
   * [August 22,2023](#august-222023)
   * [August 23,2023](#august-232023)
   * [August 24,2023](#august-242023)
+  * [August 25,2023](#august-252023)
 
 <!-- tocstop -->
 
@@ -126,3 +127,7 @@ CIAY August 2023
 ## August 24,2023 ##
 
 [![The Morality of Human Acts](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day236.jpg)](https://youtu.be/NQffS_mBAYo "The Morality of Human Acts")
+
+## August 25,2023 ##
+
+[![The Morality of the Passions](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day237.jpg)](https://youtu.be/kuaf3NY197o "The Morality of the Passions")
