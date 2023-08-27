@@ -27,6 +27,7 @@
   * [August 24,2023](#august-242023)
   * [August 25,2023](#august-252023)
   * [August 26,2023](#august-262023)
+  * [August 27,2023](#august-272023)
 
 <!-- tocstop -->
 
@@ -136,3 +137,7 @@ CIAY August 2023
 ## August 26,2023 ##
 
 [![Our Moral Conscience](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day238.jpg)](https://youtu.be/6wGaMraZc_Y "Our Moral Conscience")
+
+## August 27,2023 ##
+
+[![The Formation of Conscience](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day239.jpg)](https://youtu.be/NZ1mkbVSgDE "The Formation of Conscience")
