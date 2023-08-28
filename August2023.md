@@ -28,6 +28,7 @@
   * [August 25,2023](#august-252023)
   * [August 26,2023](#august-262023)
   * [August 27,2023](#august-272023)
+  * [August 28,2023](#august-282023)
 
 <!-- tocstop -->
 
@@ -141,3 +142,7 @@ CIAY August 2023
 ## August 27,2023 ##
 
 [![The Formation of Conscience](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day239.jpg)](https://youtu.be/NZ1mkbVSgDE "The Formation of Conscience")
+
+## August 28,2023 ##
+
+[![Erroneous Judgment of Conscience](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day240.jpg)](https://youtu.be/OAocEcjknrc "Erroneous Judgment of Conscience")
