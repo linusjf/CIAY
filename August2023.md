@@ -30,6 +30,7 @@
   * [August 27,2023](#august-272023)
   * [August 28,2023](#august-282023)
   * [August 29,2023](#august-292023)
+  * [August 30,2023](#august-302023)
 
 <!-- tocstop -->
 
@@ -151,3 +152,7 @@ CIAY August 2023
 ## August 29,2023 ##
 
 [![The Cardinal Virtues](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day241.jpg)](https://youtu.be/9nW9oIFuFEo "The Cardinal Virtues")
+
+## August 30,2023 ##
+
+[![The Virtue of Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day242.jpg)](https://youtu.be/CBL3LGHBCUA "The Virtue of Faith")
