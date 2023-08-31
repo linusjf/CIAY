@@ -31,6 +31,7 @@
   * [August 28,2023](#august-282023)
   * [August 29,2023](#august-292023)
   * [August 30,2023](#august-302023)
+  * [August 31,2023](#august-312023)
 
 <!-- tocstop -->
 
@@ -156,3 +157,7 @@ CIAY August 2023
 ## August 30,2023 ##
 
 [![The Virtue of Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day242.jpg)](https://youtu.be/CBL3LGHBCUA "The Virtue of Faith")
+
+## August 31,2023 ##
+
+[![The Virtue of Hope](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day243.jpg)](https://youtu.be/lVEe_SHZbzA "The Virtue of Hope")
