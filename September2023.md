@@ -5,6 +5,7 @@
   * [September 02,2023](#september-022023)
   * [September 03,2023](#september-032023)
   * [September 04,2023](#september-042023)
+  * [September 05,2023](#september-052023)
 
 <!-- tocstop -->
 
@@ -26,3 +27,7 @@ CIAY September 2023
 ## September 04,2023 ##
 
 [![The Weight of Sin](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day247.jpg)](https://youtu.be/znPskrw8Zm0 "The Weight of Sin")
+
+## September 05,2023 ##
+
+[![The Spread of Sin](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day248.jpg)](https://youtu.be/VMTeuwyLFkM "The Spread of Sin")
