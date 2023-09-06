@@ -6,6 +6,7 @@
   * [September 03,2023](#september-032023)
   * [September 04,2023](#september-042023)
   * [September 05,2023](#september-052023)
+  * [September 06,2023](#september-062023)
 
 <!-- tocstop -->
 
@@ -31,3 +32,7 @@ CIAY September 2023
 ## September 05,2023 ##
 
 [![The Spread of Sin](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day248.jpg)](https://youtu.be/VMTeuwyLFkM "The Spread of Sin")
+
+## September 06,2023 ##
+
+[![The Person in Society](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day249.jpg)](https://youtu.be/rgJw5LXbddA "The Person in Society")
