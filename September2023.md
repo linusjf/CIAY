@@ -7,6 +7,7 @@
   * [September 04,2023](#september-042023)
   * [September 05,2023](#september-052023)
   * [September 06,2023](#september-062023)
+  * [September 07,2023](#september-072023)
 
 <!-- tocstop -->
 
@@ -36,3 +37,7 @@ CIAY September 2023
 ## September 06,2023 ##
 
 [![The Person in Society](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day249.jpg)](https://youtu.be/rgJw5LXbddA "The Person in Society")
+
+## September 07,2023 ##
+
+[![Conversion in Society](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day250.jpg)](https://youtu.be/mOpAqc8qXIw "Conversion in Society")
