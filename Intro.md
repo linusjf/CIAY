@@ -1,10 +1,10 @@
 <!-- vim-markdown-toc GFM -->
 
-* [CIAY 2023 Members](#ciay-2023-members)
-  * [Videos](#videos)
-  * [Guidelines For Sharing](#guidelines-for-sharing)
-  * [Reflection content](#reflection-content)
-  * [Intercession group](#intercession-group)
++ [CIAY 2023 Members](#ciay-2023-members)
+    * [Videos](#videos)
+    * [Guidelines For Sharing](#guidelines-for-sharing)
+    * [Reflection content](#reflection-content)
+    * [Intercession group](#intercession-group)
 
 <!-- vim-markdown-toc -->
 # CIAY 2023 Members
@@ -24,7 +24,7 @@
 
 [![Why Scripture and Tradition?](https://raw.githubusercontent.com/linusjf/CIAY/main/preparingjourney.jpg)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
 
-[![How Do We Trust In Church Authority?](https://raw.githubusercontent.com/linusjf/CIAY/main/cathecismchurch.jpg)](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")
+[![How Do We Trust In Church Authority?](https://raw.githubusercontent.com/linusjf/CIAY/main/catechismchurch.jpg)](https://youtu.be/qiZPB2jCOYM "How Do We Trust In Church Authority?")
 
 ---
 
