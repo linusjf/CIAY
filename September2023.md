@@ -9,6 +9,7 @@
   * [September 06,2023](#september-062023)
   * [September 07,2023](#september-072023)
   * [September 08,2023](#september-082023)
+  * [September 09,2023](#september-092023)
 
 <!-- tocstop -->
 
@@ -46,3 +47,7 @@ CIAY September 2023
 ## September 08,2023 ##
 
 [![Authorities in Society](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day251.jpg)](https://youtu.be/NlhdB7i5jCs "Authorities in Society")
+
+## September 09,2023 ##
+
+[![The Common Good](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day252.jpg)](https://youtu.be/_ynqwfx55og "The Common Good")
