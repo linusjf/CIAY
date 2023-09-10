@@ -10,6 +10,7 @@
   * [September 07,2023](#september-072023)
   * [September 08,2023](#september-082023)
   * [September 09,2023](#september-092023)
+  * [September 10,2023](#september-102023)
 
 <!-- tocstop -->
 
@@ -51,3 +52,7 @@ CIAY September 2023
 ## September 09,2023 ##
 
 [![The Common Good](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day252.jpg)](https://youtu.be/_ynqwfx55og "The Common Good")
+
+## September 10,2023 ##
+
+[![Participation in Public Life](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day253.jpg)](https://youtu.be/d720AfU8C9A "Participation in Public Life")
