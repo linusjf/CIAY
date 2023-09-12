@@ -12,6 +12,7 @@
   * [September 09,2023](#september-092023)
   * [September 10,2023](#september-102023)
   * [September 11,2023](#september-112023)
+  * [September 12,2023](#september-122023)
 
 <!-- tocstop -->
 
@@ -61,3 +62,7 @@ CIAY September 2023
 ## September 11,2023 ##
 
 [![Social Justice](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day254.jpg)](https://youtu.be/FDE-6G2OY8o "Social Justice")
+
+## September 12,2023 ##
+
+[![Human Solidarity](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day255.jpg)](https://youtu.be/Q03rdJe5mKA "Human Solidarity")
