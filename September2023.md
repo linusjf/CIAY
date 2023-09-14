@@ -13,6 +13,7 @@
   * [September 10,2023](#september-102023)
   * [September 11,2023](#september-112023)
   * [September 12,2023](#september-122023)
+  * [September 13,2023](#september-132023)
 
 <!-- tocstop -->
 
@@ -66,3 +67,7 @@ CIAY September 2023
 ## September 12,2023 ##
 
 [![Human Solidarity](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day255.jpg)](https://youtu.be/Q03rdJe5mKA "Human Solidarity")
+
+## September 13,2023 ##
+
+[![The Natural Moral Law](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day256.jpg)](https://youtu.be/3DySawWb200 "The Natural Moral Law")
