@@ -14,6 +14,7 @@
   * [September 11,2023](#september-112023)
   * [September 12,2023](#september-122023)
   * [September 13,2023](#september-132023)
+  * [September 14,2023](#september-142023)
 
 <!-- tocstop -->
 
@@ -71,3 +72,7 @@ CIAY September 2023
 ## September 13,2023 ##
 
 [![The Natural Moral Law](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day256.jpg)](https://youtu.be/3DySawWb200 "The Natural Moral Law")
+
+## September 14,2023 ##
+
+[![The Old Law](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day257.jpg)](https://youtu.be/h17UhJ8ob5I "The Old Law")
