@@ -16,6 +16,7 @@
   * [September 13,2023](#september-132023)
   * [September 14,2023](#september-142023)
   * [September 15,2023](#september-152023)
+  * [September 16,2023](#september-162023)
 
 <!-- tocstop -->
 
@@ -81,3 +82,7 @@ CIAY September 2023
 ## September 15,2023 ##
 
 [![The New Law](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day258.jpg)](https://youtu.be/iFzIly8uPyk "The New Law")
+
+## September 16,2023 ##
+
+[![The New Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day259.jpg)](https://youtu.be/_8fnN5d7Hyc "The New Commandment")
