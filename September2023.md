@@ -17,6 +17,7 @@
   * [September 14,2023](#september-142023)
   * [September 15,2023](#september-152023)
   * [September 16,2023](#september-162023)
+  * [September 17,2023](#september-172023)
 
 <!-- tocstop -->
 
@@ -86,3 +87,7 @@ CIAY September 2023
 ## September 16,2023 ##
 
 [![The New Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day259.jpg)](https://youtu.be/_8fnN5d7Hyc "The New Commandment")
+
+## September 17,2023 ##
+
+[![Summary of the Moral Law](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day260.jpg)](https://youtu.be/WYFhut9xMeI "Summary of the Moral Law")
