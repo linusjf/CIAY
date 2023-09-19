@@ -19,6 +19,7 @@
   * [September 16,2023](#september-162023)
   * [September 17,2023](#september-172023)
   * [September 18,2023](#september-182023)
+  * [September 19,2023](#september-192023)
 
 <!-- tocstop -->
 
@@ -96,3 +97,7 @@ CIAY September 2023
 ## September 18,2023 ##
 
 [![Justification](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day261.jpg)](https://youtu.be/7wI8VAchhG8 "Justification")
+
+## September 19,2023 ##
+
+[![Habitual and Actual Grace](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day262.jpg)](https://youtu.be/XOO7zxAbFxc "Habitual and Actual Grace")
