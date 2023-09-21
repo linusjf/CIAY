@@ -21,6 +21,7 @@
   * [September 18,2023](#september-182023)
   * [September 19,2023](#september-192023)
   * [September 20,2023](#september-202023)
+  * [September 21,2023](#september-212023)
 
 <!-- tocstop -->
 
@@ -106,3 +107,7 @@ CIAY September 2023
 ## September 20,2023 ##
 
 [![Responding to Grace](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day263.jpg)](https://youtu.be/64MY5p9Jbiw "Responding to Grace")
+
+## September 21,2023 ##
+
+[![Man's Merit](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day264.jpg)](https://youtu.be/KQ9hoqoqmWE "Man's Merit")
