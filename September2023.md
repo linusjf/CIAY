@@ -22,6 +22,7 @@
   * [September 19,2023](#september-192023)
   * [September 20,2023](#september-202023)
   * [September 21,2023](#september-212023)
+  * [September 22,2023](#september-222023)
 
 <!-- tocstop -->
 
@@ -111,3 +112,7 @@ CIAY September 2023
 ## September 21,2023 ##
 
 [![Man's Merit](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day264.jpg)](https://youtu.be/KQ9hoqoqmWE "Man's Merit")
+
+## September 22,2023 ##
+
+[![The Call to Holiness](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day265.jpg)](https://youtu.be/ihxHvcFnRw0 "The Call to Holiness")
