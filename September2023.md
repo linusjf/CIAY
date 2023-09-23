@@ -23,6 +23,7 @@
   * [September 20,2023](#september-202023)
   * [September 21,2023](#september-212023)
   * [September 22,2023](#september-222023)
+  * [September 23,2023](#september-232023)
 
 <!-- tocstop -->
 
@@ -116,3 +117,7 @@ CIAY September 2023
 ## September 22,2023 ##
 
 [![The Call to Holiness](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day265.jpg)](https://youtu.be/ihxHvcFnRw0 "The Call to Holiness")
+
+## September 23,2023 ##
+
+[![The Gift of Grace](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day266.jpg)](https://youtu.be/thnwUFdtSAA "The Gift of Grace")
