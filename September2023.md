@@ -25,6 +25,7 @@
   * [September 22,2023](#september-222023)
   * [September 23,2023](#september-232023)
   * [September 24,2023](#september-242023)
+  * [September 25,2023](#september-252023)
 
 <!-- tocstop -->
 
@@ -126,3 +127,7 @@ CIAY September 2023
 ## September 24,2023 ##
 
 [![The Church as Mother and Teacher](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day267.jpg)](https://youtu.be/Gz5Mr-9vx_s "The Church as Mother and Teacher")
+
+## September 25,2023 ##
+
+[![The Precepts of the Church](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day268.jpg)](https://youtu.be/sqtGnhY7FOs "The Precepts of the Church")
