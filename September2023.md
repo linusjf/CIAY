@@ -26,6 +26,7 @@
   * [September 23,2023](#september-232023)
   * [September 24,2023](#september-242023)
   * [September 25,2023](#september-252023)
+  * [September 26,2023](#september-262023)
 
 <!-- tocstop -->
 
@@ -131,3 +132,7 @@ CIAY September 2023
 ## September 25,2023 ##
 
 [![The Precepts of the Church](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day268.jpg)](https://youtu.be/sqtGnhY7FOs "The Precepts of the Church")
+
+## September 26,2023 ##
+
+[![Our Missionary Witness](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day269.jpg)](https://youtu.be/qhgJ0P6eSRU "Our Missionary Witness")
