@@ -27,6 +27,7 @@
   * [September 24,2023](#september-242023)
   * [September 25,2023](#september-252023)
   * [September 26,2023](#september-262023)
+  * [September 27,2023](#september-272023)
 
 <!-- tocstop -->
 
@@ -136,3 +137,7 @@ CIAY September 2023
 ## September 26,2023 ##
 
 [![Our Missionary Witness](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day269.jpg)](https://youtu.be/qhgJ0P6eSRU "Our Missionary Witness")
+
+## September 27,2023 ##
+
+[![The Ten Commandments](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day270.jpg)](https://youtu.be/Ne2DREYOnYg "The Ten Commandments")
