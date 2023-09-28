@@ -28,6 +28,7 @@
   * [September 25,2023](#september-252023)
   * [September 26,2023](#september-262023)
   * [September 27,2023](#september-272023)
+  * [September 28,2023](#september-282023)
 
 <!-- tocstop -->
 
@@ -141,3 +142,7 @@ CIAY September 2023
 ## September 27,2023 ##
 
 [![The Ten Commandments](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day270.jpg)](https://youtu.be/Ne2DREYOnYg "The Ten Commandments")
+
+## September 28,2023 ##
+
+[![Love of God](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day271.jpg)](https://youtu.be/WXFNAQQMhKU "Love of God")
