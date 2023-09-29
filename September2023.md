@@ -29,6 +29,7 @@
   * [September 26,2023](#september-262023)
   * [September 27,2023](#september-272023)
   * [September 28,2023](#september-282023)
+  * [September 29,2023](#september-292023)
 
 <!-- tocstop -->
 
@@ -146,3 +147,7 @@ CIAY September 2023
 ## September 28,2023 ##
 
 [![Love of God](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day271.jpg)](https://youtu.be/WXFNAQQMhKU "Love of God")
+
+## September 29,2023 ##
+
+[![You Shall Worship the Lord Your God](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day272.jpg)](https://youtu.be/EtDgYGjiRwU "You Shall Worship the Lord Your God")
