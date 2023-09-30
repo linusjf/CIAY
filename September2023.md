@@ -30,6 +30,7 @@
   * [September 27,2023](#september-272023)
   * [September 28,2023](#september-282023)
   * [September 29,2023](#september-292023)
+  * [September 30,2023](#september-302023)
 
 <!-- tocstop -->
 
@@ -151,3 +152,7 @@ CIAY September 2023
 ## September 29,2023 ##
 
 [![You Shall Worship the Lord Your God](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day272.jpg)](https://youtu.be/EtDgYGjiRwU "You Shall Worship the Lord Your God")
+
+## September 30,2023 ##
+
+[![Him Only Shall You Serve](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day273.jpg)](https://youtu.be/vVlsuFalM3I "Him Only Shall You Serve")
