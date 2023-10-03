@@ -3,6 +3,7 @@
 - [October 2023](#october-2023)
   * [October 01,2023](#october-012023)
   * [October 02,2023](#october-022023)
+  * [October 03,2023](#october-032023)
 
 <!-- tocstop -->
 
@@ -16,3 +17,7 @@ CIAY October 2023
 ## October 02,2023 ##
 
 [![Superstition, Idolatry, and Magic](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day275.jpg)](https://youtu.be/bMORyqUA0kQ "Superstition, Idolatry, and Magic")
+
+## October 03,2023 ##
+
+[![Irreligion and Atheism](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day276.jpg)](https://youtu.be/E8YwsR6eBJU "Irreligion and Atheism")
