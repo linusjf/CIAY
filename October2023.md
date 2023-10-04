@@ -4,6 +4,7 @@
   * [October 01,2023](#october-012023)
   * [October 02,2023](#october-022023)
   * [October 03,2023](#october-032023)
+  * [October 04,2023](#october-042023)
 
 <!-- tocstop -->
 
@@ -21,3 +22,7 @@ CIAY October 2023
 ## October 03,2023 ##
 
 [![Irreligion and Atheism](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day276.jpg)](https://youtu.be/E8YwsR6eBJU "Irreligion and Atheism")
+
+## October 04,2023 ##
+
+[![Agnosticism and Graven Images](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day277.jpg)](https://youtu.be/xHxFus03J7Y "Agnosticism and Graven Images")
