@@ -5,6 +5,7 @@
   * [October 02,2023](#october-022023)
   * [October 03,2023](#october-032023)
   * [October 04,2023](#october-042023)
+  * [October 05,2023](#october-052023)
 
 <!-- tocstop -->
 
@@ -26,3 +27,7 @@ CIAY October 2023
 ## October 04,2023 ##
 
 [![Agnosticism and Graven Images](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day277.jpg)](https://youtu.be/xHxFus03J7Y "Agnosticism and Graven Images")
+
+## October 05,2023 ##
+
+[![The Second Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day278.jpg)](https://youtu.be/V-0SXT0mGZA "The Second Commandment")
