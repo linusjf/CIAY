@@ -7,6 +7,7 @@
   * [October 04,2023](#october-042023)
   * [October 05,2023](#october-052023)
   * [October 06,2023](#october-062023)
+  * [October 07,2023](#october-072023)
 
 <!-- tocstop -->
 
@@ -36,3 +37,7 @@ CIAY October 2023
 ## October 06,2023 ##
 
 [![False Oaths](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day279.jpg)](https://youtu.be/Xt1HEvpoDyM "False Oaths")
+
+## October 07,2023 ##
+
+[![The Christian Name](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day280.jpg)](https://youtu.be/MqoZDijCD0o "The Christian Name")
