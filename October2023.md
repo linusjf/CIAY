@@ -9,6 +9,7 @@
   * [October 06,2023](#october-062023)
   * [October 07,2023](#october-072023)
   * [October 08,2023](#october-082023)
+  * [October 09,2023](#october-092023)
 
 <!-- tocstop -->
 
@@ -46,3 +47,7 @@ CIAY October 2023
 ## October 08,2023 ##
 
 [![Keep Holy the Lord's Day](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day281.jpg)](https://youtu.be/7UqszpI7_WM "Keep Holy the Lord's Day")
+
+## October 09,2023 ##
+
+[![The Sunday Obligation](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day282.jpg)](https://youtu.be/6xy6GkQVQ44 "The Sunday Obligation")
