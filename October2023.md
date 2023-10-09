@@ -8,6 +8,7 @@
   * [October 05,2023](#october-052023)
   * [October 06,2023](#october-062023)
   * [October 07,2023](#october-072023)
+  * [October 08,2023](#october-082023)
 
 <!-- tocstop -->
 
@@ -41,3 +42,7 @@ CIAY October 2023
 ## October 07,2023 ##
 
 [![The Christian Name](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day280.jpg)](https://youtu.be/MqoZDijCD0o "The Christian Name")
+
+## October 08,2023 ##
+
+[![Keep Holy the Lord's Day](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day281.jpg)](https://youtu.be/7UqszpI7_WM "Keep Holy the Lord's Day")
