@@ -10,6 +10,7 @@
   * [October 07,2023](#october-072023)
   * [October 08,2023](#october-082023)
   * [October 09,2023](#october-092023)
+  * [October 10,2023](#october-102023)
 
 <!-- tocstop -->
 
@@ -51,3 +52,7 @@ CIAY October 2023
 ## October 09,2023 ##
 
 [![The Sunday Obligation](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day282.jpg)](https://youtu.be/6xy6GkQVQ44 "The Sunday Obligation")
+
+## October 10,2023 ##
+
+[![The Day of Rest](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day283.jpg)](https://youtu.be/xjPT7vyYDPM "The Day of Rest")
