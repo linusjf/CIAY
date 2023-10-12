@@ -11,6 +11,7 @@
   * [October 08,2023](#october-082023)
   * [October 09,2023](#october-092023)
   * [October 10,2023](#october-102023)
+  * [October 11,2023](#october-112023)
 
 <!-- tocstop -->
 
@@ -56,3 +57,7 @@ CIAY October 2023
 ## October 10,2023 ##
 
 [![The Day of Rest](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day283.jpg)](https://youtu.be/xjPT7vyYDPM "The Day of Rest")
+
+## October 11,2023 ##
+
+[![The Fourth Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day284.jpg)](https://youtu.be/qMY2ZgFoQrk "The Fourth Commandment")
