@@ -12,6 +12,7 @@
   * [October 09,2023](#october-092023)
   * [October 10,2023](#october-102023)
   * [October 11,2023](#october-112023)
+  * [October 12,2023](#october-122023)
 
 <!-- tocstop -->
 
@@ -61,3 +62,7 @@ CIAY October 2023
 ## October 11,2023 ##
 
 [![The Fourth Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day284.jpg)](https://youtu.be/qMY2ZgFoQrk "The Fourth Commandment")
+
+## October 12,2023 ##
+
+[![The Nature of the Family](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day285.jpg)](https://youtu.be/9BaR9ub5eG8 "The Nature of the Family")
