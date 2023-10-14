@@ -13,6 +13,8 @@
   * [October 10,2023](#october-102023)
   * [October 11,2023](#october-112023)
   * [October 12,2023](#october-122023)
+  * [October 13,2023](#october-132023)
+  * [October 14,2023](#october-142023)
 
 <!-- tocstop -->
 
@@ -66,3 +68,11 @@ CIAY October 2023
 ## October 12,2023 ##
 
 [![The Nature of the Family](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day285.jpg)](https://youtu.be/9BaR9ub5eG8 "The Nature of the Family")
+
+## October 13,2023 ##
+
+[![The Family and Society](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day286.jpg)](https://youtu.be/LDgpR-Hcev8 "The Family and Society")
+
+## October 14,2023 ##
+
+[![The Gratitude of Children](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day287.jpg)](https://youtu.be/3RScC-G64J8 "The Gratitude of Children")
