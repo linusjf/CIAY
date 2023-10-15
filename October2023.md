@@ -15,6 +15,7 @@
   * [October 12,2023](#october-122023)
   * [October 13,2023](#october-132023)
   * [October 14,2023](#october-142023)
+  * [October 15,2023](#october-152023)
 
 <!-- tocstop -->
 
@@ -76,3 +77,7 @@ CIAY October 2023
 ## October 14,2023 ##
 
 [![The Gratitude of Children](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day287.jpg)](https://youtu.be/3RScC-G64J8 "The Gratitude of Children")
+
+## October 15,2023 ##
+
+[![The Duties of Parents](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day288.jpg)](https://youtu.be/sZ-UvMcIA5E "The Duties of Parents")
