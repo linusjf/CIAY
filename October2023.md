@@ -16,6 +16,7 @@
   * [October 13,2023](#october-132023)
   * [October 14,2023](#october-142023)
   * [October 15,2023](#october-152023)
+  * [October 16,2023](#october-162023)
 
 <!-- tocstop -->
 
@@ -81,3 +82,7 @@ CIAY October 2023
 ## October 15,2023 ##
 
 [![The Duties of Parents](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day288.jpg)](https://youtu.be/sZ-UvMcIA5E "The Duties of Parents")
+
+## October 16,2023 ##
+
+[![Family, Society, and the Kingdom](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day289.jpg)](https://youtu.be/GA7bWqW0EjM "Family, Society, and the Kingdom")
