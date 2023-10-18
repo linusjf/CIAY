@@ -18,6 +18,7 @@
   * [October 15,2023](#october-152023)
   * [October 16,2023](#october-162023)
   * [October 17,2023](#october-172023)
+  * [October 18,2023](#october-182023)
 
 <!-- tocstop -->
 
@@ -91,3 +92,7 @@ CIAY October 2023
 ## October 17,2023 ##
 
 [![The Duties of Citizens](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day290.jpg)](https://youtu.be/dM_X7N2xsbw "The Duties of Citizens")
+
+## October 18,2023 ##
+
+[![The Political Community and the Church](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day291.jpg)](https://youtu.be/4ez8_W6K2YQ "The Political Community and the Church")
