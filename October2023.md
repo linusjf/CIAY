@@ -19,6 +19,8 @@
   * [October 16,2023](#october-162023)
   * [October 17,2023](#october-172023)
   * [October 18,2023](#october-182023)
+  * [October 19,2023](#october-192023)
+  * [October 20,2023](#october-202023)
 
 <!-- tocstop -->
 
@@ -96,3 +98,11 @@ CIAY October 2023
 ## October 18,2023 ##
 
 [![The Political Community and the Church](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day291.jpg)](https://youtu.be/4ez8_W6K2YQ "The Political Community and the Church")
+
+## October 19,2023 ##
+
+[![Respect for Human Life](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day292.jpg)](https://youtu.be/4bu9eP2P568 "Respect for Human Life")
+
+## October 20,2023 ##
+
+[![Legitimate Defense](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day293.jpg)](https://youtu.be/avbIiFbonnI "Legitimate Defense")
