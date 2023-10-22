@@ -21,6 +21,7 @@
   * [October 18,2023](#october-182023)
   * [October 19,2023](#october-192023)
   * [October 20,2023](#october-202023)
+  * [October 21,2023](#october-212023)
 
 <!-- tocstop -->
 
@@ -106,3 +107,7 @@ CIAY October 2023
 ## October 20,2023 ##
 
 [![Legitimate Defense](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day293.jpg)](https://youtu.be/avbIiFbonnI "Legitimate Defense")
+
+## October 21,2023 ##
+
+[![Homicide](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day294.jpg)](https://youtu.be/dqwpIUnrB60 "Homicide")
