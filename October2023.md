@@ -22,6 +22,7 @@
   * [October 19,2023](#october-192023)
   * [October 20,2023](#october-202023)
   * [October 21,2023](#october-212023)
+  * [October 22,2023](#october-222023)
 
 <!-- tocstop -->
 
@@ -111,3 +112,7 @@ CIAY October 2023
 ## October 21,2023 ##
 
 [![Homicide](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day294.jpg)](https://youtu.be/dqwpIUnrB60 "Homicide")
+
+## October 22,2023 ##
+
+[![The Wound of Abortion](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day295.jpg)](https://youtu.be/sSICY76enAY "The Wound of Abortion")
