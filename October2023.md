@@ -24,6 +24,7 @@
   * [October 21,2023](#october-212023)
   * [October 22,2023](#october-222023)
   * [October 23,2023](#october-232023)
+  * [October 24,2023](#october-242023)
 
 <!-- tocstop -->
 
@@ -121,3 +122,7 @@ CIAY October 2023
 ## October 23,2023 ##
 
 [![The Sin of Euthanasia](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day296.jpg)](https://youtu.be/v20Vg6CR9D0 "The Sin of Euthanasia")
+
+## October 24,2023 ##
+
+[![The Cross of Suicide](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day297.jpg)](https://youtu.be/2f_kcCnAd48 "The Cross of Suicide")
