@@ -25,6 +25,7 @@
   * [October 22,2023](#october-222023)
   * [October 23,2023](#october-232023)
   * [October 24,2023](#october-242023)
+  * [October 25,2023](#october-252023)
 
 <!-- tocstop -->
 
@@ -126,3 +127,7 @@ CIAY October 2023
 ## October 24,2023 ##
 
 [![The Cross of Suicide](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day297.jpg)](https://youtu.be/2f_kcCnAd48 "The Cross of Suicide")
+
+## October 25,2023 ##
+
+[![Respect for Others](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day298.jpg)](https://youtu.be/pfMWWQuryTU "Respect for Others")
