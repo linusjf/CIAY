@@ -26,6 +26,7 @@
   * [October 23,2023](#october-232023)
   * [October 24,2023](#october-242023)
   * [October 25,2023](#october-252023)
+  * [October 26,2023](#october-262023)
 
 <!-- tocstop -->
 
@@ -131,3 +132,7 @@ CIAY October 2023
 ## October 25,2023 ##
 
 [![Respect for Others](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day298.jpg)](https://youtu.be/pfMWWQuryTU "Respect for Others")
+
+## October 26,2023 ##
+
+[![Respect for Health](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day299.jpg)](https://youtu.be/lmFC1qULXI8 "Respect for Health")
