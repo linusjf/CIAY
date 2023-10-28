@@ -28,6 +28,7 @@
   * [October 25,2023](#october-252023)
   * [October 26,2023](#october-262023)
   * [October 27,2023](#october-272023)
+  * [October 28,2023](#october-282023)
 
 <!-- tocstop -->
 
@@ -141,3 +142,7 @@ CIAY October 2023
 ## October 27,2023 ##
 
 [![Science, Bodily Integrity, and the Dead](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day300.jpg)](https://youtu.be/a5YRoz0SQiY "Science, Bodily Integrity, and the Dead")
+
+## October 28,2023 ##
+
+[![Peace](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day301.jpg)](https://youtu.be/oo20tQVCPXY "Peace")
