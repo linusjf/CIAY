@@ -29,6 +29,7 @@
   * [October 26,2023](#october-262023)
   * [October 27,2023](#october-272023)
   * [October 28,2023](#october-282023)
+  * [October 29,2023](#october-292023)
 
 <!-- tocstop -->
 
@@ -146,3 +147,7 @@ CIAY October 2023
 ## October 28,2023 ##
 
 [![Peace](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day301.jpg)](https://youtu.be/oo20tQVCPXY "Peace")
+
+## October 29,2023 ##
+
+[![War](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day302.jpg)](https://youtu.be/mFVXXjnIcYQ "War")
