@@ -31,6 +31,7 @@
   * [October 28,2023](#october-282023)
   * [October 29,2023](#october-292023)
   * [October 30,2023](#october-302023)
+  * [October 31,2023](#october-312023)
 
 <!-- tocstop -->
 
@@ -156,3 +157,7 @@ CIAY October 2023
 ## October 30,2023 ##
 
 [![Summary of the Fifth Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day303.jpg)](https://youtu.be/svI75YxiLyw "Summary of the Fifth Commandment")
+
+## October 31,2023 ##
+
+[![Male and Female](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day304.jpg)](https://youtu.be/BFlceECtkxw "Male and Female")
