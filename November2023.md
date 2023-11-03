@@ -3,6 +3,7 @@
 - [November 2023](#november-2023)
   * [November 01,2023](#november-012023)
   * [November 02,2023](#november-022023)
+  * [November 03,2023](#november-032023)
 
 <!-- tocstop -->
 
@@ -16,3 +17,7 @@ CIAY November 2023
 ## November 02,2023 ##
 
 [![Gift of Self](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day306.jpg)](https://youtu.be/5N6aWCK_NIA "Gift of Self")
+
+## November 03,2023 ##
+
+[![Offenses Against Chastity](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day307.jpg)](https://youtu.be/v4ZYtTd3Tw0 "Offenses Against Chastity")
