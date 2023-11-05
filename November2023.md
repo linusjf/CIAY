@@ -5,6 +5,7 @@
   * [November 02,2023](#november-022023)
   * [November 03,2023](#november-032023)
   * [November 04,2023](#november-042023)
+  * [November 05,2023](#november-052023)
 
 <!-- tocstop -->
 
@@ -26,3 +27,7 @@ CIAY November 2023
 ## November 04,2023 ##
 
 [![Same-Sex Attraction](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day308.jpg)](https://youtu.be/sR0rIe4CPoA "Same-Sex Attraction")
+
+## November 05,2023 ##
+
+[![Faithful and Fruitful Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day309.jpg)](https://youtu.be/rRuYgrEYSYg "Faithful and Fruitful Marriage")
