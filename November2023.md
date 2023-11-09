@@ -6,6 +6,10 @@
   * [November 03,2023](#november-032023)
   * [November 04,2023](#november-042023)
   * [November 05,2023](#november-052023)
+  * [November 06,2023](#november-062023)
+  * [November 07,2023](#november-072023)
+  * [November 08,2023](#november-082023)
+  * [November 09,2023](#november-092023)
 
 <!-- tocstop -->
 
@@ -31,3 +35,19 @@ CIAY November 2023
 ## November 05,2023 ##
 
 [![Faithful and Fruitful Marriage](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day309.jpg)](https://youtu.be/rRuYgrEYSYg "Faithful and Fruitful Marriage")
+
+## November 06,2023 ##
+
+[![The Gift of a Child](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day310.jpg)](https://youtu.be/nBtRnd7r5DI "The Gift of a Child")
+
+## November 07,2023 ##
+
+[![Adultery and Divorce](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day311.jpg)](https://youtu.be/Rew__pzmgQ8 "Adultery and Divorce")
+
+## November 08,2023 ##
+
+[![Polygamy, Incest, and Free Union](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day312.jpg)](https://youtu.be/LrA9fPyL0ug "Polygamy, Incest, and Free Union")
+
+## November 09,2023 ##
+
+[![Ownership of Goods](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day313.jpg)](https://youtu.be/pUa4qKtJ8wg "Ownership of Goods")
