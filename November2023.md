@@ -10,6 +10,7 @@
   * [November 07,2023](#november-072023)
   * [November 08,2023](#november-082023)
   * [November 09,2023](#november-092023)
+  * [November 10,2023](#november-102023)
 
 <!-- tocstop -->
 
@@ -51,3 +52,7 @@ CIAY November 2023
 ## November 09,2023 ##
 
 [![Ownership of Goods](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day313.jpg)](https://youtu.be/pUa4qKtJ8wg "Ownership of Goods")
+
+## November 10,2023 ##
+
+[![Goods of Others](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day314.jpg)](https://youtu.be/JUY-sj3xKG0 "Goods of Others")
