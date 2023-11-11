@@ -11,6 +11,7 @@
   * [November 08,2023](#november-082023)
   * [November 09,2023](#november-092023)
   * [November 10,2023](#november-102023)
+  * [November 11,2023](#november-112023)
 
 <!-- tocstop -->
 
@@ -56,3 +57,7 @@ CIAY November 2023
 ## November 10,2023 ##
 
 [![Goods of Others](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day314.jpg)](https://youtu.be/JUY-sj3xKG0 "Goods of Others")
+
+## November 11,2023 ##
+
+[![The Church's Social Doctrine](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day315.jpg)](https://youtu.be/rLkGdrWXdZ8 "The Church's Social Doctrine")
