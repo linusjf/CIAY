@@ -12,6 +12,7 @@
   * [November 09,2023](#november-092023)
   * [November 10,2023](#november-102023)
   * [November 11,2023](#november-112023)
+  * [November 12,2023](#november-122023)
 
 <!-- tocstop -->
 
@@ -61,3 +62,7 @@ CIAY November 2023
 ## November 11,2023 ##
 
 [![The Church's Social Doctrine](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day315.jpg)](https://youtu.be/rLkGdrWXdZ8 "The Church's Social Doctrine")
+
+## November 12,2023 ##
+
+[![Labor and Social Justice](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day316.jpg)](https://youtu.be/OcIFWsY5XfA "Labor and Social Justice")
