@@ -13,6 +13,7 @@
   * [November 10,2023](#november-102023)
   * [November 11,2023](#november-112023)
   * [November 12,2023](#november-122023)
+  * [November 13,2023](#november-132023)
 
 <!-- tocstop -->
 
@@ -66,3 +67,7 @@ CIAY November 2023
 ## November 12,2023 ##
 
 [![Labor and Social Justice](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day316.jpg)](https://youtu.be/OcIFWsY5XfA "Labor and Social Justice")
+
+## November 13,2023 ##
+
+[![International Justice and Solidarity](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day317.jpg)](https://youtu.be/vUgETb3xYWY "International Justice and Solidarity")
