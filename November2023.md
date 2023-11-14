@@ -14,6 +14,7 @@
   * [November 11,2023](#november-112023)
   * [November 12,2023](#november-122023)
   * [November 13,2023](#november-132023)
+  * [November 14,2023](#november-142023)
 
 <!-- tocstop -->
 
@@ -71,3 +72,7 @@ CIAY November 2023
 ## November 13,2023 ##
 
 [![International Justice and Solidarity](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day317.jpg)](https://youtu.be/vUgETb3xYWY "International Justice and Solidarity")
+
+## November 14,2023 ##
+
+[![Love for the Poor](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day318.jpg)](https://youtu.be/tL8m3nngKYM "Love for the Poor")
