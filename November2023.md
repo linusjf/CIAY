@@ -15,6 +15,7 @@
   * [November 12,2023](#november-122023)
   * [November 13,2023](#november-132023)
   * [November 14,2023](#november-142023)
+  * [November 15,2023](#november-152023)
 
 <!-- tocstop -->
 
@@ -76,3 +77,7 @@ CIAY November 2023
 ## November 14,2023 ##
 
 [![Love for the Poor](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day318.jpg)](https://youtu.be/tL8m3nngKYM "Love for the Poor")
+
+## November 15,2023 ##
+
+[![Summary of the Seventh Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day319.jpg)](https://youtu.be/VoEGntoBG1M "Summary of the Seventh Commandment")
