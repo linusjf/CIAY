@@ -16,6 +16,7 @@
   * [November 13,2023](#november-132023)
   * [November 14,2023](#november-142023)
   * [November 15,2023](#november-152023)
+  * [November 16,2023](#november-162023)
 
 <!-- tocstop -->
 
@@ -81,3 +82,7 @@ CIAY November 2023
 ## November 15,2023 ##
 
 [![Summary of the Seventh Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day319.jpg)](https://youtu.be/VoEGntoBG1M "Summary of the Seventh Commandment")
+
+## November 16,2023 ##
+
+[![The Truth](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day320.jpg)](https://youtu.be/IsM68W_SKlE "The Truth")
