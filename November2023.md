@@ -18,6 +18,7 @@
   * [November 15,2023](#november-152023)
   * [November 16,2023](#november-162023)
   * [November 17,2023](#november-172023)
+  * [November 18,2023](#november-182023)
 
 <!-- tocstop -->
 
@@ -91,3 +92,7 @@ CIAY November 2023
 ## November 17,2023 ##
 
 [![Offenses Against Truth](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day321.jpg)](https://youtu.be/mDfTLxOtx9M "Offenses Against Truth")
+
+## November 18,2023 ##
+
+[![Respect for Truth](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day322.jpg)](https://youtu.be/T-ic6yaxFlo "Respect for Truth")
