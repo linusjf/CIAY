@@ -20,6 +20,7 @@
   * [November 17,2023](#november-172023)
   * [November 18,2023](#november-182023)
   * [November 19,2023](#november-192023)
+  * [November 20,2023](#november-202023)
 
 <!-- tocstop -->
 
@@ -101,3 +102,7 @@ CIAY November 2023
 ## November 19,2023 ##
 
 [![Truth, Beauty, and Sacred Art](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day323.jpg)](https://youtu.be/X4zWR_drjHw "Truth, Beauty, and Sacred Art")
+
+## November 20,2023 ##
+
+[![The Ninth Commandment](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day324.jpg)](https://youtu.be/67oGpP38NlA "The Ninth Commandment")
