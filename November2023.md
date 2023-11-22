@@ -22,6 +22,7 @@
   * [November 19,2023](#november-192023)
   * [November 20,2023](#november-202023)
   * [November 21,2023](#november-212023)
+  * [November 22,2023](#november-222023)
 
 <!-- tocstop -->
 
@@ -111,3 +112,7 @@ CIAY November 2023
 ## November 21,2023 ##
 
 [![Battling for Purity](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day325.jpg)](https://youtu.be/cdga0HtlPpM "Battling for Purity")
+
+## November 22,2023 ##
+
+[![Envy and Jealousy](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day326.jpg)](https://youtu.be/la8zwBCAdnw "Envy and Jealousy")
