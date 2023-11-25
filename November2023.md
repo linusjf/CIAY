@@ -25,6 +25,7 @@
   * [November 22,2023](#november-222023)
   * [November 23,2023](#november-232023)
   * [November 24,2023](#november-242023)
+  * [November 25,2023](#november-252023)
 
 <!-- tocstop -->
 
@@ -126,3 +127,7 @@ CIAY November 2023
 ## November 24,2023 ##
 
 [![How We Pray (Part 4 Intro w/ Sr. Miriam James Heidland)](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day328.jpg)](https://youtu.be/oRXPJ6CN9g4 "How We Pray (Part 4 Intro w/ Sr. Miriam James Heidland)")
+
+## November 25,2023 ##
+
+[![The Gift of Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day329.jpg)](https://youtu.be/8s3THs_mAn0 "The Gift of Prayer")
