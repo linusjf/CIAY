@@ -26,6 +26,7 @@
   * [November 23,2023](#november-232023)
   * [November 24,2023](#november-242023)
   * [November 25,2023](#november-252023)
+  * [November 26,2023](#november-262023)
 
 <!-- tocstop -->
 
@@ -131,3 +132,7 @@ CIAY November 2023
 ## November 25,2023 ##
 
 [![The Gift of Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day329.jpg)](https://youtu.be/8s3THs_mAn0 "The Gift of Prayer")
+
+## November 26,2023 ##
+
+[![The Revelation of Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day330.jpg)](https://youtu.be/ff2mZgRjG0E "The Revelation of Prayer")
