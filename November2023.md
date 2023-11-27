@@ -27,6 +27,7 @@
   * [November 24,2023](#november-242023)
   * [November 25,2023](#november-252023)
   * [November 26,2023](#november-262023)
+  * [November 27,2023](#november-272023)
 
 <!-- tocstop -->
 
@@ -136,3 +137,7 @@ CIAY November 2023
 ## November 26,2023 ##
 
 [![The Revelation of Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day330.jpg)](https://youtu.be/ff2mZgRjG0E "The Revelation of Prayer")
+
+## November 27,2023 ##
+
+[![The Foundations of Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day331.jpg)](https://youtu.be/URfEHcxmMsE "The Foundations of Prayer")
