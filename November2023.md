@@ -28,6 +28,7 @@
   * [November 25,2023](#november-252023)
   * [November 26,2023](#november-262023)
   * [November 27,2023](#november-272023)
+  * [November 28,2023](#november-282023)
 
 <!-- tocstop -->
 
@@ -141,3 +142,7 @@ CIAY November 2023
 ## November 27,2023 ##
 
 [![The Foundations of Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day331.jpg)](https://youtu.be/URfEHcxmMsE "The Foundations of Prayer")
+
+## November 28,2023 ##
+
+[![Prayer Converts Our Heart](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day332.jpg)](https://youtu.be/IKoZpT3QlA8 "Prayer Converts Our Heart")
