@@ -22,6 +22,7 @@ vid="$1"
 doy="$2"
 videourl="https://youtu.be/${vid}"
 caption="$3"
+year="2023"
 if ./genoverlay "$vid" "$doy"; then
   md="$(./genvidthmd "$vid" "$videourl" "$caption" "$doy")"
   month="$(mfromdoy "$doy")"
@@ -34,7 +35,7 @@ if ./genoverlay "$vid" "$doy"; then
   } >>"$fname"
 
   basename -- "$fname" >>"${month}/compact.txt"
-  monthmd="$(date '+%B%Y.md')"
+  monthmd="${month}${year}.md"
   ./compact "$month" >|"$monthmd" &&
     markdown-toc -i "$monthmd"
   echo "$vid" >>videos.txt
