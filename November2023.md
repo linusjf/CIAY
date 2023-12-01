@@ -30,6 +30,7 @@
   * [November 27,2023](#november-272023)
   * [November 28,2023](#november-282023)
   * [November 29,2023](#november-292023)
+  * [November 30,2023](#november-302023)
 
 <!-- tocstop -->
 
@@ -151,3 +152,7 @@ CIAY November 2023
 ## November 29,2023 ##
 
 [![The Psalms](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day333.jpg)](https://youtu.be/bztaPowbtng "The Psalms")
+
+## November 30,2023 ##
+
+[![How Jesus Prayed](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day334.jpg)](https://youtu.be/RBRQyZ-WPSw "How Jesus Prayed")
