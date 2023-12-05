@@ -4,6 +4,8 @@
   * [December 01,2023](#december-012023)
   * [December 02,2023](#december-022023)
   * [December 03,2023](#december-032023)
+  * [December 04,2023](#december-042023)
+  * [December 05,2023](#december-052023)
 
 <!-- tocstop -->
 
@@ -21,3 +23,11 @@ CIAY December 2023
 ## December 03,2023 ##
 
 [![Blessing, Adoration, and Petition](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day337.jpg)](https://youtu.be/Di54q_wxM0A "Blessing, Adoration, and Petition")
+
+## December 04,2023 ##
+
+[![Intercession and Thanksgiving](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day338.jpg)](https://youtu.be/oW_hwjojGJs "Intercession and Thanksgiving")
+
+## December 05,2023 ##
+
+[![Prayer of Praise](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day339.jpg)](https://youtu.be/h8y5BlGk2LA "Prayer of Praise")
