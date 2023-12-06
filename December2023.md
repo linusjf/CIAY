@@ -6,6 +6,7 @@
   * [December 03,2023](#december-032023)
   * [December 04,2023](#december-042023)
   * [December 05,2023](#december-052023)
+  * [December 06,2023](#december-062023)
 
 <!-- tocstop -->
 
@@ -31,3 +32,7 @@ CIAY December 2023
 ## December 05,2023 ##
 
 [![Prayer of Praise](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day339.jpg)](https://youtu.be/h8y5BlGk2LA "Prayer of Praise")
+
+## December 06,2023 ##
+
+[![Scripture and the Liturgy](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day340.jpg)](https://youtu.be/7cLcQTkLrXM "Scripture and the Liturgy")
