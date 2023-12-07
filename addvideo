@@ -40,5 +40,5 @@ if ./genoverlay "$vid" "$doy"; then
     markdown-toc -i "$monthmd"
   echo "$vid" >>videos.txt
 else
-  echo "Unable to find video thumbnail. Video does not exist."
+  echo "Unable to find or generate video thumbnail. Video may not exist."
 fi
