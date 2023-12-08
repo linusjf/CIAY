@@ -30,7 +30,7 @@ if magick convert "$1" \
   \( "$icon" -normalize +level 0,100% \) \
   -gravity center -geometry 256x256+32+0 -composite "$tmp"; then
   mv "$tmp" "$1"
-  exit "$?"
-else
-  exit 1
+#  exit "$?"
+# else
+#  exit 1
 fi

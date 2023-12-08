@@ -8,6 +8,7 @@
   * [December 05,2023](#december-052023)
   * [December 06,2023](#december-062023)
   * [December 07,2023](#december-072023)
+  * [December 08,2023](#december-082023)
 
 <!-- tocstop -->
 
@@ -41,3 +42,7 @@ CIAY December 2023
 ## December 07,2023 ##
 
 [![The Theological Virtues](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day341.jpg)](https://youtu.be/hI7zlMafJy0 "The Theological Virtues")
+
+## December 08,2023 ##
+
+[![Trinitarian Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day342.jpg)](https://youtu.be/u7HXWC2w5aM "Trinitarian Prayer")
