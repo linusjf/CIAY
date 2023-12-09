@@ -2,7 +2,7 @@
 require() {
   hash "$@" || exit
 }
-require magick mv file grep mktemp
+require gm mv file grep mktemp
 
 usage() {
   echo "$0 file"
@@ -26,11 +26,10 @@ fi
 
 icon="play-button.png"
 tmp=$(mktemp)
-if magick convert "$1" \
-  \( "$icon" -normalize +level 0,100% \) \
-  -gravity center -geometry 256x256+32+0 -composite "$tmp"; then
+if gm composite -gravity center -geometry 256x256+32+0 \
+  "$icon" "$1" "$tmp"; then
   mv "$tmp" "$1"
-#  exit "$?"
-# else
-#  exit 1
+  exit "$?"
+else
+  exit 1
 fi
