@@ -9,6 +9,7 @@
   * [December 06,2023](#december-062023)
   * [December 07,2023](#december-072023)
   * [December 08,2023](#december-082023)
+  * [December 09,2023](#december-092023)
 
 <!-- tocstop -->
 
@@ -46,3 +47,7 @@ CIAY December 2023
 ## December 08,2023 ##
 
 [![Trinitarian Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day342.jpg)](https://youtu.be/u7HXWC2w5aM "Trinitarian Prayer")
+
+## December 09,2023 ##
+
+[![Praying Through Mary](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day343.jpg)](https://youtu.be/hc8swuEn4Ag "Praying Through Mary")
