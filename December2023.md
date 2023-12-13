@@ -13,6 +13,7 @@
   * [December 10,2023](#december-102023)
   * [December 11,2023](#december-112023)
   * [December 12,2023](#december-122023)
+  * [December 13,2023](#december-132023)
 
 <!-- tocstop -->
 
@@ -66,3 +67,7 @@ CIAY December 2023
 ## December 12,2023 ##
 
 [![Meditation and Vocal Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day346.jpg)](https://youtu.be/UtjNh0p43sw "Meditation and Vocal Prayer")
+
+## December 13,2023 ##
+
+[![Contemplative Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day347.jpg)](https://youtu.be/AKLixSUvA7k "Contemplative Prayer")
