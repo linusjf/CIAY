@@ -17,6 +17,7 @@
   * [December 14,2023](#december-142023)
   * [December 15,2023](#december-152023)
   * [December 16,2023](#december-162023)
+  * [December 17,2023](#december-172023)
 
 <!-- tocstop -->
 
@@ -86,3 +87,7 @@ CIAY December 2023
 ## December 16,2023 ##
 
 [![Persevering in Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day350.jpg)](https://youtu.be/M-55R0sOEnI "Persevering in Prayer")
+
+## December 17,2023 ##
+
+[![The Prayer of the Hour of Jesus](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day351.jpg)](https://youtu.be/X21EWIhmgg8 "The Prayer of the Hour of Jesus")
