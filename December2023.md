@@ -19,6 +19,7 @@
   * [December 16,2023](#december-162023)
   * [December 17,2023](#december-172023)
   * [December 18,2023](#december-182023)
+  * [December 19,2023](#december-192023)
 
 <!-- tocstop -->
 
@@ -96,3 +97,7 @@ CIAY December 2023
 ## December 18,2023 ##
 
 [![Summary of the Battle of Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day352.jpg)](https://youtu.be/6gk1EiXtO4o "Summary of the Battle of Prayer")
+
+## December 19,2023 ##
+
+[![The Lord's Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day353.jpg)](https://youtu.be/mdXA8UFJPq4 "The Lord's Prayer")
