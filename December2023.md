@@ -21,6 +21,7 @@
   * [December 18,2023](#december-182023)
   * [December 19,2023](#december-192023)
   * [December 20,2023](#december-202023)
+  * [December 21,2023](#december-212023)
 
 <!-- tocstop -->
 
@@ -106,3 +107,7 @@ CIAY December 2023
 ## December 20,2023 ##
 
 [![The Prayer of the Church](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day354.jpg)](https://youtu.be/0tg3e8T2wkc "The Prayer of the Church")
+
+## December 21,2023 ##
+
+[![Summary of the Lord's Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day355.jpg)](https://youtu.be/reClbO6Hwa8 "Summary of the Lord's Prayer")
