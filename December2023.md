@@ -22,6 +22,7 @@
   * [December 19,2023](#december-192023)
   * [December 20,2023](#december-202023)
   * [December 21,2023](#december-212023)
+  * [December 22,2023](#december-222023)
 
 <!-- tocstop -->
 
@@ -111,3 +112,7 @@ CIAY December 2023
 ## December 21,2023 ##
 
 [![Summary of the Lord's Prayer](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day355.jpg)](https://youtu.be/reClbO6Hwa8 "Summary of the Lord's Prayer")
+
+## December 22,2023 ##
+
+[![We Dare to Say](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day356.jpg)](https://youtu.be/eUw214xuQSc "We Dare to Say")
