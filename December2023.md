@@ -23,6 +23,8 @@
   * [December 20,2023](#december-202023)
   * [December 21,2023](#december-212023)
   * [December 22,2023](#december-222023)
+  * [December 23,2023](#december-232023)
+  * [December 24,2023](#december-242023)
 
 <!-- tocstop -->
 
@@ -116,3 +118,11 @@ CIAY December 2023
 ## December 22,2023 ##
 
 [![We Dare to Say](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day356.jpg)](https://youtu.be/eUw214xuQSc "We Dare to Say")
+
+## December 23,2023 ##
+
+[![God, 'Our' Father](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day357.jpg)](https://youtu.be/XAeEq8yptpk "God, 'Our' Father")
+
+## December 24,2023 ##
+
+[![Who Art in Heaven](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day358.jpg)](https://youtu.be/82xkYK59Nbg "Who Art in Heaven")
