@@ -25,6 +25,7 @@
   * [December 22,2023](#december-222023)
   * [December 23,2023](#december-232023)
   * [December 24,2023](#december-242023)
+  * [December 25,2023](#december-252023)
 
 <!-- tocstop -->
 
@@ -126,3 +127,7 @@ CIAY December 2023
 ## December 24,2023 ##
 
 [![Who Art in Heaven](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day358.jpg)](https://youtu.be/82xkYK59Nbg "Who Art in Heaven")
+
+## December 25,2023 ##
+
+[![The Seven Petitions](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day359.jpg)](https://youtu.be/sXGUnxvMbI0 "The Seven Petitions")
