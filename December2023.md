@@ -26,6 +26,7 @@
   * [December 23,2023](#december-232023)
   * [December 24,2023](#december-242023)
   * [December 25,2023](#december-252023)
+  * [December 26,2023](#december-262023)
 
 <!-- tocstop -->
 
@@ -131,3 +132,7 @@ CIAY December 2023
 ## December 25,2023 ##
 
 [![The Seven Petitions](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day359.jpg)](https://youtu.be/sXGUnxvMbI0 "The Seven Petitions")
+
+## December 26,2023 ##
+
+[![Hallowing God's Name](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day360.jpg)](https://youtu.be/RNu4X89KYCY "Hallowing God's Name")
