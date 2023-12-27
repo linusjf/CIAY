@@ -27,6 +27,7 @@
   * [December 24,2023](#december-242023)
   * [December 25,2023](#december-252023)
   * [December 26,2023](#december-262023)
+  * [December 27,2023](#december-272023)
 
 <!-- tocstop -->
 
@@ -136,3 +137,7 @@ CIAY December 2023
 ## December 26,2023 ##
 
 [![Hallowing God's Name](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day360.jpg)](https://youtu.be/RNu4X89KYCY "Hallowing God's Name")
+
+## December 27,2023 ##
+
+[![The Kingdom and Will of God](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day361.jpg)](https://youtu.be/Mf6Os0mQjjM "The Kingdom and Will of God")
