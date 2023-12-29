@@ -29,6 +29,7 @@
   * [December 26,2023](#december-262023)
   * [December 27,2023](#december-272023)
   * [December 28,2023](#december-282023)
+  * [December 29,2023](#december-292023)
 
 <!-- tocstop -->
 
@@ -146,3 +147,7 @@ CIAY December 2023
 ## December 28,2023 ##
 
 [![Our Daily Bread](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day362.jpg)](https://youtu.be/pPQIorBCULc "Our Daily Bread")
+
+## December 29,2023 ##
+
+[![Forgive Us Our Trespasses](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day363.jpg)](https://youtu.be/yvdC1ZEL7JM "Forgive Us Our Trespasses")
