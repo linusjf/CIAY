@@ -30,6 +30,7 @@
   * [December 27,2023](#december-272023)
   * [December 28,2023](#december-282023)
   * [December 29,2023](#december-292023)
+  * [December 30,2023](#december-302023)
 
 <!-- tocstop -->
 
@@ -151,3 +152,7 @@ CIAY December 2023
 ## December 29,2023 ##
 
 [![Forgive Us Our Trespasses](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day363.jpg)](https://youtu.be/yvdC1ZEL7JM "Forgive Us Our Trespasses")
+
+## December 30,2023 ##
+
+[![Deliver Us from Evil](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day364.jpg)](https://youtu.be/NnYtXZpsZ_Y "Deliver Us from Evil")
