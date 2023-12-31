@@ -31,6 +31,7 @@
   * [December 28,2023](#december-282023)
   * [December 29,2023](#december-292023)
   * [December 30,2023](#december-302023)
+  * [December 31,2023](#december-312023)
 
 <!-- tocstop -->
 
@@ -156,3 +157,7 @@ CIAY December 2023
 ## December 30,2023 ##
 
 [![Deliver Us from Evil](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day364.jpg)](https://youtu.be/NnYtXZpsZ_Y "Deliver Us from Evil")
+
+## December 31,2023 ##
+
+[![So Be It](https://raw.githubusercontent.com/linusjf/CIAY/main/December/jpgs/Day365.jpg)](https://youtu.be/ubxspUNbdHY "So Be It")
