@@ -38,7 +38,7 @@
 
 ### Reading Plan
 
-[Download the Reading Plan](https://githubusercontent.com/linusjf/CIAY/main/The_Catechism_in_a_Year_Reading_Plan.pdf)
+[Download the Reading Plan](https://github.com/linusjf/CIAY/blob/main/The_Catechism_in_a_Year_Reading_Plan.pdf?raw=true)
 
 ## Intro
 
