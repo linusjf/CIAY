@@ -25,13 +25,20 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [Catechism In A Year](#cathecism-in-a-year)
+* [Catechism In A Year](#catechism-in-a-year)
+* [Reading Plan](#reading-plan)
 
 <!-- vim-markdown-toc -->
 
 ### Catechism In A Year
 
 ![The Three Legged Stool of Christian Authority](https://github.com/linusjf/CIAY/blob/main/ThreeLeggedStool.jpg?raw=true)
+
+<!-- vim-markdown-toc -->
+
+### Reading Plan
+
+[Download the Reading Plan](https://githubusercontent.com/linusjf/CIAY/main/The_Catechism_in_a_Year_Reading_Plan.pdf)
 
 ## Intro
 
