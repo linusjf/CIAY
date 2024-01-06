@@ -29,7 +29,7 @@ playiconurl() {
   doy="$1"
   doy="$(printf "%03d" "${doy#0}")"
   month="$(mfromdoy "$doy")"
-  echo "https://raw.githubusercontent.com/linusjf/BIAY/main/${month}/jpgs/Day${doy}.jpg"
+  echo "https://raw.githubusercontent.com/linusjf/CIAY/main/${month}/jpgs/Day${doy}.jpg"
 }
 
 thumbnailurl() {
