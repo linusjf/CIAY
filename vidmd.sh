@@ -7,6 +7,10 @@
 #
 # @description :
 ######################################################################
+getroot() {
+  hash git basename || exit
+  basename "$(git rev-parse --show-toplevel)"
+}
 
 usagevidmd() {
   echo "vidmd vidid vidurl caption"
@@ -26,10 +30,11 @@ usagevidmdloc() {
 }
 
 playiconurl() {
+  root="$(getroot)"
   doy="$1"
   doy="$(printf "%03d" "${doy#0}")"
   month="$(mfromdoy "$doy")"
-  echo "https://raw.githubusercontent.com/linusjf/CIAY/main/${month}/jpgs/Day${doy}.jpg"
+  echo "https://raw.githubusercontent.com/linusjf/${root}/main/${month}/jpgs/Day${doy}.jpg"
 }
 
 thumbnailurl() {
@@ -63,6 +68,7 @@ thumbnailurl() {
 
 downloadthumbnail() {
   url="$(thumbnailurl "$1")"
+  hash curl || exit
   curl --silent "$url" --output "$2"
 }
 
@@ -106,6 +112,7 @@ mfromdoy() {
     return 1
   fi
   ((day = 10#$1 - 1))
+  hash date || exit
   date --date="jan 1 + $day days" +%B
 }
 
@@ -115,10 +122,12 @@ datefromdoy() {
     return 1
   fi
   ((day = 10#$1 - 1))
+  hash date || exit
   date --date="jan 1 + $day days" "+%B %d,%Y"
 }
 
 monthfromnumber() {
+  hash date || exit
   case $1 in
   [1-9] | 1[0-2]) date -d "${1}/01" +%B ;;
   *) exit 1 ;;
