@@ -12,7 +12,7 @@ fi
 vidurl="$1"
 caption="$2"
 if test -e "$3" && test -f "$3"; then
-  imgurl="https://raw.githubusercontent.com/linusjf/CIAY/blob/main/${3}"
+  imgurl="https://raw.githubusercontent.com/linusjf/CIAY/main/${3}"
   printf "[![%s](%s)](%s \"%s\")\n" "$caption" "$imgurl" "$vidurl" "$caption"
 else
   usage
