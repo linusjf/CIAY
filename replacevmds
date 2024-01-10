@@ -16,7 +16,7 @@ isvalid() {
 if test $# -eq 0; then
   usage
 fi
-require mktemp mv mktemp curl
+require mv mktemp curl
 
 dir="$1"
 
