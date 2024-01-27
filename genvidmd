@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 usage() {
-  echo "$0 vidurl caption pathtoimg"
+  echo "$0 vid caption pathtoimg"
   echo "vid - video id"
   echo "caption - video title"
   echo "pathtoimg - relative path to jpeg image file to be generated"
