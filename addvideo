@@ -22,23 +22,24 @@ vid="$1"
 doy="$2"
 videourl="https://youtu.be/${vid}"
 caption="$3"
-year="2024"
+year="2023"
 if ./genoverlay "$vid" "$doy"; then
   md="$(./genvidthmd "$vid" "$videourl" "$caption" "$doy")"
   month="$(mfromdoy "$doy")"
   fname="${month}/Day$(printf "%03d" "${doy#0}").md"
   formatdt="$(datefromdoy "$doy")"
-  echo "## $formatdt ##" >|"$fname"
+  echo "## $formatdt ##" >| "$fname"
   {
     echo
     echo "$md"
-  } >>"$fname"
+  } >> "$fname"
 
-  basename -- "$fname" >>"${month}/compact.txt"
+  basename -- "$fname" >> "${month}/compact.txt"
   monthmd="${month}${year}.md"
-  ./compact "$month" >|"$monthmd" &&
-    markdown-toc -i "$monthmd"
-  echo "$vid" >>videos.txt
+  ./compact "$month" >| "$monthmd" \
+    && markdown-toc -i "$monthmd"
+  echo "$vid" >> videos.txt
+  echo "$fname generated for $vid."
 else
   echo "Unable to find or generate video thumbnail. Video may not exist."
 fi
