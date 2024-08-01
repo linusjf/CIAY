@@ -23,7 +23,7 @@ len=$((${#year}))
 if [ "$len" -ne 4 ]; then
   usage
 fi
-month="$1"
+month=$((10#$1))
 if ((month < 1 || month > 12)); then
   usage
 fi
@@ -33,6 +33,7 @@ fi
 
 month="$(monthfromnumber "$((10#${month}))")"
 monthmd="${month}${year}.md"
-./compact "${month}" >|"${monthmd}" &&
-  markdown-toc -i "${monthmd}"
+./compact "${month}" >| "${monthmd}" \
+  && markdown-toc -i "${monthmd}"
+sed -i '/\S/,$!d' "${monthmd}"
 exit "$?"
