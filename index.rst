@@ -15,6 +15,20 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
+   README.md
+   January2023.md
+   February2023.md
+   March2023.md
+   April2023.md
+   May2023.md
+   June2023.md
+   July2023.md
+   August2023.md
+   September2023.md
+   October2023.md
+   November2023.md
+   December2023.md
+
 .. include:: README.md
    :parser: myst_parser.sphinx_
 
