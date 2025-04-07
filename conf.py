@@ -17,7 +17,7 @@ extensions = ["myst_parser"]
 
 templates_path = ['_templates']
 exclude_patterns = ["stitch.md","January/*.md","February/*.md", "March/*.md", "April/*.md", "May/*.md", "June/*.md", "July/*.md", "August/*.md", "September/*.md", "October/*.md"\
-                    , "November/*.md", "December/*.md"]
+                    , "November/*.md", "December/*.md","README.md"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
