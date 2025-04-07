@@ -28,3 +28,4 @@ html_static_path = ['_static']
 html_theme_options = {
     'globaltoc_depth': 2,
 }
+myst_heading_anchors = 10
