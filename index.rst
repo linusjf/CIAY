@@ -16,7 +16,10 @@ documentation for details.
    :caption: Contents:
 
    README.md
+   Intro.md
+   prayer.md
    AthanassianCreed.md
+   paras1-25.md
    January2023.md
    February2023.md
    March2023.md
@@ -29,11 +32,21 @@ documentation for details.
    October2023.md
    November2023.md
    December2023.md
+   Conclusion.md
 
 .. include:: README.md
    :parser: myst_parser.sphinx_
 
+.. include:: Intro.md
+   :parser: myst_parser.sphinx_
+
+.. include:: prayer.md
+   :parser: myst_parser.sphinx_
+
 .. include:: AthanassianCreed.md
+   :parser: myst_parser.sphinx_
+
+.. include:: paras1-25.md
    :parser: myst_parser.sphinx_
 
 .. include:: January2023.md
@@ -70,4 +83,7 @@ documentation for details.
    :parser: myst_parser.sphinx_
 
 .. include:: December2023.md
+   :parser: myst_parser.sphinx_
+
+.. include:: Conclusion.md
    :parser: myst_parser.sphinx_
