@@ -13,12 +13,12 @@
 
 ![The Three Legged Stool of Christian Authority](https://github.com/linusjf/CIAY/blob/main/ThreeLeggedStool.jpg?raw=true)
 
-<!-- vim-markdown-toc -->
-
 ## Reading Plan
 
 [Download the Reading Plan](https://github.com/linusjf/CIAY/blob/main/The_Catechism_in_a_Year_Reading_Plan.pdf?raw=true)
 
 ## HTML Version Online
 
-The HTML version is available at <https://ciay.readthedocs.io/en/latest/>
+The HTML version is available at [<https://ciay.readthedocs.io/en/latest/](https://ciay.readthedocs.io/en/latest/)
+
+<!-- vim-markdown-toc -->
