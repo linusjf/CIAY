@@ -1,26 +1,25 @@
-<!-- vim-markdown-toc GFM -->
+# Intro
 
-+ [CIAY 2023 Members](#ciay-2023-members)
-    * [Videos](#videos)
-    * [Guidelines For Sharing](#guidelines-for-sharing)
-    * [Reflection content](#reflection-content)
-    * [Intercession group](#intercession-group)
+- [CIAY 2023 Members](#ciay-2023-members)
+  1. [Videos](#videos)
+  2. [Guidelines For Sharing](#guidelines-for-sharing)
+  3. [Day Reflection](#day-reflection)
+  4. [Intercession group](#intercession-group)
 
-<!-- vim-markdown-toc -->
-# CIAY 2023 Members
+## CIAY 2023 Members
+
 1. The countdown is ON - its less than 24 hours to CIAY 2023. Yeah!! So excited. :)
 
 2. In order to prepare for this journey - please watch the below videos and print out the reading plan if you like to, it helps to track progress.
 
 3. Fr Mike Schmitz is not part of the group and will not be joining as well, we only share the content from his programs.
 
-  I am Michael Eltham, the moderator of the group - I'm not Fr Mike - even though we have the same name.
-  Please contact me directly for any suggestions or questions.
-
+I am Michael Eltham, the moderator of the group - I'm not Fr Mike - even though we have the same name.
+Please contact me directly for any suggestions or questions.
 
 ---
 
-## Videos
+### Videos
 
 [![Why Scripture and Tradition?](https://raw.githubusercontent.com/linusjf/CIAY/main/preparingjourney.jpg)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
 
@@ -28,7 +27,7 @@
 
 ---
 
-## Guidelines For Sharing
+### Guidelines For Sharing
 
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
@@ -37,14 +36,13 @@ Send the reflection to the Admin, I will randomly pick a few reflections to shar
 
 Please use this format:
 
-CIAY Day \#
-Reflection content
------
+### Day Reflection
 
 - John Smith (Your Name)
 
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
-## Intercession group
+### Intercession group
+
 [Intercession group](https://chat.whatsapp.com/HLiWLGdeDz9DCgHFbH5qwc)
 For those who need prayer, please join the above group. We are praying for intentions daily and the Lord has been blessing people.

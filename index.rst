@@ -15,7 +15,7 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   README.md
+   redme.md
    Intro.md
    prayer.md
    AthanassianCreed.md
@@ -34,7 +34,7 @@ documentation for details.
    December2023.md
    Conclusion.md
 
-.. include:: README.md
+.. include:: redme.md
    :parser: myst_parser.sphinx_
 
 .. include:: Intro.md
