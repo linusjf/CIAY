@@ -2,7 +2,7 @@
 
 - [CIAY](#ciay)
 - [Intro](#intro)
-- [Prayer](#prayer)
+- [Prayer](#prayers)
 - [Athanassian Creed](#athanassian-creed)
 - [Paras 1 - 25](#citations)
 - [January](#january)
@@ -88,15 +88,11 @@ Please use this format:
 [Intercession group](https://chat.whatsapp.com/HLiWLGdeDz9DCgHFbH5qwc)
 For those who need prayer, please join the above group. We are praying for intentions daily and the Lord has been blessing people.
 
-## Prayer
+## Prayers
 
-<!-- vim-markdown-toc GFM -->
-
-* [Prayer requests](#prayer-requests)
-* [How can we pray for you?](#how-can-we-pray-for-you)
-* [Intercession Group](#intercession-group-1)
-
-<!-- vim-markdown-toc -->
+- [Prayer requests](#prayer-requests)
+- [How can we pray for you?](#how-can-we-pray-for-you)
+- [Intercession Group](#intercession-group-1)
 
 ### Prayer requests
 
@@ -2341,37 +2337,37 @@ CIAY November 2023
 <!-- toc -->
 
 - [December 2023](#december-2023)
-  * [December 01,2023](#december-012023)
-  * [December 02,2023](#december-022023)
-  * [December 03,2023](#december-032023)
-  * [December 04,2023](#december-042023)
-  * [December 05,2023](#december-052023)
-  * [December 06,2023](#december-062023)
-  * [December 07,2023](#december-072023)
-  * [December 08,2023](#december-082023)
-  * [December 09,2023](#december-092023)
-  * [December 10,2023](#december-102023)
-  * [December 11,2023](#december-112023)
-  * [December 12,2023](#december-122023)
-  * [December 13,2023](#december-132023)
-  * [December 14,2023](#december-142023)
-  * [December 15,2023](#december-152023)
-  * [December 16,2023](#december-162023)
-  * [December 17,2023](#december-172023)
-  * [December 18,2023](#december-182023)
-  * [December 19,2023](#december-192023)
-  * [December 20,2023](#december-202023)
-  * [December 21,2023](#december-212023)
-  * [December 22,2023](#december-222023)
-  * [December 23,2023](#december-232023)
-  * [December 24,2023](#december-242023)
-  * [December 25,2023](#december-252023)
-  * [December 26,2023](#december-262023)
-  * [December 27,2023](#december-272023)
-  * [December 28,2023](#december-282023)
-  * [December 29,2023](#december-292023)
-  * [December 30,2023](#december-302023)
-  * [December 31,2023](#december-312023)
+  - [December 01,2023](#december-012023)
+  - [December 02,2023](#december-022023)
+  - [December 03,2023](#december-032023)
+  - [December 04,2023](#december-042023)
+  - [December 05,2023](#december-052023)
+  - [December 06,2023](#december-062023)
+  - [December 07,2023](#december-072023)
+  - [December 08,2023](#december-082023)
+  - [December 09,2023](#december-092023)
+  - [December 10,2023](#december-102023)
+  - [December 11,2023](#december-112023)
+  - [December 12,2023](#december-122023)
+  - [December 13,2023](#december-132023)
+  - [December 14,2023](#december-142023)
+  - [December 15,2023](#december-152023)
+  - [December 16,2023](#december-162023)
+  - [December 17,2023](#december-172023)
+  - [December 18,2023](#december-182023)
+  - [December 19,2023](#december-192023)
+  - [December 20,2023](#december-202023)
+  - [December 21,2023](#december-212023)
+  - [December 22,2023](#december-222023)
+  - [December 23,2023](#december-232023)
+  - [December 24,2023](#december-242023)
+  - [December 25,2023](#december-252023)
+  - [December 26,2023](#december-262023)
+  - [December 27,2023](#december-272023)
+  - [December 28,2023](#december-282023)
+  - [December 29,2023](#december-292023)
+  - [December 30,2023](#december-302023)
+  - [December 31,2023](#december-312023)
 
 <!-- tocstop -->
 
