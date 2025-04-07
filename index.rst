@@ -12,23 +12,34 @@ documentation for details.
 
 
 .. toctree::
-   :glob:
    :maxdepth: 2
    :caption: Contents:
 
-    January/*.md
-    February/*.md
-    March/*.md
-    April/*.md
-    May/*.md
-    June/*.md
-    July/*.md
-    August/*.md
-    September/*.md
-    October/*.md
-    November/*.md
-    December/*.md
-
 .. include:: README.md
    :parser: myst_parser.sphinx_
+.. include:: January2023.md
+   :parser: myst_parser.sphinx_
+.. include:: February2023.md
+   :parser: myst_parser.sphinx_
+.. include:: March2023.md
+   :parser: myst_parser.sphinx_
+.. include:: April2023.md
+   :parser: myst_parser.sphinx_
+.. include:: May2023.md
+   :parser: myst_parser.sphinx_
+.. include:: June2023.md
+   :parser: myst_parser.sphinx_
+.. include:: July2023.md
+   :parser: myst_parser.sphinx_
+.. include:: August2023.md
+   :parser: myst_parser.sphinx_
+.. include:: September2023.md
+   :parser: myst_parser.sphinx_
+.. include:: October2023.md
+   :parser: myst_parser.sphinx_
+.. include:: November2023.md
+   :parser: myst_parser.sphinx_
+.. include:: December2023.md
+   :parser: myst_parser.sphinx_
+
 
