@@ -18,7 +18,7 @@ extensions = ["myst_parser","TocExtension"]
 templates_path = ['_templates']
 exclude_patterns = ["stitch.md","January/*.md","February/*.md", "March/*.md", "April/*.md", "May/*.md", "June/*.md", "July/*.md", "August/*.md", "September/*.md", "October/*.md"\
                     , "November/*.md", "December/*.md"]
-
+myst_heading_anchors = 2
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -28,4 +28,3 @@ html_static_path = ['_static']
 html_theme_options = {
     'globaltoc_depth': 2,
 }
-myst_heading_anchors = 10
