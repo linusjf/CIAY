@@ -1,7 +1,5 @@
 <!-- toc -->
 
-.. class::hidden
-
 - [December 2023](#december-2023)
   - [December 01,2023](#december-012023)
   - [December 02,2023](#december-022023)
