@@ -41,15 +41,11 @@ The HTML version is available at [<https://ciay.readthedocs.io/en/latest/](https
 
 ## Intro
 
-<!-- vim-markdown-toc GFM -->
-
 - [CIAY 2023 Members](#ciay-2023-members)
-  - [Videos](#videos)
-  - [Guidelines For Sharing](#guidelines-for-sharing)
-  - [Day Reflection](#day-reflection)
-  - [Intercession group](#intercession-group)
-
-<!-- vim-markdown-toc -->
+  1. [Videos](#videos)
+  2. [Guidelines For Sharing](#guidelines-for-sharing)
+  3. [Day Reflection](#day-reflection)
+  4. [Intercession group](#intercession-group)
 
 ### CIAY 2023 Members
 

@@ -1,14 +1,12 @@
-<!-- vim-markdown-toc GFM -->
+# Intro
 
 - [CIAY 2023 Members](#ciay-2023-members)
-  - [Videos](#videos)
-  - [Guidelines For Sharing](#guidelines-for-sharing)
-  - [Day Reflection](#day-reflection)
-  - [Intercession group](#intercession-group)
+  1. [Videos](#videos)
+  2. [Guidelines For Sharing](#guidelines-for-sharing)
+  3. [Day Reflection](#day-reflection)
+  4. [Intercession group](#intercession-group)
 
-<!-- vim-markdown-toc -->
-
-# CIAY 2023 Members
+## CIAY 2023 Members
 
 1. The countdown is ON - its less than 24 hours to CIAY 2023. Yeah!! So excited. :)
 
@@ -21,7 +19,7 @@ Please contact me directly for any suggestions or questions.
 
 ---
 
-## Videos
+### Videos
 
 [![Why Scripture and Tradition?](https://raw.githubusercontent.com/linusjf/CIAY/main/preparingjourney.jpg)](https://youtu.be/xHxAU3FqQQ8 "Why Scripture and Tradition?")
 
@@ -29,7 +27,7 @@ Please contact me directly for any suggestions or questions.
 
 ---
 
-## Guidelines For Sharing
+### Guidelines For Sharing
 
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
@@ -38,13 +36,13 @@ Send the reflection to the Admin, I will randomly pick a few reflections to shar
 
 Please use this format:
 
-## Day Reflection
+### Day Reflection
 
 - John Smith (Your Name)
 
 \#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#
 
-## Intercession group
+### Intercession group
 
 [Intercession group](https://chat.whatsapp.com/HLiWLGdeDz9DCgHFbH5qwc)
 For those who need prayer, please join the above group. We are praying for intentions daily and the Lord has been blessing people.
