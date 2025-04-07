@@ -43,15 +43,16 @@ The HTML version is available at [<https://ciay.readthedocs.io/en/latest/](https
 
 <!-- vim-markdown-toc GFM -->
 
-+ [CIAY 2023 Members](#ciay-2023-members)
-  * [Videos](#videos)
-  * [Guidelines For Sharing](#guidelines-for-sharing)
-  * [Reflection content](#reflection-content)
-  * [Intercession group](#intercession-group)
+- [CIAY 2023 Members](#ciay-2023-members)
+  - [Videos](#videos)
+  - [Guidelines For Sharing](#guidelines-for-sharing)
+  - [Day Reflection](#day-reflection)
+  - [Intercession group](#intercession-group)
 
 <!-- vim-markdown-toc -->
 
 ### CIAY 2023 Members
+
 1. The countdown is ON - its less than 24 hours to CIAY 2023. Yeah!! So excited. :)
 
 2. In order to prepare for this journey - please watch the below videos and print out the reading plan if you like to, it helps to track progress.
@@ -80,8 +81,7 @@ Send the reflection to the Admin, I will randomly pick a few reflections to shar
 
 Please use this format:
 
-#### CIAY Day \#
-Reflection content
+#### Day Reflection
 
 - John Smith (Your Name)
 
