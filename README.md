@@ -5,18 +5,18 @@
 - [Prayer](#prayer)
 - [Athanassian Creed](#athanassian-creed)
 - [Paras 1 - 25](#citations)
-- [January 2023](#january-2023-1)
-- [February 2023](#february-2023-1)
-- [March 2023](#march-2023-1)
-- [April 2023](#april-2023-1)
-- [May 2023](#may-2023-1)
-- [June 2023](#june-2023-1)
-- [July 2023](#july-2023-1)
-- [August 2023](#august-2023-1)
-- [September 2023](#september-2023-1)
-- [October 2023](#october-2023-1)
-- [November 2023](#november-2023-1)
-- [December 2023](#december-2023-1)
+- [January](#january)
+- [February](#february)
+- [March](#march)
+- [April](#april)
+- [May](#may)
+- [June](#june)
+- [July](#july)
+- [August](#august)
+- [September](#september)
+- [October](#october)
+- [November](#november)
+- [December](#december)
 - [Conclusion](#conclusion)
 
 ## CIAY
@@ -380,7 +380,7 @@ Like newborn infants, long for the pure spiritual milk, that by it you may grow 
     1 Cor 13:8
     Love never ends; as for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.
 
-## January 2023
+## January
 
 <!-- toc -->
 
@@ -608,7 +608,7 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 
 [![CIY Recap Day 1 - 31 Jan](https://img.youtube.com/vi/DLI5zIFq288/maxresdefault.jpg)](https://www.youtube.com/watch?v=DLI5zIFq288 "CIY Recap Day 1 - 31 Jan")
 
-## February 2023
+## February
 
 <!-- toc -->
 
@@ -805,7 +805,7 @@ CIAY February 2023
 [![Summary of The Fall](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day059.jpg)](https://youtu.be/mFk_rhYOa-k "Summary of The Fall")
 ![Day 59 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day59Snippet.jpg)
 
-## March 2023
+## March
 
 <!-- toc -->
 
@@ -1024,7 +1024,7 @@ CIAY March 2023
 
 [![Christ Descended into Hell](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day090.jpg)](https://youtu.be/ltP2OYAMjig "Christ Descended into Hell")
 
-## April 2023
+## April
 
 <!-- toc -->
 
@@ -1186,7 +1186,7 @@ CIAY April 2023
 
 [![The Apostolic Church](https://raw.githubusercontent.com/linusjf/CIAY/main/April/jpgs/Day120.jpg)](https://youtu.be/9mQlDJMdmP4 "The Apostolic Church")
 
-## May 2023
+## May
 
 <!-- toc -->
 
@@ -1353,7 +1353,7 @@ CIAY May 2023
 
 [![The Seven Sacraments](https://raw.githubusercontent.com/linusjf/CIAY/main/May/jpgs/Day151.jpg)](https://youtu.be/34pSVZxRW8M "The Seven Sacraments")
 
-## June 2023
+## June
 
 <!-- toc -->
 
@@ -1515,7 +1515,7 @@ CIAY June 2023
 
 [![The Sacrament of the Eucharist](https://raw.githubusercontent.com/linusjf/CIAY/main/June/jpgs/Day181.jpg)](https://youtu.be/xXoaD6HWLN8 "The Sacrament of the Eucharist")
 
-## July 2023
+## July
 
 <!-- toc -->
 
@@ -1682,7 +1682,7 @@ CIAY July 2023
 
 [![In Persona Christi](https://raw.githubusercontent.com/linusjf/CIAY/main/July/jpgs/Day212.jpg)](https://youtu.be/5R7iw4BWavw "In Persona Christi")
 
-## August 2023
+## August
 
 <!-- toc -->
 
@@ -1849,7 +1849,7 @@ CIAY August 2023
 
 [![The Virtue of Hope](https://raw.githubusercontent.com/linusjf/CIAY/main/August/jpgs/Day243.jpg)](https://youtu.be/lVEe_SHZbzA "The Virtue of Hope")
 
-## September 2023
+## September
 
 <!-- toc -->
 
@@ -2011,7 +2011,7 @@ CIAY September 2023
 
 [![Him Only Shall You Serve](https://raw.githubusercontent.com/linusjf/CIAY/main/September/jpgs/Day273.jpg)](https://youtu.be/vVlsuFalM3I "Him Only Shall You Serve")
 
-## October 2023
+## October
 
 <!-- toc -->
 
@@ -2178,7 +2178,7 @@ CIAY October 2023
 
 [![Male and Female](https://raw.githubusercontent.com/linusjf/CIAY/main/October/jpgs/Day304.jpg)](https://youtu.be/BFlceECtkxw "Male and Female")
 
-## November 2023
+## November
 
 <!-- toc -->
 
@@ -2340,7 +2340,7 @@ CIAY November 2023
 
 [![How Jesus Prayed](https://raw.githubusercontent.com/linusjf/CIAY/main/November/jpgs/Day334.jpg)](https://youtu.be/RBRQyZ-WPSw "How Jesus Prayed")
 
-## December 2023
+## December
 
 <!-- toc -->
 
