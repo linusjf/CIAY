@@ -26,3 +26,6 @@ exclude_patterns = ["stitch.md","January/*.md","February/*.md", "March/*.md", "A
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+html_theme_options = {
+    'globaltoc_depth': 2,
+}
