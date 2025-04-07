@@ -12,9 +12,23 @@ documentation for details.
 
 
 .. toctree::
+   :glob:
    :maxdepth: 2
    :caption: Contents:
 
-.. include:: README.md,January2023.md
+    January/*.md
+    February/*.md
+    March/*.md
+    April/*.md
+    May/*.md
+    June/*.md
+    July/*.md
+    August/*.md
+    September/*.md
+    October/*.md
+    November/*.md
+    December/*.md
+
+.. include:: README.md
    :parser: myst_parser.sphinx_
 
