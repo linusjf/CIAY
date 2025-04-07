@@ -1,3 +1,5 @@
+# Athanassian Creed
+
 Whoever desires to be saved should above all hold to the catholic faith.
 
 Anyone who does not keep it whole and unbroken will doubtless perish eternally.
