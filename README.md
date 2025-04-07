@@ -2,12 +2,9 @@
 
 [![Hits-of-Code](https://hitsofcode.com/github/linusjf/CIAY?branch=main)](https://hitsofcode.com/github/linusjf/CIAY/view?branch=main)
 
-<!-- vim-markdown-toc GFM -->
-
 - [Catechism In A Year](#catechism-in-a-year)
 - [Reading Plan](#reading-plan)
-
-<!-- vim-markdown-toc -->
+- [HTML Version Online](#html-version-online)
 
 ## Catechism In A Year
 
@@ -20,5 +17,3 @@
 ## HTML Version Online
 
 The HTML version is available at [<https://ciay.readthedocs.io/en/latest/](https://ciay.readthedocs.io/en/latest/)
-
-<!-- vim-markdown-toc -->
