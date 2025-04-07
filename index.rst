@@ -16,6 +16,7 @@ documentation for details.
    :caption: Contents:
 
    README.md
+   AthanassianCreed.md
    January2023.md
    February2023.md
    March2023.md
@@ -30,6 +31,9 @@ documentation for details.
    December2023.md
 
 .. include:: README.md
+   :parser: myst_parser.sphinx_
+
+.. include:: AthanassianCreed.md
    :parser: myst_parser.sphinx_
 
 .. include:: January2023.md
@@ -67,5 +71,3 @@ documentation for details.
 
 .. include:: December2023.md
    :parser: myst_parser.sphinx_
-
-
