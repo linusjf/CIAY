@@ -6,11 +6,6 @@
 CIAY documentation
 ==================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -33,57 +28,3 @@ documentation for details.
    November2023.md
    December2023.md
    Conclusion.md
-
-.. include:: redme.md
-   :parser: myst_parser.sphinx_
-
-.. include:: Intro.md
-   :parser: myst_parser.sphinx_
-
-.. include:: prayer.md
-   :parser: myst_parser.sphinx_
-
-.. include:: AthanassianCreed.md
-   :parser: myst_parser.sphinx_
-
-.. include:: paras1-25.md
-   :parser: myst_parser.sphinx_
-
-.. include:: January2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: February2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: March2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: April2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: May2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: June2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: July2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: August2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: September2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: October2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: November2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: December2023.md
-   :parser: myst_parser.sphinx_
-
-.. include:: Conclusion.md
-   :parser: myst_parser.sphinx_
