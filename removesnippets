@@ -42,9 +42,6 @@ fi
 
 echo "GitHub Username: $GITHUB_USERNAME"
 
-# Prompt the user for the year
-read -r -p "Enter the year (YYYY): " target_year
-
 # Define possible suffixes (empty string for no suffix)
 suffixes=("" "1" "2" "3" "4" "5" "6" "7" "8" "9")
 
@@ -61,10 +58,10 @@ if [ -d "$month" ]; then
       found_and_deleted=false
 
       # First, check for the snippet without any suffix
-      snippet_no_suffix=$(echo "$base_snippet_no_suffix" |
-        sed "s/PLACEHOLDER_MONTH/$month/g" |
-        sed "s/PLACEHOLDER_DAY/$day_number/g" |
-        sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g")
+      snippet_no_suffix=$(echo "$base_snippet_no_suffix" \
+        | sed "s/PLACEHOLDER_MONTH/$month/g" \
+        | sed "s/PLACEHOLDER_DAY/$day_number/g" \
+        | sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g")
 
       if grep -E "$snippet_no_suffix" "$file" > /dev/null; then
         echo "Found snippet ${snippet_no_suffix} in: $file (Day: $day_number, Month: $month)"
@@ -81,11 +78,11 @@ if [ -d "$month" ]; then
         for suffix in "${suffixes[@]}"; do
           if [ -n "$suffix" ]; then # Only check suffixes if they are not empty (already checked empty case)
             # Construct the specific snippet with the current suffix
-            snippet_with_suffix=$(echo "$base_snippet_with_suffix" |
-              sed "s/PLACEHOLDER_MONTH/$month/g" |
-              sed "s/PLACEHOLDER_DAY/$day_number/g" |
-              sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g" |
-              sed "s/PLACEHOLDER_SUFFIX/$suffix/g")
+            snippet_with_suffix=$(echo "$base_snippet_with_suffix" \
+              | sed "s/PLACEHOLDER_MONTH/$month/g" \
+              | sed "s/PLACEHOLDER_DAY/$day_number/g" \
+              | sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g" \
+              | sed "s/PLACEHOLDER_SUFFIX/$suffix/g")
 
             # Check if the snippet exists in the file
             if grep -E "$snippet_with_suffix" "$file" > /dev/null; then
