@@ -97,8 +97,6 @@ if [ -d "$month" ]; then
               mv "$temp_file" "$file"
               echo "Snippet ${snippet_with_suffix} removed from: $file"
               found_and_deleted=true
-              # Once found and deleted, no need to check other suffixes for this file
-              break
             fi
           fi
         done
