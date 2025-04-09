@@ -377,38 +377,43 @@ Like newborn infants, long for the pure spiritual milk, that by it you may grow 
 <!-- toc -->
 
 - [January 2023](#january-2023)
-  - [January 1,2023](#january-12023)
-  - [January 2,2023](#january-22023)
-  - [January 3,2023](#january-32023)
-  - [January 4,2023](#january-42023)
-  - [January 5,2023](#january-52023)
-  - [January 6,2023](#january-62023)
-  - [January 7,2023](#january-72023)
-  - [January 8,2023](#january-82023)
-  - [January 9,2023](#january-92023)
-  - [January 10,2023](#january-102023)
-  - [January 11,2023](#january-112023)
-  - [January 12,2023](#january-122023)
-  - [January 13,2023](#january-132023)
-  - [January 14,2023](#january-142023)
-  - [January 15,2023](#january-152023)
-  - [January 16,2023](#january-162023)
-  - [January 17,2023](#january-172023)
-  - [January 18,2023](#january-182023)
-  - [January 19,2023](#january-192023)
-  - [January 20,2023](#january-202023)
-  - [January 21,2023](#january-212023)
-  - [January 22,2023](#january-222023)
-  - [January 23,2023](#january-232023)
-  - [January 24,2023](#january-242023)
-  - [January 25,2023](#january-252023)
-  - [January 26,2023](#january-262023)
-  - [January 27,2023](#january-272023)
-  - [January 28,2023](#january-282023)
-  - [January 29,2023](#january-292023)
-  - [January 30,2023](#january-302023)
-  - [January 31,2023](#january-312023)
-  - [Recap Jan 1 \- 31,2023](#recap-jan-1---312023)
+  * [January 1,2023](#january-12023)
+  * [January 2,2023](#january-22023)
+  * [January 3,2023](#january-32023)
+  * [January 4,2023](#january-42023)
+  * [January 5,2023](#january-52023)
+  * [January 6,2023](#january-62023)
+  * [January 7,2023](#january-72023)
+  * [January 8,2023](#january-82023)
+  * [January 9,2023](#january-92023)
+  * [January 10,2023](#january-102023)
+  * [January 11,2023](#january-112023)
+  * [January 12,2023](#january-122023)
+    + [CIAY Day 12](#ciay-day-12)
+    + [Covenant Structure](#covenant-structure)
+  * [January 13,2023](#january-132023)
+  * [January 14,2023](#january-142023)
+  * [January 15,2023](#january-152023)
+  * [January 16,2023](#january-162023)
+  * [January 17,2023](#january-172023)
+  * [January 18,2023](#january-182023)
+  * [January 19,2023](#january-192023)
+  * [January 20,2023](#january-202023)
+  * [January 21,2023](#january-212023)
+  * [January 22,2023](#january-222023)
+  * [January 23,2023](#january-232023)
+  * [January 24,2023](#january-242023)
+  * [January 25,2023](#january-252023)
+  * [January 26,2023](#january-262023)
+    + [CIAY DAY 26](#ciay-day-26)
+  * [January 27,2023](#january-272023)
+    + [Athanassian Creed 1](#athanassian-creed-1)
+    + [Athanassian Creed 2](#athanassian-creed-2)
+  * [January 28,2023](#january-282023)
+  * [January 29,2023](#january-292023)
+  * [January 30,2023](#january-302023)
+  * [January 31,2023](#january-312023)
+  * [Recap Jan 1 \- 31,2023](#recap-jan-1---312023)
 
 <!-- tocstop -->
 
@@ -480,13 +485,16 @@ CIAY January 2023
 
 [![Receiving Dogmas](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day012.jpg)](https://youtu.be/7YeNZPlVhfQ "Receiving Dogmas")
 
-CIAY Day # 12
+##### CIAY Day 12
 
 The dogmas of faith are a gift from God. They transform our lives and help us to live a virtuous life.
 Dogmas give us boundaries. They help us to dive deeply into God's mysteries.
 God has revealed himself through his Son Jesus Christ, so that we can know him, experience the depth of his love and submit to his will always.
 
+##### Covenant Structure
+
 ![Covenant Structure](https://github.com/linusjf/CIAY/blob/main/CovenantStructure.jpg?raw=true)
+
 ![Day 12 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day12Snippet.jpg)
 
 #### January 13,2023
@@ -564,15 +572,25 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 #### January 26,2023
 
 [![Communion of Believers](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day026.jpg)](https://youtu.be/ypR-GlqM0nc "Communion of Believers")
-CIAY DAY 26.
+
+##### CIAY DAY 26
+
 Today we learn on the Profession of the Christian Faith. A true language of faith, speaks of Divine Persons and of Great Importance for everyone to have a right standing with God. Resembles GOD Our Father, SON JESUS CHRIST through the HOLY SPIRIT which came to being at the beginning of time. An Identity of God Our Father, Son Jesus Christ and His Breath The Holy Spirit.
+
 ![Day 26 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day26Snippet.jpg)
 
 #### January 27,2023
 
 [![The Gift of the Creed](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day027.jpg)](https://youtu.be/y9FnljV4bKg "The Gift of the Creed")
+
+##### Athanassian Creed 1
+
 ![The Athanasian Creed 1](https://github.com/linusjf/CIAY/blob/main/January/jpgs/AthanasianCreed1.jpg?raw=true)
+
+##### Athanassian Creed 2
+
 ![The Athanasian Creed 2](https://github.com/linusjf/CIAY/blob/main/January/jpgs/AthanasianCreed2.jpg?raw=true)
+
 ![Day 27 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day27Snippet.jpg)
 
 #### January 28,2023
@@ -605,34 +623,35 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 <!-- toc -->
 
 - [February 2023](#february-2023)
-  - [February 1,2023](#february-12023)
-  - [February 2,2023](#february-22023)
-  - [February 3,2023](#february-32023)
-  - [February 4,2023](#february-42023)
-  - [February 5,2023](#february-52023)
-  - [February 6,2023](#february-62023)
-  - [February 7,2023](#february-72023)
-  - [February 8,2023](#february-82023)
-  - [February 9,2023](#february-92023)
-  - [February 10,2023](#february-102023)
-  - [February 11,2023](#february-112023)
-  - [February 12,2023](#february-122023)
-  - [February 13,2023](#february-132023)
-  - [February 14,2023](#february-142023)
-  - [February 15,2023](#february-152023)
-  - [February 16,2023](#february-162023)
-  - [February 17,2023](#february-172023)
-  - [February 18,2023](#february-182023)
-  - [February 19,2023](#february-192023)
-  - [February 20,2023](#february-202023)
-  - [February 21,2023](#february-212023)
-  - [February 22,2023](#february-222023)
-  - [February 23,2023](#february-232023)
-  - [February 24,2023](#february-242023)
-  - [February 25,2023](#february-252023)
-  - [February 26,2023](#february-262023)
-  - [February 27,2023](#february-272023)
-  - [February 28,2023](#february-282023)
+  * [February 1,2023](#february-12023)
+  * [February 2,2023](#february-22023)
+  * [February 3,2023](#february-32023)
+  * [February 4,2023](#february-42023)
+  * [February 5,2023](#february-52023)
+  * [February 6,2023](#february-62023)
+  * [February 7,2023](#february-72023)
+    + [Most Holy Trinity Mystery](#most-holy-trinity-mystery)
+  * [February 8,2023](#february-82023)
+  * [February 9,2023](#february-92023)
+  * [February 10,2023](#february-102023)
+  * [February 11,2023](#february-112023)
+  * [February 12,2023](#february-122023)
+  * [February 13,2023](#february-132023)
+  * [February 14,2023](#february-142023)
+  * [February 15,2023](#february-152023)
+  * [February 16,2023](#february-162023)
+  * [February 17,2023](#february-172023)
+  * [February 18,2023](#february-182023)
+  * [February 19,2023](#february-192023)
+  * [February 20,2023](#february-202023)
+  * [February 21,2023](#february-212023)
+  * [February 22,2023](#february-222023)
+  * [February 23,2023](#february-232023)
+  * [February 24,2023](#february-242023)
+  * [February 25,2023](#february-252023)
+  * [February 26,2023](#february-262023)
+  * [February 27,2023](#february-272023)
+  * [February 28,2023](#february-282023)
 
 <!-- tocstop -->
 
@@ -676,7 +695,11 @@ CIAY February 2023
 #### February 7,2023
 
 [![Summary of the Trinity](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day038.jpg)](https://youtu.be/U6etZyhOZZc "Summary of the Trinity")
+
+##### Most Holy Trinity Mystery
+
 ![Most Holy Trinity Mystery](https://github.com/linusjf/CIAY/blob/main/February/jpgs/HolyTrinityMystery.jpg?raw=true)
+
 ![Day 38 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day38Snippet.jpg)
 
 #### February 8,2023
@@ -802,37 +825,41 @@ CIAY February 2023
 <!-- toc -->
 
 - [March 2023](#march-2023)
-  - [March 01,2023](#march-012023)
-  - [March 02,2023](#march-022023)
-  - [March 03,2023](#march-032023)
-  - [March 04,2023](#march-042023)
-  - [March 05,2023](#march-052023)
-  - [March 06,2023](#march-062023)
-  - [March 07,2023](#march-072023)
-  - [March 08,2023](#march-082023)
-  - [March 09,2023](#march-092023)
-  - [March 10,2023](#march-102023)
-  - [March 11,2023](#march-112023)
-  - [March 12,2023](#march-122023)
-  - [March 13,2023](#march-132023)
-  - [March 14,2023](#march-142023)
-  - [March 15,2023](#march-152023)
-  - [March 16,2023](#march-162023)
-  - [March 17,2023](#march-172023)
-  - [March 18,2023](#march-182023)
-  - [March 19,2023](#march-192023)
-  - [March 20,2023](#march-202023)
-  - [March 21,2023](#march-212023)
-  - [March 22,2023](#march-222023)
-  - [March 23,2023](#march-232023)
-  - [March 24,2023](#march-242023)
-  - [March 25,2023](#march-252023)
-  - [March 26,2023](#march-262023)
-  - [March 27,2023](#march-272023)
-  - [March 28,2023](#march-282023)
-  - [March 29,2023](#march-292023)
-  - [March 30,2023](#march-302023)
-  - [March 31,2023](#march-312023)
+  * [March 01,2023](#march-012023)
+  * [March 02,2023](#march-022023)
+    + [God Saves](#god-saves)
+  * [March 03,2023](#march-032023)
+    + [The Anointed](#the-anointed)
+  * [March 04,2023](#march-042023)
+  * [March 05,2023](#march-052023)
+    + [Maranatha](#maranatha)
+    + [Kyrios Lord](#kyrios-lord)
+  * [March 06,2023](#march-062023)
+  * [March 07,2023](#march-072023)
+  * [March 08,2023](#march-082023)
+  * [March 09,2023](#march-092023)
+  * [March 10,2023](#march-102023)
+  * [March 11,2023](#march-112023)
+  * [March 12,2023](#march-122023)
+  * [March 13,2023](#march-132023)
+  * [March 14,2023](#march-142023)
+  * [March 15,2023](#march-152023)
+  * [March 16,2023](#march-162023)
+  * [March 17,2023](#march-172023)
+  * [March 18,2023](#march-182023)
+  * [March 19,2023](#march-192023)
+  * [March 20,2023](#march-202023)
+  * [March 21,2023](#march-212023)
+  * [March 22,2023](#march-222023)
+  * [March 23,2023](#march-232023)
+  * [March 24,2023](#march-242023)
+  * [March 25,2023](#march-252023)
+  * [March 26,2023](#march-262023)
+  * [March 27,2023](#march-272023)
+  * [March 28,2023](#march-282023)
+  * [March 29,2023](#march-292023)
+  * [March 30,2023](#march-302023)
+  * [March 31,2023](#march-312023)
 
 <!-- tocstop -->
 
@@ -849,14 +876,22 @@ CIAY March 2023
 #### March 02,2023
 
 [![The Name of Jesus](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day061.jpg)](https://youtu.be/v9VHcZU8Tdc "The Name of Jesus")
-![Day 61 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day61Snippet.jpg)
+
+##### God Saves
+
 ![God Saves ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/GodSaves.jpg)
+
+![Day 61 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day61Snippet.jpg)
 
 #### March 03,2023
 
 [![The Christ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day062.jpg)](https://youtu.be/YbPkMqw-B7U "The Christ")
-![Day 62 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day62Snippet.jpg)
+
+##### The Anointed
+
 ![The Anointed](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Anointed.jpg)
+
+![Day 62 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day62Snippet.jpg)
 
 #### March 04,2023
 
@@ -866,9 +901,16 @@ CIAY March 2023
 #### March 05,2023
 
 [![The Lord](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day064.jpg)](https://youtu.be/oGOS6SMTfkw "The Lord")
-![Day 64 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day64Snippet.jpg)
+
+##### Maranatha
+
 ![Maranatha ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Maranatha.jpg)
+
+##### Kyrios Lord
+
 ![Kyrios Lord ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/KyriosLord.jpg)
+
+![Day 64 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day64Snippet.jpg)
 
 #### March 06,2023
 
