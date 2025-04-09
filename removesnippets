@@ -17,6 +17,13 @@ fi
 month_names=("January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December")
 month=${month_names[$((month_num - 1))]}
 
+snippetfiles="$(./findsnippetfiles | grep "${month}")"
+
+if [[ -z "$snippetfiles" ]]; then
+  printf "%s" "No snippet files found"
+  exit 0
+fi
+
 # Attempt to get the remote URL for origin using SSH format
 remote_url=$(git remote get-url origin | grep '^git@')
 
@@ -28,19 +35,15 @@ fi
 # Extract just the repository name from the SSH URL (without username)
 GITHUB_REPO_NAME=$(echo "$remote_url" | sed -E 's/.*\/([^.]+)\.git$/\1/')
 
-echo "GitHub Repository Name: $GITHUB_REPO_NAME"
-
 # Define the base snippet with placeholders for month, day, username (will be extracted), repo name, and suffix
-base_snippet_no_suffix="^\!\[Day PLACEHOLDER_DAY Snippet \]\(https\:\/\/raw\.githubusercontent\.com\/PLACEHOLDER_USERNAME\/$GITHUB_REPO_NAME\/main\/PLACEHOLDER_MONTH\/jpgs\/DayPLACEHOLDER_DAYSnippet\.jpg\)$"
-base_snippet_with_suffix="^\!\[Day PLACEHOLDER_DAY Snippet PLACEHOLDER_SUFFIX\]\(https\:\/\/raw\.githubusercontent\.com\/PLACEHOLDER_USERNAME\/$GITHUB_REPO_NAME\/main\/PLACEHOLDER_MONTH\/jpgs\/DayPLACEHOLDER_DAYSnippetPLACEHOLDER_SUFFIX\.jpg\)$"
+base_snippet_no_suffix="^!\[Day PLACEHOLDER_DAY Snippet \]\(https://raw\.githubusercontent\.com/PLACEHOLDER_USERNAME/$GITHUB_REPO_NAME/main/PLACEHOLDER_MONTH/jpgs/DayPLACEHOLDER_DAYSnippet\.jpg\)$"
+base_snippet_with_suffix="^!\[Day PLACEHOLDER_DAY Snippet PLACEHOLDER_SUFFIX\]\(https://raw\.githubusercontent\.com/PLACEHOLDER_USERNAME/$GITHUB_REPO_NAME/main/PLACEHOLDER_MONTH/jpgs/DayPLACEHOLDER_DAYSnippetPLACEHOLDER_SUFFIX\.jpg\)$"
 
 # Require GitHub username from environment variable
 if [ -z "$GITHUB_USERNAME" ]; then
   echo "Error: GITHUB_USERNAME environment variable not set"
   exit 1
 fi
-
-echo "GitHub Username: $GITHUB_USERNAME"
 
 # Define possible suffixes (empty string for no suffix)
 suffixes=("" "1" "2" "3" "4" "5" "6" "7" "8" "9")
@@ -58,10 +61,10 @@ if [ -d "$month" ]; then
       found_and_deleted=false
 
       # First, check for the snippet without any suffix
-      snippet_no_suffix=$(echo "$base_snippet_no_suffix" \
-        | sed "s/PLACEHOLDER_MONTH/$month/g" \
-        | sed "s/PLACEHOLDER_DAY/$day_number/g" \
-        | sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g")
+      snippet_no_suffix=$(echo "$base_snippet_no_suffix" |
+        sed "s/PLACEHOLDER_MONTH/$month/g" |
+        sed "s/PLACEHOLDER_DAY/$day_number/g" |
+        sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g")
 
       if grep -E "$snippet_no_suffix" "$file" > /dev/null; then
         echo "Found snippet ${snippet_no_suffix} in: $file (Day: $day_number, Month: $month)"
@@ -78,11 +81,11 @@ if [ -d "$month" ]; then
         for suffix in "${suffixes[@]}"; do
           if [ -n "$suffix" ]; then # Only check suffixes if they are not empty (already checked empty case)
             # Construct the specific snippet with the current suffix
-            snippet_with_suffix=$(echo "$base_snippet_with_suffix" \
-              | sed "s/PLACEHOLDER_MONTH/$month/g" \
-              | sed "s/PLACEHOLDER_DAY/$day_number/g" \
-              | sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g" \
-              | sed "s/PLACEHOLDER_SUFFIX/$suffix/g")
+            snippet_with_suffix=$(echo "$base_snippet_with_suffix" |
+              sed "s/PLACEHOLDER_MONTH/$month/g" |
+              sed "s/PLACEHOLDER_DAY/$day_number/g" |
+              sed "s/PLACEHOLDER_USERNAME/$GITHUB_USERNAME/g" |
+              sed "s/PLACEHOLDER_SUFFIX/$suffix/g")
 
             # Check if the snippet exists in the file
             if grep -E "$snippet_with_suffix" "$file" > /dev/null; then
@@ -105,3 +108,11 @@ if [ -d "$month" ]; then
 fi
 
 echo "Scan and deletion process complete for $month."
+snippetfiles="$(./findsnippetfiles | grep "${month}")"
+if [[ -n "$snippetfiles" ]]; then
+  printf "%s\n" "Snippet files still found:"
+  printf "%s\n" "${snippetfiles}"
+  exit 1
+fi
+
+exit 0
