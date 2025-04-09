@@ -106,7 +106,7 @@ if [ -d "$month" ]; then
 fi
 
 echo "Scan and deletion process complete for $month."
-snippetfiles="$(./findsnippetfiles | grep "${month}")"
+snippetfiles="$(./findsnippetfiles | grep "${month}" || true)"
 if [[ -n "$snippetfiles" ]]; then
   printf "%s\n" "Snippet files still found:"
   printf "%s\n" "${snippetfiles}"
