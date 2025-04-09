@@ -92,6 +92,7 @@ main() {
         local header="### ${caption}"
         local md="![${caption}](${url})"
         {
+          echo ""
           echo "${header}"
           echo ""
           echo "${md}"
