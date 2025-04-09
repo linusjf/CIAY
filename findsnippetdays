@@ -34,7 +34,8 @@ if [ "$found_files" = true ]; then
   # Print the numbers in the set
   {
     for number in "${!numbers_set[@]}"; do
-      echo "$number"
+      printf "%s " "$number"
     done
-  } | sort -n
+  } | tr ' ' '\n' | sort -n | tr '\n' ' '
 fi
+echo
