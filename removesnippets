@@ -17,7 +17,7 @@ fi
 month_names=("January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December")
 month=${month_names[$((month_num - 1))]}
 
-snippetfiles="$(./findsnippetfiles | grep "${month}")"
+snippetfiles="$(./findsnippetfiles | grep "${month}" || true)"
 
 if [[ -z "$snippetfiles" ]]; then
   printf "%s" "No snippet files found"
