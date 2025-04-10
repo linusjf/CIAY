@@ -20,7 +20,7 @@ month=${month_names[$((month_num - 1))]}
 snippetfiles="$(./findsnippetfiles | grep "${month}" || true)"
 
 if [[ -z "$snippetfiles" ]]; then
-  printf "%s\n" "No snippet files found"
+  printf "%s\n" "No snippet files found for ${month}"
   exit 0
 fi
 
@@ -108,7 +108,7 @@ fi
 echo "Scan and deletion process complete for $month."
 snippetfiles="$(./findsnippetfiles | grep "${month}" || true)"
 if [[ -n "$snippetfiles" ]]; then
-  printf "%s\n" "Snippet files still found:"
+  printf "%s\n" "Snippet files still found for ${month}:"
   printf "%s\n" "${snippetfiles}"
   exit 1
 fi
