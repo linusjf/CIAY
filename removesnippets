@@ -20,7 +20,7 @@ month=${month_names[$((month_num - 1))]}
 snippetfiles="$(./findsnippetfiles | grep "${month}" || true)"
 
 if [[ -z "$snippetfiles" ]]; then
-  printf "%s" "No snippet files found"
+  printf "%s\n" "No snippet files found"
   exit 0
 fi
 
