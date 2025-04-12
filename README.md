@@ -376,47 +376,6 @@ Like newborn infants, long for the pure spiritual milk, that by it you may grow 
 
 <!-- toc -->
 
-- [January 2023](#january-2023)
-  * [January 1,2023](#january-12023)
-  * [January 2,2023](#january-22023)
-  * [January 3,2023](#january-32023)
-  * [January 4,2023](#january-42023)
-  * [January 5,2023](#january-52023)
-  * [January 6,2023](#january-62023)
-  * [January 7,2023](#january-72023)
-  * [January 8,2023](#january-82023)
-  * [January 9,2023](#january-92023)
-  * [January 10,2023](#january-102023)
-  * [January 11,2023](#january-112023)
-  * [January 12,2023](#january-122023)
-    + [CIAY Day 12](#ciay-day-12)
-    + [Covenant Structure](#covenant-structure)
-  * [January 13,2023](#january-132023)
-  * [January 14,2023](#january-142023)
-  * [January 15,2023](#january-152023)
-  * [January 16,2023](#january-162023)
-  * [January 17,2023](#january-172023)
-  * [January 18,2023](#january-182023)
-  * [January 19,2023](#january-192023)
-  * [January 20,2023](#january-202023)
-  * [January 21,2023](#january-212023)
-  * [January 22,2023](#january-222023)
-  * [January 23,2023](#january-232023)
-  * [January 24,2023](#january-242023)
-  * [January 25,2023](#january-252023)
-  * [January 26,2023](#january-262023)
-    + [CIAY DAY 26](#ciay-day-26)
-  * [January 27,2023](#january-272023)
-    + [Athanassian Creed 1](#athanassian-creed-1)
-    + [Athanassian Creed 2](#athanassian-creed-2)
-  * [January 28,2023](#january-282023)
-  * [January 29,2023](#january-292023)
-  * [January 30,2023](#january-302023)
-  * [January 31,2023](#january-312023)
-  * [Recap Jan 1 \- 31,2023](#recap-jan-1---312023)
-
-<!-- tocstop -->
-
 ### January 2023
 
 CIAY January 2023
@@ -424,62 +383,110 @@ CIAY January 2023
 #### January 1,2023
 
 [![To Know And To Love God](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day001.jpg)](https://www.youtube.com/watch?v=tI-pOSv7tvg "To Know And To Love God")
-![Day 1 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day1Snippet.jpg)
+
+##### Day 1 Snippet
+
+![Day 1 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day1Snippet.jpg)
 
 #### January 2,2023
 
 [![How The Cathecism Works](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day002.jpg)](https://youtu.be/lSyMNeL7Fz0 "How The Cathecism Works")
-![Day 2 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day2Snippet1.jpg)
-![Day 2 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day2Snippet2.jpg)
+
+##### Day 2 Snippet 1
+
+![Day 2 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day2Snippet1.jpg)
+
+##### Day 2 Snippet 2
+
+![Day 2 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day2Snippet2.jpg)
 
 #### January 3,2023
 
 [![What we believe - Part I](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day003.jpg)](https://www.youtube.com/watch?v=lChGowdD7ZQ "What we believe - Part I")
-![Day 3 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day3Snippet.jpg)
+
+##### Day 3 Snippet
+
+![Day 3 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day3Snippet.jpg)
 
 #### January 4,2023
 
 [![Our Capacity for God](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day004.jpg)](https://youtu.be/oRpDxjB9K9U "Our Capacity for God")
-![Day 4 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day4Snippet1.jpg)
-![Day 4 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day4Snippet2.jpg)
+
+##### Day 4 Snippet 1
+
+![Day 4 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day4Snippet1.jpg)
+
+##### Day 4 Snippet 2
+
+![Day 4 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day4Snippet2.jpg)
 
 #### January 5,2023
 
 [![How We Know God](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day005.jpg)](https://youtu.be/XscjbW08sHk "How We Know God")
-![Day 5 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day5Snippet1.jpg)
-![Day 5 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day5Snippet2.jpg)
+
+##### Day 5 Snippet 1
+
+![Day 5 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day5Snippet1.jpg)
+
+##### Day 5 Snippet 2
+
+![Day 5 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day5Snippet2.jpg)
 
 #### January 6,2023
 
 [![Knowing God With Certainty](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day006.jpg)](https://youtu.be/CxqVfrtdcNA "Knowing God With Certainty")
-![Day 6 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day6Snippet.jpg)
+
+##### Day 6 Snippet
+
+![Day 6 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day6Snippet.jpg)
 
 #### January 7,2023
 
 [![God Reveals Himself](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day007.jpg)](https://youtu.be/KAs6uQTUFNI "God Reveals Himself")
-![Day 7 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day7Snippet.jpg)
+
+##### Day 7 Snippet
+
+![Day 7 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day7Snippet.jpg)
 
 #### January 8,2023
 
 [![God forms his people](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day008.jpg)](https://youtu.be/m6f2J4Cr3Ps "God forms his people")
-![Day 8 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day8Snippet.jpg)
+
+##### Day 8 Snippet
+
+![Day 8 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day8Snippet.jpg)
 
 #### January 9,2023
 
 [![The Fullness of Revelation](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day009.jpg)](https://youtu.be/v14auCZgM90 "The Fullness of Revelation")
-![Day 9 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day9Snippet.jpg)
+
+##### Day 9 Snippet
+
+![Day 9 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day9Snippet.jpg)
 
 #### January 10,2023
 
 [![The Apostolic Tradition](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day010.jpg)](https://youtu.be/zkg_64i4uVY "The Apostolic Tradition")
-![Day 10 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day10Snippet1.jpg)
-![Day 10 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day10Snippet2.jpg)
+
+##### Day 10 Snippet 1
+
+![Day 10 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day10Snippet1.jpg)
+
+##### Day 10 Snippet 2
+
+![Day 10 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day10Snippet2.jpg)
 
 #### January 11,2023
 
 [![Sources of Divine Revelation](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day011.jpg)](https://youtu.be/g-3CYNZNkVc "Sources of Divine Revelation")
-![Day 11 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day11Snippet1.jpg)
-![Day 11 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day11Snippet2.jpg)
+
+##### Day 11 Snippet 1
+
+![Day 11 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day11Snippet1.jpg)
+
+##### Day 11 Snippet 2
+
+![Day 11 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day11Snippet2.jpg)
 
 #### January 12,2023
 
@@ -495,79 +502,141 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 
 ![Covenant Structure](https://github.com/linusjf/CIAY/blob/main/CovenantStructure.jpg?raw=true)
 
-![Day 12 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day12Snippet.jpg)
+##### Day 12 Snippet
+
+![Day 12 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day12Snippet.jpg)
 
 #### January 13,2023
 
 [![The Single Deposit of Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day013.jpg)](https://youtu.be/9FJCprViVq0 "The Single Deposit of Faith")
-![Day 13 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day13Snippet.jpg)
+
+##### Day 13 Snippet
+
+![Day 13 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day13Snippet.jpg)
 
 #### January 14,2023
 
 [![The Eternal Word of God](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day014.jpg)](https://youtu.be/RupRbJjkP6c "The Eternal Word of God")
-![Day 14 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day14Snippet.jpg)
-![Day 14 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day14Snippet2.jpg)
+
+##### Day 14 Snippet 1
+
+![Day 14 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day14Snippet1.jpg)
+
+##### Day 14 Snippet 2
+
+![Day 14 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day14Snippet2.jpg)
 
 #### January 15,2023
 
 [![Interpreting Scripture](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day015.jpg)](https://youtu.be/gS4ndVFUaWU "Interpreting Scripture")
-![Day 15 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day15Snippet.jpg)
+
+##### Day 15 Snippet
+
+![Day 15 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day15Snippet.jpg)
 
 #### January 16,2023
 
 [![Senses of Scripture](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day016.jpg)](https://youtu.be/KlEbSJZLXH0 "Senses of Scripture")
-![Day 16 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day16Snippet1.jpg)
-![Day 16 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day16Snippet2.jpg)
-![Day 16 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day16Snippet3.jpg)
+
+##### Day 16 Snippet 1
+
+![Day 16 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day16Snippet1.jpg)
+
+##### Day 16 Snippet 2
+
+![Day 16 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day16Snippet2.jpg)
+
+##### Day 16 Snippet 3
+
+![Day 16 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day16Snippet3.jpg)
 
 #### January 17,2023
 
 [![The Canon of Scripture](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day017.jpg)](https://youtu.be/MnACjqii5iw "The Canon of Scripture")
-![Day 17 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day17Snippet.jpg)
+
+##### Day 17 Snippet
+
+![Day 17 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day17Snippet.jpg)
 
 #### January 18,2023
 
 [![The Unity of the Testaments](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day018.jpg)](https://youtu.be/R00NkT22aa4 "The Unity of the Testaments")
-![Day 18 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day18Snippet.jpg)
+
+##### Day 18 Snippet
+
+![Day 18 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day18Snippet.jpg)
 
 #### January 19,2023
 
 [![Summary of Sacred Scripture](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day019.jpg)](https://youtu.be/f58uLVkEh7o "Summary of Sacred Scripture")
-![Day 19 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day19Snippet.jpg)
+
+##### Day 19 Snippet
+
+![Day 19 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day19Snippet.jpg)
 
 #### January 20,2023
 
 [![Stepping in Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day020.jpg)](https://youtu.be/CgQjVnOF5S4 "Stepping in Faith")
-![Day 20 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day20Snippet1.jpg)
-![Day 20 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day20Snippet2.jpg)
+
+##### Day 20 Snippet 1
+
+![Day 20 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day20Snippet1.jpg)
+
+##### Day 20 Snippet 2
+
+![Day 20 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day20Snippet2.jpg)
 
 #### January 21,2023
 
 [![Believing God](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day021.jpg)](https://youtu.be/Bj6Ytevkc14 "Believing God")
-![Day 21 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day21Snippet1.jpg)
-![Day 21 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day21Snippet2.jpg)
+
+##### Day 21 Snippet 1
+
+![Day 21 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day21Snippet1.jpg)
+
+##### Day 21 Snippet 2
+
+![Day 21 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day21Snippet2.jpg)
 
 #### January 22,2023
 
 [![Wrestling with Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day022.jpg)](https://youtu.be/y2QPS40_pi0 "Wrestling with Faith")
-![Day 22 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day22Snippet1.jpg)
-![Day 22 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day22Snippet2.jpg)
+
+##### Day 22 Snippet 1
+
+![Day 22 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day22Snippet1.jpg)
+
+##### Day 22 Snippet 2
+
+![Day 22 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day22Snippet2.jpg)
 
 #### January 23,2023
 
 [![We Believe](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day023.jpg)](https://youtu.be/kTXvbzTt1Jg "We Believe")
-![Day 23 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day23Snippet1.jpg)
-![Day 23 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day23Snippet2.jpg)
+
+##### Day 23 Snippet 1
+
+![Day 23 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day23Snippet1.jpg)
+
+##### Day 23 Snippet 2
+
+![Day 23 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day23Snippet2.jpg)
 
 #### January 24,2023
 
 [![Unity of Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day024.jpg)](https://youtu.be/AERMYgipDU8 "Unity of Faith")
-![Day 24 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day24Snippet.jpg)
+
+##### Day 24 Snippet
+
+![Day 24 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day24Snippet.jpg)
 
 #### January 25,2023
 
 [![Summary of Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day025.jpg)](https://youtu.be/OOmWHZ4J8Pw "Summary of Faith")
-![Day 25 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day25Snippet.jpg)
+
+##### Day 25 Snippet
+
+![Day 25 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day25Snippet.jpg)
 
 #### January 26,2023
 
@@ -577,7 +646,9 @@ God has revealed himself through his Son Jesus Christ, so that we can know him, 
 
 Today we learn on the Profession of the Christian Faith. A true language of faith, speaks of Divine Persons and of Great Importance for everyone to have a right standing with God. Resembles GOD Our Father, SON JESUS CHRIST through the HOLY SPIRIT which came to being at the beginning of time. An Identity of God Our Father, Son Jesus Christ and His Breath The Holy Spirit.
 
-![Day 26 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day26Snippet.jpg)
+##### Day 26 Snippet
+
+![Day 26 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day26Snippet.jpg)
 
 #### January 27,2023
 
@@ -591,28 +662,45 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 
 ![The Athanasian Creed 2](https://github.com/linusjf/CIAY/blob/main/January/jpgs/AthanasianCreed2.jpg?raw=true)
 
-![Day 27 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day27Snippet.jpg)
+##### Day 27 Snippet
+
+![Day 27 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day27Snippet.jpg)
 
 #### January 28,2023
 
 [![The Nature of God](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day028.jpg)](https://youtu.be/5dsCqDWE36g "The Nature of God")
-![Day 28 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day28Snippet.jpg)
+
+##### Day 28 Snippet
+
+![Day 28 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day28Snippet.jpg)
 
 #### January 29,2023
 
 [![Knowing the Name of God](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day029.jpg)](https://youtu.be/TBB6IMNXJlo "Knowing the Name of God")
-![Day 29 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day29Snippet1.jpg)
-![Day 29 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day29Snippet2.jpg)
+
+##### Day 29 Snippet 1
+
+![Day 29 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day29Snippet1.jpg)
+
+##### Day 29 Snippet 2
+
+![Day 29 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day29Snippet2.jpg)
 
 #### January 30,2023
 
 [![God is Who Is](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day030.jpg)](https://youtu.be/JhGFGvPnJqA "God is Who Is")
-![Day 30 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day30Snippet.jpg)
+
+##### Day 30 Snippet
+
+![Day 30 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day30Snippet.jpg)
 
 #### January 31,2023
 
 [![The Meaning of Faith](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day031.jpg)](https://youtu.be/ky3TDjcGGGs "The Meaning of Faith")
-![Day 31 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/January/jpgs/Day31Snippet.jpg)
+
+##### Day 31 Snippet
+
+![Day 31 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/January/jpgs/Day31Snippet.jpg)
 
 #### Recap Jan 1 \- 31,2023
 
@@ -622,39 +710,6 @@ Today we learn on the Profession of the Christian Faith. A true language of fait
 
 <!-- toc -->
 
-- [February 2023](#february-2023)
-  * [February 1,2023](#february-12023)
-  * [February 2,2023](#february-22023)
-  * [February 3,2023](#february-32023)
-  * [February 4,2023](#february-42023)
-  * [February 5,2023](#february-52023)
-  * [February 6,2023](#february-62023)
-  * [February 7,2023](#february-72023)
-    + [Most Holy Trinity Mystery](#most-holy-trinity-mystery)
-  * [February 8,2023](#february-82023)
-  * [February 9,2023](#february-92023)
-  * [February 10,2023](#february-102023)
-  * [February 11,2023](#february-112023)
-  * [February 12,2023](#february-122023)
-  * [February 13,2023](#february-132023)
-  * [February 14,2023](#february-142023)
-  * [February 15,2023](#february-152023)
-  * [February 16,2023](#february-162023)
-  * [February 17,2023](#february-172023)
-  * [February 18,2023](#february-182023)
-  * [February 19,2023](#february-192023)
-  * [February 20,2023](#february-202023)
-  * [February 21,2023](#february-212023)
-  * [February 22,2023](#february-222023)
-  * [February 23,2023](#february-232023)
-  * [February 24,2023](#february-242023)
-  * [February 25,2023](#february-252023)
-  * [February 26,2023](#february-262023)
-  * [February 27,2023](#february-272023)
-  * [February 28,2023](#february-282023)
-
-<!-- tocstop -->
-
 ### February 2023
 
 CIAY February 2023
@@ -662,35 +717,62 @@ CIAY February 2023
 #### February 1,2023
 
 [![The Most Holy Trinity](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day032.jpg)](https://youtu.be/dd0QXMRz0yE "The Most Holy Trinity")
-![Day 32 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day32Snippet.jpg)
+
+##### Day 32 Snippet
+
+![Day 32 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day32Snippet.jpg)
 
 #### February 2,2023
 
 [![God as Father](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day033.jpg)](https://youtu.be/OTszf9eOiHY "God as Father")
-![Day 33 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day33Snippet1.jpg)
-![Day 33 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day33Snippet2.jpg)
+
+##### Day 33 Snippet 1
+
+![Day 33 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day33Snippet1.jpg)
+
+##### Day 33 Snippet 2
+
+![Day 33 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day33Snippet2.jpg)
 
 #### February 3,2023
 
 [![Unity in the Holy Spirit](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day034.jpg)](https://youtu.be/JpWe10yGaLs "Unity in the Holy Spirit")
-![Day 34 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day34Snippet1.jpg)
-![Day 34 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day34Snippet2.jpg)
+
+##### Day 34 Snippet 1
+
+![Day 34 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day34Snippet1.jpg)
+
+##### Day 34 Snippet 2
+
+![Day 34 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day34Snippet2.jpg)
 
 #### February 4,2023
 
 [![Formation of Trinitarian Dogma](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day035.jpg)](https://youtu.be/xFB_76gATvc "Formation of Trinitarian Dogma")
-![Day 35 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day35Snippet.jpg)
+
+##### Day 35 Snippet
+
+![Day 35 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day35Snippet.jpg)
 
 #### February 5,2023
 
 [![The Nature of the Trinity](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day036.jpg)](https://youtu.be/BPR1mWKLkig "The Nature of the Trinity")
-![Day 36 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day36Snippet.jpg)
+
+##### Day 36 Snippet
+
+![Day 36 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day36Snippet.jpg)
 
 #### February 6,2023
 
 [![The Divine Economy](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day037.jpg)](https://youtu.be/jxJnG2dekSc "The Divine Economy")
-![Day 37 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day37Snippet1.jpg)
-![Day 37 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day37Snippet2.jpg)
+
+##### Day 37 Snippet 1
+
+![Day 37 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day37Snippet1.jpg)
+
+##### Day 37 Snippet 2
+
+![Day 37 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day37Snippet2.jpg)
 
 #### February 7,2023
 
@@ -700,168 +782,233 @@ CIAY February 2023
 
 ![Most Holy Trinity Mystery](https://github.com/linusjf/CIAY/blob/main/February/jpgs/HolyTrinityMystery.jpg?raw=true)
 
-![Day 38 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day38Snippet.jpg)
+##### Day 38 Snippet
+
+![Day 38 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day38Snippet.jpg)
 
 #### February 8,2023
 
 [![The Father Almighty](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day039.jpg)](https://youtu.be/n6MMrpNdEd4 "The Father Almighty")
-![Day 39 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day39Snippet.jpg)
+
+##### Day 39 Snippet
+
+![Day 39 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day39Snippet.jpg)
 
 #### February 9,2023
 
 [![God is the Creator](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day040.jpg)](https://youtu.be/yC98tBMZNT0 "God is the Creator")
-![Day 40 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day40Snippet.jpg)
+
+##### Day 40 Snippet
+
+![Day 40 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day40Snippet.jpg)
 
 #### February 10,2023
 
 [![Origins and Ends](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day041.jpg)](https://youtu.be/JSnQzyy5I1g "Origins and Ends")
-![Day 41 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day41Snippet1.jpg)
-![Day 41 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day41Snippet2.jpg)
+
+##### Day 41 Snippet 1
+
+![Day 41 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day41Snippet1.jpg)
+
+##### Day 41 Snippet 2
+
+![Day 41 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day41Snippet2.jpg)
 
 #### February 11,2023
 
 [![The Work of Creation](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day042.jpg)](https://youtu.be/9MZ7LQkw23A "The Work of Creation")
-![Day 42 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day42Snippet1.jpg)
-![Day 42 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day42Snippet2.jpg)
+
+##### Day 42 Snippet 1
+
+![Day 42 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day42Snippet1.jpg)
+
+##### Day 42 Snippet 2
+
+![Day 42 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day42Snippet2.jpg)
 
 #### February 12,2023
 
 [![Creation is Good](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day043.jpg)](https://youtu.be/SovrS4XWQS8 "Creation is Good")
-![Day 43 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day43Snippet1.jpg)
-![Day 43 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day43Snippet2.jpg)
+
+##### Day 43 Snippet 1
+
+![Day 43 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day43Snippet1.jpg)
+
+##### Day 43 Snippet 2
+
+![Day 43 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day43Snippet2.jpg)
 
 #### February 13,2023
 
 [![The Scandal of Evil](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day044.jpg)](https://youtu.be/Ha3Hsi15CQs "The Scandal of Evil")
-![Day 44 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day44Snippet1.jpg)
-![Day 44 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day44Snippet2.jpg)
+
+##### Day 44 Snippet 1
+
+![Day 44 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day44Snippet1.jpg)
+
+##### Day 44 Snippet 2
+
+![Day 44 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day44Snippet2.jpg)
 
 #### February 14,2023
 
 [![Summary of Creation](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day045.jpg)](https://youtu.be/fhmTjb25K-U "Summary of Creation")
-![Day 45 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day45Snippet1.jpg)
-![Day 45 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day45Snippet2.jpg)
+
+##### Day 45 Snippet 1
+
+![Day 45 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day45Snippet1.jpg)
+
+##### Day 45 Snippet 2
+
+![Day 45 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day45Snippet2.jpg)
 
 #### February 15,2023
 
 [![Heaven and Earth](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day046.jpg)](https://youtu.be/-i09ICCOSuo "Heaven and Earth")
-![Day 46 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day46Snippet.jpg)
+
+##### Day 46 Snippet
+
+![Day 46 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day46Snippet.jpg)
 
 #### February 16,2023
 
 [![The Angels](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day047.jpg)](https://youtu.be/pFzMpNowGuY "The Angels")
-![Day 47 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day47Snippet1.jpg)
-![Day 47 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day47Snippet2.jpg)
+
+##### Day 47 Snippet 1
+
+![Day 47 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day47Snippet1.jpg)
+
+##### Day 47 Snippet 2
+
+![Day 47 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day47Snippet2.jpg)
 
 #### February 17,2023
 
 [![Creation in Order](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day048.jpg)](https://youtu.be/TlDQZvujYa8 "Creation in Order")
-![Day 48 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day48Snippet.jpg)
+
+##### Day 48 Snippet
+
+![Day 48 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day48Snippet.jpg)
 
 #### February 18,2023
 
 [![We are Created For Worship](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day049.jpg)](https://youtu.be/0f7EQ1CYMyk "We are Created For Worship")
-![Day 49 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day49Snippet.jpg)
+
+##### Day 49 Snippet
+
+![Day 49 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day49Snippet.jpg)
 
 #### February 19,2023
 
 [![The Dignity of Man](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day050.jpg)](https://youtu.be/n-4HHoEk-1Y "The Dignity of Man")
-![Day 50 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day50Snippet1.jpg)
-![Day 50 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day50Snippet2.jpg)
+
+##### Day 50 Snippet 1
+
+![Day 50 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day50Snippet1.jpg)
+
+##### Day 50 Snippet 2
+
+![Day 50 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day50Snippet2.jpg)
 
 #### February 20,2023
 
 [![Unity of Soul and Body](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day051.jpg)](https://youtu.be/eHpnUQQ_iho "Unity of Soul and Body")
-![Day 51 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day51Snippet1.jpg)
-![Day 51 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day51Snippet2.jpg)
+
+##### Day 51 Snippet 1
+
+![Day 51 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day51Snippet1.jpg)
+
+##### Day 51 Snippet 2
+
+![Day 51 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day51Snippet2.jpg)
 
 #### February 21,2023
 
 [![Male and Female](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day052.jpg)](https://youtu.be/Z88ScI7-Cvk "Male and Female")
-![Day 52 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day52Snippet.jpg)
+
+##### Day 52 Snippet
+
+![Day 52 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day52Snippet.jpg)
 
 #### February 22,2023
 
 [![Man in Paradise](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day053.jpg)](https://youtu.be/Wc0WVznL-g0 "Man in Paradise")
-![Day 53 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day53Snippet.jpg)
+
+##### Day 53 Snippet
+
+![Day 53 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day53Snippet.jpg)
 
 #### February 23,2023
 
 [![The Fall of Man](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day054.jpg)](https://youtu.be/QTLB7I8HpTQ "The Fall of Man")
-![Day 54 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day54Snippet1.jpg)
-![Day 54 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day54Snippet2.jpg)
+
+##### Day 54 Snippet 1
+
+![Day 54 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day54Snippet1.jpg)
+
+##### Day 54 Snippet 2
+
+![Day 54 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day54Snippet2.jpg)
 
 #### February 24,2023
 
 [![The Fall of the Angels](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day055.jpg)](https://youtu.be/QiJL024zpmc "The Fall of the Angels")
-![Day 55 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day55Snippet1.jpg)
-![Day 55 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day55Snippet2.jpg)
+
+##### Day 55 Snippet 1
+
+![Day 55 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day55Snippet1.jpg)
+
+##### Day 55 Snippet 2
+
+![Day 55 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day55Snippet2.jpg)
 
 #### February 25,2023
 
 [![Man's First Sin](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day056.jpg)](https://youtu.be/Berbij6n1Sk "Man's First Sin")
-![Day 56 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day56Snippet1.jpg)
-![Day 56 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day56Snippet2.jpg)
+
+##### Day 56 Snippet 1
+
+![Day 56 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day56Snippet1.jpg)
+
+##### Day 56 Snippet 2
+
+![Day 56 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day56Snippet2.jpg)
 
 #### February 26,2023
 
 [![Consequences of Adam's Sin](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day057.jpg)](https://youtu.be/OFgeo4SZ5Iw "Consequences of Adam's Sin")
-![Day 57 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day57Snippet1.jpg)
-![Day 57 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day57Snippet2.jpg)
+
+##### Day 57 Snippet 1
+
+![Day 57 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day57Snippet1.jpg)
+
+##### Day 57 Snippet 2
+
+![Day 57 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day57Snippet2.jpg)
 
 #### February 27,2023
 
 [![Man's Spiritual Battle](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day058.jpg)](https://youtu.be/5O48kn2gosM "Man's Spiritual Battle")
-![Day 58 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day58Snippet1.jpg)
-![Day 58 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day58Snippet2.jpg)
+
+##### Day 58 Snippet 1
+
+![Day 58 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day58Snippet1.jpg)
+
+##### Day 58 Snippet 2
+
+![Day 58 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day58Snippet2.jpg)
 
 #### February 28,2023
 
 [![Summary of The Fall](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day059.jpg)](https://youtu.be/mFk_rhYOa-k "Summary of The Fall")
-![Day 59 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/February/jpgs/Day59Snippet.jpg)
+
+##### Day 59 Snippet
+
+![Day 59 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/February/jpgs/Day59Snippet.jpg)
 
 ## March
 
 <!-- toc -->
-
-- [March 2023](#march-2023)
-  * [March 01,2023](#march-012023)
-  * [March 02,2023](#march-022023)
-    + [God Saves](#god-saves)
-  * [March 03,2023](#march-032023)
-    + [The Anointed](#the-anointed)
-  * [March 04,2023](#march-042023)
-  * [March 05,2023](#march-052023)
-    + [Maranatha](#maranatha)
-    + [Kyrios Lord](#kyrios-lord)
-  * [March 06,2023](#march-062023)
-  * [March 07,2023](#march-072023)
-  * [March 08,2023](#march-082023)
-  * [March 09,2023](#march-092023)
-  * [March 10,2023](#march-102023)
-  * [March 11,2023](#march-112023)
-  * [March 12,2023](#march-122023)
-  * [March 13,2023](#march-132023)
-  * [March 14,2023](#march-142023)
-  * [March 15,2023](#march-152023)
-  * [March 16,2023](#march-162023)
-  * [March 17,2023](#march-172023)
-  * [March 18,2023](#march-182023)
-  * [March 19,2023](#march-192023)
-  * [March 20,2023](#march-202023)
-  * [March 21,2023](#march-212023)
-  * [March 22,2023](#march-222023)
-  * [March 23,2023](#march-232023)
-  * [March 24,2023](#march-242023)
-  * [March 25,2023](#march-252023)
-  * [March 26,2023](#march-262023)
-  * [March 27,2023](#march-272023)
-  * [March 28,2023](#march-282023)
-  * [March 29,2023](#march-292023)
-  * [March 30,2023](#march-302023)
-  * [March 31,2023](#march-312023)
-
-<!-- tocstop -->
 
 ### March 2023
 
@@ -870,8 +1017,14 @@ CIAY March 2023
 #### March 01,2023
 
 [![God Sends His Only Son](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day060.jpg)](https://youtu.be/B3-fr7SrRxc "God Sends His Only Son")
-![Day 60 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day60Snippet1.jpg)
-![Day 60 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day60Snippet2.jpg)
+
+##### Day 60 Snippet 1
+
+![Day 60 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day60Snippet1.jpg)
+
+##### Day 60 Snippet 2
+
+![Day 60 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day60Snippet2.jpg)
 
 #### March 02,2023
 
@@ -881,7 +1034,9 @@ CIAY March 2023
 
 ![God Saves ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/GodSaves.jpg)
 
-![Day 61 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day61Snippet.jpg)
+##### Day 61 Snippet
+
+![Day 61 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day61Snippet.jpg)
 
 #### March 03,2023
 
@@ -891,12 +1046,17 @@ CIAY March 2023
 
 ![The Anointed](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Anointed.jpg)
 
-![Day 62 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day62Snippet.jpg)
+##### Day 62 Snippet
+
+![Day 62 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day62Snippet.jpg)
 
 #### March 04,2023
 
 [![The Only Son of God](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day063.jpg)](https://youtu.be/SkLgye3z2a0 "The Only Son of God")
-![Day 63 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day63Snippet.jpg)
+
+##### Day 63 Snippet
+
+![Day 63 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day63Snippet.jpg)
 
 #### March 05,2023
 
@@ -910,93 +1070,221 @@ CIAY March 2023
 
 ![Kyrios Lord ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/KyriosLord.jpg)
 
-![Day 64 Snippet ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day64Snippet.jpg)
+##### Day 64 Snippet
+
+![Day 64 Snippet](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day64Snippet.jpg)
 
 #### March 06,2023
 
 [![Why the Word Became Flesh](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day065.jpg)](https://youtu.be/3vRxlDNcbNs "Why the Word Became Flesh")
-![Day 65 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day65Snippet1.jpg)
-![Day 65 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day65Snippet2.jpg)
-![Day 65 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day65Snippet3.jpg)
+
+##### Day 65 Snippet 1
+
+![Day 65 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day65Snippet1.jpg)
+
+##### Day 65 Snippet 2
+
+![Day 65 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day65Snippet2.jpg)
+
+##### Day 65 Snippet 3
+
+![Day 65 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day65Snippet3.jpg)
 
 #### March 07,2023
 
 [![True God and True Man](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day066.jpg)](https://youtu.be/Uj6gHzqE7QU "True God and True Man")
-![Day 66 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day66Snippet1.jpg)
-![Day 66 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day66Snippet2.jpg)
+
+##### Day 66 Snippet 1
+
+![Day 66 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day66Snippet1.jpg)
+
+##### Day 66 Snippet 2
+
+![Day 66 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day66Snippet2.jpg)
 
 #### March 08,2023
 
 [![The Humanity and Divinity of Christ](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day067.jpg)](https://youtu.be/IzcC4Gj3pqc "The Humanity and Divinity of Christ")
-![Day 67 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day67Snippet1.jpg)
-![Day 67 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day67Snippet2.jpg)
-![Day 67 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day67Snippet3.jpg)
+
+##### Day 67 Snippet 1
+
+![Day 67 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day67Snippet1.jpg)
+
+##### Day 67 Snippet 2
+
+![Day 67 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day67Snippet2.jpg)
+
+##### Day 67 Snippet 3
+
+![Day 67 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day67Snippet3.jpg)
 
 #### March 09,2023
 
 [![The Mystery of the Incarnation](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day068.jpg)](https://youtu.be/pyrYuU4VeuY "The Mystery of the Incarnation")
-![Day 68 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day68Snippet1.jpg)
-![Day 68 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day68Snippet2.jpg)
-![Day 68 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day68Snippet3.jpg)
-![Day 68 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day68Snippet4.jpg)
+
+##### Day 68 Snippet 1
+
+![Day 68 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day68Snippet1.jpg)
+
+##### Day 68 Snippet 2
+
+![Day 68 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day68Snippet2.jpg)
+
+##### Day 68 Snippet 3
+
+![Day 68 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day68Snippet3.jpg)
+
+##### Day 68 Snippet 4
+
+![Day 68 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day68Snippet4.jpg)
 
 #### March 10,2023
 
 [![Born of the Virgin Mary](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day069.jpg)](https://youtu.be/-GrcgodsUNM "Born of the Virgin Mary")
-![Day 69 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day69Snippet1.jpg)
-![Day 69 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day69Snippet2.jpg)
-![Day 69 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day69Snippet3.jpg)
+
+##### Day 69 Snippet 1
+
+![Day 69 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day69Snippet1.jpg)
+
+##### Day 69 Snippet 2
+
+![Day 69 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day69Snippet2.jpg)
+
+##### Day 69 Snippet 3
+
+![Day 69 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day69Snippet3.jpg)
 
 #### March 11,2023
 
 [![The Immaculate Conception](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day070.jpg)](https://youtu.be/oU-SgH76K9s "The Immaculate Conception")
-![Day 70 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day70Snippet1.jpg)
-![Day 70 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day70Snippet2.jpg)
-![Day 70 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day70Snippet3.jpg)
+
+##### Day 70 Snippet 1
+
+![Day 70 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day70Snippet1.jpg)
+
+##### Day 70 Snippet 2
+
+![Day 70 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day70Snippet2.jpg)
+
+##### Day 70 Snippet 3
+
+![Day 70 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day70Snippet3.jpg)
 
 #### March 12,2023
 
 [![Mary's Virginity](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day071.jpg)](https://youtu.be/wdnxUyX1nqs "Mary's Virginity")
-![Day 71 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day71Snippet1.jpg)
-![Day 71 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day71Snippet2.jpg)
-![Day 71 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day71Snippet3.jpg)
-![Day 71 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day71Snippet4.jpg)
+
+##### Day 71 Snippet 1
+
+![Day 71 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day71Snippet1.jpg)
+
+##### Day 71 Snippet 2
+
+![Day 71 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day71Snippet2.jpg)
+
+##### Day 71 Snippet 3
+
+![Day 71 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day71Snippet3.jpg)
+
+##### Day 71 Snippet 4
+
+![Day 71 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day71Snippet4.jpg)
 
 #### March 13,2023
 
 [![Mary's Motherhood](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day072.jpg)](https://youtu.be/0YTjkF3oCbQ "Mary's Motherhood")
-![Day 72 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day72Snippet1.jpg)
-![Day 72 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day72Snippet2.jpg)
-![Day 72 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day72Snippet3.jpg)
-![Day 72 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day72Snippet4.jpg)
+
+##### Day 72 Snippet 1
+
+![Day 72 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day72Snippet1.jpg)
+
+##### Day 72 Snippet 2
+
+![Day 72 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day72Snippet2.jpg)
+
+##### Day 72 Snippet 3
+
+![Day 72 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day72Snippet3.jpg)
+
+##### Day 72 Snippet 4
+
+![Day 72 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day72Snippet4.jpg)
 
 #### March 14,2023
 
 [![Christ's Life is Mystery](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day073.jpg)](https://youtu.be/7mHQi3rGwCg "Christ's Life is Mystery")
-![Day 73 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day73Snippet1.jpg)
-![Day 73 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day73Snippet2.jpg)
-![Day 73 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day73Snippet3.jpg)
-![Day 73 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day73Snippet4.jpg)
-![Day 73 Snippet 5](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day73Snippet5.jpg)
-![Day 73 Snippet 6](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day73Snippet6.jpg)
+
+##### Day 73 Snippet 1
+
+![Day 73 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day73Snippet1.jpg)
+
+##### Day 73 Snippet 2
+
+![Day 73 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day73Snippet2.jpg)
+
+##### Day 73 Snippet 3
+
+![Day 73 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day73Snippet3.jpg)
+
+##### Day 73 Snippet 4
+
+![Day 73 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day73Snippet4.jpg)
+
+##### Day 73 Snippet 5
+
+![Day 73 Snippet 5](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day73Snippet5.jpg)
+
+##### Day 73 Snippet 6
+
+![Day 73 Snippet 6](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day73Snippet6.jpg)
 
 #### March 15,2023
 
 [![The Christmas Mystery](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day074.jpg)](https://youtu.be/B9A9PyVMAlw "The Christmas Mystery")
-![Day 74 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day74Snippet1.jpg)
-![Day 74 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day74Snippet2.jpg)
-![Day 74 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day74Snippet3.jpg)
-![Day 74 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day74Snippet4.jpg)
-![Day 74 Snippet 5](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day74Snippet5.jpg)
+
+##### Day 74 Snippet 1
+
+![Day 74 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day74Snippet1.jpg)
+
+##### Day 74 Snippet 2
+
+![Day 74 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day74Snippet2.jpg)
+
+##### Day 74 Snippet 3
+
+![Day 74 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day74Snippet3.jpg)
+
+##### Day 74 Snippet 4
+
+![Day 74 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day74Snippet4.jpg)
+
+##### Day 74 Snippet 5
+
+![Day 74 Snippet 5](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day74Snippet5.jpg)
 
 #### March 16,2023
 
 [![Jesus' Infancy and Hidden Life](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day075.jpg)](https://youtu.be/A3pyAWR-dNc "Jesus' Infancy and Hidden Life")
-![Day 75 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet1.jpg)
-![Day 75 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet2.jpg)
-![Day 75 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet3.jpg)
-![Day 75 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet4.jpg)
-![Day 75 Snippet 5](https://raw.githubusercontent.com/linusjf/CIAY/main/March/jpgs/Day75Snippet5.jpg)
+
+##### Day 75 Snippet 1
+
+![Day 75 Snippet 1](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day75Snippet1.jpg)
+
+##### Day 75 Snippet 2
+
+![Day 75 Snippet 2](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day75Snippet2.jpg)
+
+##### Day 75 Snippet 3
+
+![Day 75 Snippet 3](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day75Snippet3.jpg)
+
+##### Day 75 Snippet 4
+
+![Day 75 Snippet 4](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day75Snippet4.jpg)
+
+##### Day 75 Snippet 5
+
+![Day 75 Snippet 5](https://raw.githubusercontent.com/linusjf/CIAY/refs/heads/main/March/jpgs/Day75Snippet5.jpg)
 
 #### March 17,2023
 
