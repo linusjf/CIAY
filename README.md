@@ -2838,4 +2838,6 @@ While getting all of the episodes done is great, even if you did not complete al
 
 If you like a customized certificate of completion you can get it at the below Link.
 
+<!-- linkcheck: ignore, 403 Forbidden -->
+
 [CIAY Certificate](https://ascensionpress.com/pages/ciy-certificate)
