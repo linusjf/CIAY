@@ -48,6 +48,7 @@ linkcheck_timeout = 5  # seconds
 linkcheck_ignore = [
     r'http://localhost:\d+/',  # Ignore local dev servers
     r'https://example\.com/redirect',  # Ignore known redirect
+  r'https://ascensionpress.com/pages/ciy-certificate'
 ]
 linkcheck_ignore_redirects = True
 linkcheck_request_headers = {
