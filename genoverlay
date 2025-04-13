@@ -1,31 +1,145 @@
 #!/usr/bin/env bash
-require() {
-  hash "$@" || exit
-}
-require curl realpath mkdir
+# Generate overlay images for YouTube videos by:
+# 1. Downloading thumbnails
+# 2. Applying overlay effects
+# 3. Saving to appropriate directories
+
+set -euo pipefail
+shopt -s inherit_errexit
+
+readonly VERSION="1.0.0"
+readonly SUCCESS=0
+readonly FAILURE=1
+
+######################################################################
+# Functions
+######################################################################
+
+# Print usage information
+# Globals: none
+# Arguments: none
+# Outputs: usage information to STDOUT
+# Returns: exits with status SUCCESS
 usage() {
-  echo "$0 vid doy"
-  echo "vid - video id"
-  echo "doy - day of year (numeric)"
-  exit 1
+  cat << EOF
+Usage: ${0##*/} [-d|--debug] [-v|--version] vid doy
+
+Generate overlay image for YouTube video thumbnail.
+
+Options:
+  -d, --debug      Enable debug output
+  -v, --version    Show version information
+Arguments:
+  vid              YouTube video ID (11 characters)
+  doy              Day of year (1-366)
+EOF
+  exit "${SUCCESS}"
 }
-if test $# -ne 2; then
-  usage
-fi
-#shellcheck disable=SC1091
-source ./vidmd.sh
-if ! isnumeric "$2"; then
-  usage
-fi
-if imgurl="$(thumbnailurl "$1")"; then
-  month="$(mfromdoy "$2")"
-  doy="$(printf "%03d" "${2#0}")"
+
+# Print version information
+# Globals: VERSION
+# Arguments: none
+# Outputs: version string to STDOUT
+# Returns: none
+version() {
+  printf "%s\n" "$VERSION"
+}
+
+# Main function
+# Globals: SCRIPT_DIR
+# Arguments: vid doy
+# Outputs: status messages to STDOUT/STDERR
+# Returns: SUCCESS on success, FAILURE on failure
+main() {
+  if [[ $# -ne 2 ]]; then
+    usage
+  fi
+
+  local vid="$1"
+  local doy="$2"
+  local month doy_padded dir relfile imgurl
+
+  require_commands curl realpath mkdir
+
+  if [[ ! -f "${SCRIPT_DIR}/vidmd.sh" ]]; then
+    echo "Error: ${SCRIPT_DIR}/vidmd.sh not found" >&2
+    return "${FAILURE}"
+  fi
+
+  source "${SCRIPT_DIR}/vidmd.sh"
+
+  if ! isnumeric "${doy}"; then
+    usage
+  fi
+
+  if ! imgurl="$(thumbnailurl "${vid}")"; then
+    echo "Error: Failed to retrieve thumbnail URL for video ID: ${vid}" >&2
+    return "${FAILURE}"
+  fi
+
+  month="$(mfromdoy "${doy#0}")"
+  doy_padded="$(printf "%03d" "${doy#0}")"
   dir="${month}/jpgs"
-  mkdir -p "$dir"
-  relfile="${dir}/Day${doy}.jpg"
-  relfile="$(realpath "$relfile")"
-  curl --silent "$imgurl" --output "$relfile" --
-  ./overlayicon "$relfile"
-else
-  exit 1
+  relfile="${dir}/Day${doy_padded}.jpg"
+
+  if ! mkdir -p "${dir}"; then
+    echo "Error: Failed to create directory ${dir}" >&2
+    return "${FAILURE}"
+  fi
+
+  if ! relfile="$(realpath "${relfile}")"; then
+    echo "Error: Failed to resolve realpath for ${relfile}" >&2
+    return "${FAILURE}"
+  fi
+
+  if ! curl --silent "${imgurl}" --output "${relfile}"; then
+    echo "Error: Failed to download thumbnail from ${imgurl}" >&2
+    return "${FAILURE}"
+  fi
+
+  if [[ ! -x "${SCRIPT_DIR}/overlayicon" ]]; then
+    echo "Error: overlayicon script is missing or not executable" >&2
+    return "${FAILURE}"
+  fi
+
+  "${SCRIPT_DIR}/overlayicon" "${relfile}"
+  return "${SUCCESS}"
+}
+
+######################################################################
+# Main script execution
+######################################################################
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+  # Resolve script directory
+  if command -v realpath > /dev/null 2>&1; then
+    SCRIPT_DIR=$(dirname "$(realpath "$0")")
+  else
+    SCRIPT_DIR=$(cd -- "$(dirname -- "$0")" && pwd -P)
+  fi
+
+  # Source required libraries
+  source "${SCRIPT_DIR}/require.sh"
+
+  # Check requirements
+  require_vars YOUTUBE_API_KEY
+
+  debug=false
+  while [[ $# -gt 0 ]]; do
+    case "$1" in
+      -d | --debug)
+        debug=true
+        shift
+        ;;
+      -v | --version)
+        version
+        exit 0
+        ;;
+      *) break ;;
+    esac
+  done
+
+  $debug && set -x
+
+  main "$@"
 fi

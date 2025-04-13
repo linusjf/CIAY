@@ -1,39 +1,101 @@
 #!/usr/bin/env bash
-require() {
-  hash "$@" || exit
-}
+# Compact multiple markdown files into a single output
+# Reads a list of files from compact.txt in the specified directory
+# and merges them using m4 preprocessing and awk filtering
+
+set -euo pipefail
+shopt -s inherit_errexit
+# shellcheck disable=SC2155
+readonly SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)"
+readonly COMPACT_FILE="compact.txt"
+
+# Display usage information
 usage() {
-  echo "Usage:"
-  echo "$0 [dir]"
-  echo "dir - directory in which list of files to compact exists"
-  echo "The program will look for a compact.txt file in the specified"
-  echo "directory. If it exists, it will read it and create a merged"
-  echo "representation of the listed files to stdout."
-  echo "If no directory is specified, the current directory is used."
+  cat << EOF
+Usage: ${0##*/} [-d|--debug] [dir]
+Compact multiple markdown files into a single output
+
+Options:
+  -d, --debug      Enable debug output
+Arguments:
+  dir              Directory containing compact.txt and files to merge (default: current dir)
+
+The program will:
+1. Look for ${COMPACT_FILE} in the specified directory
+2. Read the list of files from ${COMPACT_FILE}
+3. Merge them using m4 preprocessing
+4. Filter empty lines with awk
+5. Output the merged content to stdout
+EOF
   exit 1
 }
-isvalid() {
-  test -d "$1" && test -e "${1}/${compactfile}"
+
+# Check if directory contains a valid compact.txt file
+is_valid_dir() {
+  [[ -d "$1" && -e "${1}/${COMPACT_FILE}" ]]
 }
-require m4 mktemp awk rm
-thisdir="$(pwd)"
-declare -r compactfile="compact.txt"
-declare -r dir="${1:-$thisdir}"
-if isvalid "$dir"; then
+
+main() {
+  # shellcheck disable=SC2155
+  local this_dir="$(pwd)"
+  local target_dir="${1:-${this_dir}}"
+  local temp_file tmp_output
+
+  if ! is_valid_dir "${target_dir}"; then
+    usage
+  fi
+
+  # Source required libraries
+  source "${SCRIPT_DIR}/require.sh"
+  source "${SCRIPT_DIR}/vidmd.sh"
+
   (
-    cd "$dir" || exit
-    temp="$(mktemp)"
-    echo "changequote(\`{{', \`}}')" >"$temp"
-    while IFS= read -r fname; do
-      if test -e "$fname"; then
-        echo "include({{$fname}})" >>"$temp"
+    cd "${target_dir}" || exit 1
+
+    temp_file="$(mktemp -t compact.XXXXXX)"
+    echo "changequote(\`{{', \`}}')" > "${temp_file}"
+
+    # Read files list and generate m4 includes
+    local files=()
+    readarray -t files < "${COMPACT_FILE}"
+    for fname in "${files[@]}"; do
+      if [[ -e "${fname}" ]]; then
+        echo "include({{${fname}}})" >> "${temp_file}"
       fi
-    done <<<"$(<"$compactfile")"
-    tmp2="$(mktemp)"
-    m4 "$temp" >"$tmp2"
-    awk 'NF {p=1} p' <<<"$(<"$tmp2")"
-    rm -f "$tmp2" "$temp" &>/dev/null
+    done
+
+    # Process files through m4 and awk
+    tmp_output="$(mktemp -t compact.XXXXXX)"
+    if ! m4 "${temp_file}" > "${tmp_output}"; then
+      echo "Error: Failed to process files with m4" >&2
+      exit 1
+    fi
+
+    if ! awk 'NF {p=1} p' <<< "$(< "${tmp_output}")"; then
+      echo "Error: Failed to filter output with awk" >&2
+      exit 1
+    fi
+
+    # Clean up temp files
+    rm -f "${tmp_output}" "${temp_file}" &> /dev/null
   )
-else
-  usage
+}
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -d | --debug)
+      set -x
+      shift
+      ;;
+    *)
+      break
+      ;;
+  esac
+done
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+  # Check requirements
+  source "${SCRIPT_DIR}/require.sh"
+  require_commands m4 mktemp awk rm
+  main "$@"
 fi

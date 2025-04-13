@@ -1,10 +1,86 @@
 #!/usr/bin/env bash
-declare -r fname="videos.txt"
-declare -i count=0
-while IFS= read -r vid; do
-  ((count = count + 1))
-  if ! ./genoverlay "$vid" "$count"; then
-    exit 1
+######################################################################
+######################################################################
+
+set -euo pipefail
+shopt -s inherit_errexit
+
+readonly SUCCESS=0
+readonly FAILURE=1
+readonly FNAME="videos.txt"
+# shellcheck disable=SC2155
+readonly SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd)"
+
+######################################################################
+######################################################################
+usage() {
+  cat << EOF
+Usage: ${0##*/} [-d|--debug]
+Processes video IDs from ${FNAME} and generates overlays
+
+Options:
+  -d, --debug      Enable debug output
+EOF
+  exit "${SUCCESS}"
+}
+
+######################################################################
+######################################################################
+die() {
+  printf "Error: %s\n" "$1" >&2
+  exit "${FAILURE}"
+}
+
+######################################################################
+######################################################################
+require() {
+  for cmd in "$@"; do
+    if ! command -v "${cmd}" > /dev/null 2>&1; then
+      die "Required command '${cmd}' not found in PATH"
+    fi
+  done
+}
+
+######################################################################
+######################################################################
+main() {
+  # Ensure the input file exists
+  if [[ ! -f "${FNAME}" ]]; then
+    die "File '${FNAME}' not found"
   fi
-done <<<"$(<"$fname")"
-exit 0
+
+  # Ensure genoverlay is executable
+  if [[ ! -x "${SCRIPT_DIR}/genoverlay" ]]; then
+    die "'${SCRIPT_DIR}/genoverlay' script is missing or not executable"
+  fi
+
+  local count=0
+  local vid
+
+  # Process each line
+  while IFS= read -r vid; do
+    [[ -z "${vid}" ]] && continue # Skip empty lines
+    ((count++))
+    if ! "${SCRIPT_DIR}/genoverlay" "${vid}" "${count}"; then
+      die "${SCRIPT_DIR}/genoverlay failed for video ID '${vid}'"
+    fi
+  done < "${FNAME}"
+
+  exit "${SUCCESS}"
+}
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -d | --debug)
+      set -x
+      shift
+      ;;
+    *)
+      break
+      ;;
+  esac
+done
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+  main "$@"
+fi

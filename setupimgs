@@ -1,36 +1,177 @@
 #!/usr/bin/env bash
+######################################################################
+# Script to process and convert images in a directory
+# Moves downloaded images to jpgs directory and converts PNGs to JPGs
+######################################################################
+
+set -euo pipefail
+shopt -s inherit_errexit
+
+readonly SUCCESS=0
+readonly FAILURE=1
+
+######################################################################
+# Check if required commands are available
+# Globals: None
+# Arguments: command names
+# Outputs: Error message if command not found
+# Returns: None (exits on failure)
+######################################################################
 require() {
-  hash "$@" || exit
-}
-usage() {
-  echo "Usage:"
-  echo "$0 dir"
-  echo "dir - directory to process for images"
-  exit 1
-}
-isvalid() {
-  test -d "$1"
-}
-if test $# -eq 0; then
-  usage
-fi
-dir="$1"
-require gm rm mv
-if isvalid "$dir"; then
-  (
-    cd "$dir" || exit
-    if test -d "jpgs"; then
-      mv "${HOME}/storage/downloads/"Day*.jpg jpgs &>/dev/null
-      mv "${HOME}/storage/downloads/"Day*.png jpgs &>/dev/null
-      cd jpgs || exit
-      shopt -s nullglob
-      for file in ./*.png; do
-        gm convert "$file" "${file%.*}.jpg"
-        rm "$file"
-      done
-      shopt -u nullglob
+  for cmd in "$@"; do
+    if ! command -v "${cmd}" > /dev/null 2>&1; then
+      die "Required command '${cmd}' not found in PATH"
     fi
+  done
+}
+
+######################################################################
+# Print error message and exit
+# Globals: None
+# Arguments: error message
+# Outputs: Error message to STDERR
+# Returns: None (exits with FAILURE status)
+######################################################################
+die() {
+  printf "Error: %s\n" "$1" >&2
+  exit "${FAILURE}"
+}
+
+######################################################################
+# Display usage information
+# Globals: None
+# Arguments: None
+# Outputs: Usage message to STDOUT
+# Returns: None (exits with SUCCESS status)
+######################################################################
+usage() {
+  cat << EOF
+Usage: ${0##*/} [OPTIONS] dir
+
+Options:
+  -d, --debug    Enable debug output (set -x)
+
+Arguments:
+  dir - directory to process for images
+EOF
+  exit "${SUCCESS}"
+}
+
+######################################################################
+# Validate directory exists
+# Globals: None
+# Arguments: directory path
+# Outputs: None
+# Returns: 0 if valid, 1 otherwise
+######################################################################
+is_valid_dir() {
+  [[ -d "$1" ]]
+}
+
+######################################################################
+# Get downloads directory path based on system type
+# Globals: None
+# Arguments: None
+# Outputs: Downloads directory path
+# Returns: None (exits on failure)
+######################################################################
+get_downloads_dir() {
+  local downloads_dir=""
+
+  # Check for Termux (Android)
+  if [[ -d "/data/data/com.termux/files" ]]; then
+    downloads_dir="${HOME}/storage/downloads"
+  # Check for standard Linux
+  else
+    # Check common download directory locations
+    local possible_dirs=(
+      "${HOME}/Downloads"
+      "${HOME}/downloads"
+      "${HOME}/Download"
+      "/tmp/downloads"
+    )
+
+    for dir in "${possible_dirs[@]}"; do
+      if [[ -d "${dir}" ]]; then
+        downloads_dir="${dir}"
+        break
+      fi
+    done
+  fi
+
+  if [[ -z "${downloads_dir}" ]]; then
+    die "Could not find downloads directory in any standard location"
+  fi
+
+  echo "${downloads_dir}"
+}
+
+######################################################################
+# Main function
+# Globals: None
+# Arguments: directory path
+# Outputs: None
+# Returns: None (exits with appropriate status)
+######################################################################
+main() {
+  local debug_mode=0
+
+  # Parse options
+  while [[ $# -gt 0 ]]; do
+    case "$1" in
+      -d | --debug)
+        debug_mode=1
+        shift
+        ;;
+      -*)
+        usage
+        ;;
+      *)
+        break
+        ;;
+    esac
+  done
+
+  # Enable debug if requested
+  if ((debug_mode)); then
+    set -x
+  fi
+
+  if [[ $# -eq 0 ]]; then
+    usage
+  fi
+
+  local dir="$1"
+  local downloads_dir
+  downloads_dir="$(get_downloads_dir)"
+
+  require gm rm mv
+
+  if ! is_valid_dir "${dir}"; then
+    die "Invalid directory: ${dir}"
+  fi
+
+  (
+    cd "${dir}" || die "Failed to change to directory: ${dir}"
+
+    if [[ ! -d "jpgs" ]]; then
+      die "Directory 'jpgs' not found in ${dir}"
+    fi
+
+    mv "${downloads_dir}/"Day*.jpg jpgs &> /dev/null || true
+    mv "${downloads_dir}/"Day*.png jpgs &> /dev/null || true
+
+    cd jpgs || die "Failed to change to jpgs directory"
+
+    shopt -s nullglob
+    for file in ./*.png; do
+      gm convert "${file}" "${file%.*}.jpg" || die "Failed to convert ${file}"
+      rm "${file}" || die "Failed to remove ${file}"
+    done
+    shopt -u nullglob
   )
-else
-  usage
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+  main "$@"
 fi

@@ -1,6 +1,92 @@
 #!/usr/bin/env bash
-require() {
-  hash "$@" || exit
+
+# Generate README.md from stitch.md using stitchmd
+# Processes markdown file to create formatted README output
+
+set -euo pipefail
+shopt -s inherit_errexit
+
+readonly SCRIPT_NAME="${0##*/}"
+readonly SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" &> /dev/null && pwd -P)"
+
+# Source require.sh from same directory as script
+source "${SCRIPT_DIR}/require.sh"
+
+usage() {
+  cat << EOF
+Usage: ${SCRIPT_NAME} [OPTIONS]
+
+Options:
+  -d, --debug    Enable debug output (set -x)
+
+Generates README.md from stitch.md in current directory.
+
+Globals:
+  None
+
+Outputs:
+  README.md - Generated documentation file
+  Error messages to STDERR on failure
+
+Returns:
+  0 on success
+  1 on input file or dependency errors
+  2 on generation failure
+EOF
+  exit 1
 }
-require stitchmd
-stitchmd -o README.md -- stitch.md
+
+validate_input() {
+  if [[ ! -f "stitch.md" ]]; then
+    echo "Error: 'stitch.md' not found in current directory" >&2
+    return 1
+  fi
+  return 0
+}
+
+generate_readme() {
+  if ! stitchmd -o README.md -- stitch.md; then
+    echo "Error: Failed to generate README.md" >&2
+    return 2
+  fi
+  return 0
+}
+
+main() {
+  local debug_mode=0
+
+  # Parse options
+  while [[ $# -gt 0 ]]; do
+    case "$1" in
+      -d | --debug)
+        debug_mode=1
+        shift
+        ;;
+      -*)
+        usage
+        ;;
+      *)
+        break
+        ;;
+    esac
+  done
+
+  # Enable debug if requested
+  if ((debug_mode)); then
+    set -x
+  fi
+
+  require_commands stitchmd
+
+  if ! validate_input; then
+    exit 1
+  fi
+
+  if ! generate_readme; then
+    exit 2
+  fi
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+  main "$@"
+fi

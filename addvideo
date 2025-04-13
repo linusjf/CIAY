@@ -1,45 +1,254 @@
 #!/usr/bin/env bash
-require() {
-  hash "$@" || exit
-}
+# Add new videos to the system by:
+# 1. Generating markdown content
+# 2. Creating overlay images
+# 3. Updating index files
+# 4. Maintaining video lists
+
+set -euo pipefail
+shopt -s inherit_errexit
+
+readonly VERSION="1.0.0"
+readonly COMPACT_FILE="compact.txt"
+readonly VIDEOS_FILE="videos.txt"
+
+######################################################################
+# Functions
+######################################################################
+
+# Print usage information
+# Globals: none
+# Arguments: none
+# Outputs: usage information to STDOUT
+# Returns: exits with status 1
 usage() {
-  echo "$0 vid doy caption"
-  echo "vid - video id"
-  echo "doy - day of year"
-  echo "caption - video title"
+  cat << EOF
+Usage: ${0##*/} [-n|--dry-run] [-d|--debug] [-v|--version] vid caption
+
+Add a new video to the system by generating markdown and updating indexes.
+
+Options:
+  -n, --dry-run    Show what would happen without making changes
+  -d, --debug      Enable debug output
+  -v, --version    Show version information
+Arguments:
+  vid              YouTube video ID (11 characters)
+  caption          Video title/description (max 100 chars)
+EOF
   exit 1
 }
-require basename date markdown-toc
-if test $# -ne 3; then
-  usage
-fi
-#shellcheck disable=SC1091
-source ./vidmd.sh
-if ! isnumeric "$2"; then
-  usage
-fi
-vid="$1"
-doy="$2"
-videourl="https://youtu.be/${vid}"
-caption="$3"
-year="2023"
-if ./genoverlay "$vid" "$doy"; then
-  md="$(./genvidthmd "$vid" "$videourl" "$caption" "$doy")"
-  month="$(mfromdoy "$doy")"
+
+# Print version information
+# Globals: VERSION
+# Arguments: none
+# Outputs: version string to STDOUT
+# Returns: none
+version() {
+  printf "%s\n" "$VERSION"
+}
+
+# Check if YouTube video exists
+# Globals: none
+# Arguments: video_id
+# Outputs: none
+# Returns: 0 if video exists, 1 otherwise
+check_video_exists() {
+  local video_id="$1"
+  local url="https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${video_id}&format=json"
+  local http_status
+
+  http_status=$(curl -s -o /dev/null -w "%{http_code}" "$url")
+  [[ "$http_status" == "200" ]]
+}
+
+# Validate script inputs
+# Globals: none
+# Arguments: vid caption
+# Outputs: error messages to STDERR
+# Returns: 0 if valid, 1 otherwise
+validate_inputs() {
+  if ! validate_vid "$1"; then
+    echo "Error: Invalid YouTube video ID format: '$1'" >&2
+    echo "       YouTube video IDs should be 11 characters long" >&2
+    return 1
+  fi
+
+  if ! validate_caption "$2"; then
+    echo "Error: Invalid caption format: '$2'" >&2
+    return 1
+  fi
+
+  if ! check_video_exists "$1"; then
+    echo "Error: No video found with ID: '$1'" >&2
+    echo "       Please verify the video exists at https://youtu.be/$1" >&2
+    return 1
+  fi
+  return 0
+}
+
+# Generate all required files for new video
+# Globals: COMPACT_FILE VIDEOS_FILE YEAR
+# Arguments: vid caption doy
+# Outputs: status messages to STDOUT/STDERR
+# Returns: 0 on success, 1 on failure
+generate_files() {
+  local vid="$1"
+  local caption="$2"
+  local doy="$3"
+  local videourl="https://youtu.be/${vid}"
+  local month monthmd fname formatdt md
+
+  month="$(mfromdoy "${doy#0}")"
   fname="${month}/Day$(printf "%03d" "${doy#0}").md"
-  formatdt="$(datefromdoy "$doy")"
-  echo "## $formatdt" >| "$fname"
+  formatdt="$(datefromdoy "${doy#0}")"
+  monthmd="${month}${YEAR}.md"
+
+  md="$("${SCRIPT_DIR}/genvidthmd" "$vid" "$videourl" "$caption" "$doy")"
+
+  if [[ -f "$fname" ]] && ! mv "$fname" "${fname}.bak"; then
+    echo "Warning: Failed to backup ${fname}" >&2
+  fi
+
   {
+    echo "## $formatdt"
+    echo
+    echo "### $caption"
     echo
     echo "$md"
-  } >> "$fname"
+  } >| "$fname"
 
-  basename -- "$fname" >> "${month}/compact.txt"
-  monthmd="${month}${year}.md"
-  ./compact "$month" >| "$monthmd" \
-    && markdown-toc -i "$monthmd"
-  echo "$vid" >> videos.txt
-  echo "$fname generated for $vid."
-else
-  echo "Unable to find or generate video thumbnail. Video may not exist."
+  if ! cp "${month}/${COMPACT_FILE}" "${month}/${COMPACT_FILE}.bak"; then
+    echo "Warning: Failed to backup compact file" >&2
+  fi
+
+  basename -- "$fname" >> "${month}/${COMPACT_FILE}"
+
+  if "${SCRIPT_DIR}/compact" "$month" >| "$monthmd"; then
+    markdown-toc-gen update "$monthmd" &> /dev/null
+    sed -i '/\S/,$!d' "$monthmd"
+    printf "%s\n" "$vid" >> "$VIDEOS_FILE"
+    echo "Successfully added video $vid"
+    return 0
+  else
+    echo "Error: Failed to generate $monthmd" >&2
+    mv "${month}/${COMPACT_FILE}.bak" "${month}/${COMPACT_FILE}"
+    return 1
+  fi
+}
+
+# Simulate adding a video (dry run)
+# Globals: none
+# Arguments: vid caption doy
+# Outputs: simulation output to STDOUT
+# Returns: none
+dry_run() {
+  local vid="$1"
+  local caption="$2"
+  local doy="$3"
+  local videourl="https://youtu.be/${vid}"
+  local month fname formatdt monthmd
+
+  month="$(mfromdoy "$doy#0")"
+  fname="${month}/Day$(printf "%03d" "${doy#0}").md"
+  formatdt="$(datefromdoy "${doy#0}")"
+  monthmd="${month}${YEAR}.md"
+
+  cat << EOF
+DRY RUN: Would execute the following actions:
+- Generate overlay for video $vid
+- Create file $fname with contents:
+## $formatdt
+
+### $caption
+
+$("${SCRIPT_DIR}/genvidthmd" "$vid" "$videourl" "$caption" "$doy")
+
+- Append to ${month}/${COMPACT_FILE} and $VIDEOS_FILE
+- Generate $monthmd with table of contents
+EOF
+}
+
+# Main function
+# Globals: COMPACT_FILE VIDEOS_FILE
+# Arguments: command line arguments
+# Outputs: various status messages
+# Returns: 0 on success, non-zero on failure
+main() {
+  local dry_run=false
+  local debug=false
+  local vid caption
+
+  while [[ $# -gt 0 ]]; do
+    case "$1" in
+      -n | --dry-run)
+        dry_run=true
+        shift
+        ;;
+      -d | --debug)
+        debug=true
+        shift
+        ;;
+      -v | --version)
+        version
+        exit 0
+        ;;
+      *) break ;;
+    esac
+  done
+
+  $debug && set -x
+
+  if [[ $# -ne 2 ]]; then
+    usage
+  fi
+
+  vid="$1"
+  caption="$2"
+
+  if ! validate_inputs "$vid" "$caption"; then
+    exit 1
+  fi
+
+  checkinternet || exit 1
+
+  local doy
+  doy=$(("$(wc -l < "$VIDEOS_FILE")" + 1))
+
+  if $dry_run; then
+    dry_run "$vid" "$caption" "$doy"
+    exit 0
+  fi
+
+  if ! "${SCRIPT_DIR}/genoverlay" "$vid" "$doy"; then
+    echo "Error: Failed to generate overlay for video $vid" >&2
+    exit 1
+  fi
+
+  generate_files "$vid" "$caption" "$doy"
+}
+
+######################################################################
+# Main script execution
+######################################################################
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+  # Resolve script directory
+  if command -v realpath > /dev/null 2>&1; then
+    SCRIPT_DIR=$(dirname "$(realpath "$0")")
+  else
+    SCRIPT_DIR=$(cd -- "$(dirname -- "$0")" && pwd -P)
+  fi
+
+  # Source required libraries
+  source "${SCRIPT_DIR}/require.sh"
+  source "${SCRIPT_DIR}/internet.sh"
+  source "${SCRIPT_DIR}/vidmd.sh"
+
+  readonly YEAR_VAR="$(getroot)_YEAR"
+  # Check requirements
+  require_vars YOUTUBE_API_KEY GITHUB_USERNAME "$YEAR_VAR"
+  require_commands sed basename date markdown-toc
+  readonly YEAR="${!YEAR_VAR}"
+
+  main "$@"
 fi
